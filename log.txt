@@ -2304,959 +2304,854 @@ IWAD230612371396[12, 10752, 'PLAYPAL']
 [12367300, 4096, 'COMP01']
 [0, 0, 'F2_END']
 [0, 0, 'F_END']
-64 160
-0 160
-0 192
-64 192
-128 192
-192 192
-0 32
-64 32
-64 32
-192 32
-128 192
-160 192
-160 224
-128 224
-160 192
-192 192
-192 224
-160 224
-128 0
-128 224
-160 224
-160 0
-192 0
-160 0
-160 224
-192 224
-64 64
-64 224
-64 128
-64 192
-64 224
-96 128
-96 224
-96 224
-96 64
-96 128
-192 128
-64 128
-200 192
-192 192
-192 192
-248 160
-96 192
-136 96
-192 224
-192 224
-0 0
-0 24
-0 168
-0 192
-168 224
-168 224
-240 168
-240 24
-240 0
-192 128
-128 128
-128 64
-192 64
-240 192
-128 64
-160 64
-192 64
-224 64
-0 64
-32 64
-64 64
-64 128
-32 128
-0 128
-224 128
-192 128
-160 128
-128 128
-64 0
-64 192
-48 192
-192 0
-192 192
-48 0
-0 0
-192 32
-192 160
-0 192
-128 208
-128 192
-0 208
-0 240
-128 0
-128 240
-176 32
-176 160
-176 208
-176 240
-160 240
-64 64
-160 208
-64 128
-64 0
-64 192
-128 192
-0 64
-0 128
-128 0
-128 64
-128 128
-168 192
-168 0
-0 192
-64 192
-64 0
-0 0
-0 192
-64 192
-64 0
-0 0
-224 32
-104 224
-192 0
-192 128
-0 128
-0 0
-16 0
-16 128
-128 0
-128 128
-176 192
-184 96
-192 64
-192 64
-64 192
-128 152
-240 160
-136 224
-104 224
-248 184
-80 56
-16 176
-248 136
-8 200
-192 32
-64 32
-216 0
-192 0
-128 160
-64 160
-64 192
-232 192
-232 128
-192 24
-192 160
-192 0
-192 224
-176 224
-232 32
-64 0
-40 224
-128 48
-0 96
-208 8
-168 128
-160 0
-192 224
-0 192
-128 192
-0 96
-128 64
-32 32
-24 16
-144 152
-80 152
-240 88
-160 160
-128 160
-224 160
-0 160
-128 64
-128 32
-128 0
-0 32
-0 64
-0 0
-0 224
-0 192
-128 224
-128 192
-192 0
-64 64
-192 128
-64 128
-64 0
-64 64
-64 192
-32 64
-32 192
-0 64
-0 192
-224 64
-224 192
-192 64
-192 192
-128 64
-160 192
-72 48
-128 176
-96 64
-96 192
-128 192
-128 96
-192 192
-192 192
-112 176
-56 48
-128 176
-0 176
-192 16
-144 160
-72 176
-120 64
-192 152
-224 64
-128 216
-176 216
-192 216
-128 224
-0 224
-128 224
-0 224
-40 192
-96 192
-96 224
-32 224
-32 192
-88 192
-32 0
-32 224
-88 224
-88 0
-40 0
-40 224
-96 224
-96 0
-72 192
-56 0
-56 192
-72 0
-72 32
-72 160
-56 32
-56 160
-0 64
-0 64
-128 64
-128 64
-0 0
-128 0
-224 0
-160 0
-160 232
-224 232
-224 216
-224 192
-160 192
-160 216
-32 192
-96 192
-32 0
-96 0
-96 64
-96 128
-128 80
-0 80
-128 64
-0 64
-208 16
-176 16
-176 8
-208 8
-208 24
-176 24
-176 16
-208 16
-16 64
-48 64
-64 80
-64 112
-48 128
-16 128
-0 112
-0 80
-128 192
-64 192
-64 192
-64 192
-128 192
-0 192
-0 64
-192 64
-128 64
-128 0
-64 0
-128 0
-192 0
-0 0
-128 192
-192 192
-128 0
-64 0
-64 64
-128 64
-192 128
-192 64
-216 128
-192 0
-192 0
-192 64
-0 64
-0 0
-128 216
-128 168
-192 40
-152 64
-64 224
-32 224
-32 32
-64 32
-64 0
-96 0
-128 0
-160 0
-0 0
-0 0
-160 0
-128 0
-96 0
-64 0
-192 192
-192 0
-0 0
-0 192
-200 8
-248 8
-248 184
-200 184
-248 248
-200 248
-200 72
-248 72
-192 192
-0 128
-128 128
-128 96
-0 96
-32 192
-144 64
-192 0
-24 248
-232 128
-232 96
-40 0
-216 0
-216 128
-40 128
-128 136
-0 136
-192 0
-96 192
-0 192
-160 32
-0 0
-32 64
-224 32
-224 192
-64 64
-96 32
-96 192
-224 64
-168 40
-0 192
-128 40
-32 192
-248 32
-88 176
-208 0
-208 192
-64 192
-64 64
-96 192
-96 64
-128 192
-128 152
-128 192
-128 32
-128 192
-192 160
-128 248
-128 8
-128 72
-200 192
-192 248
-192 72
-248 64
-0 248
-248 64
-200 64
-192 8
-192 184
-248 0
-0 184
-200 0
-200 0
-128 224
-200 224
-128 192
-128 32
-200 32
-128 0
-64 74
-216 192
-0 128
-64 64
-0 64
-160 128
-160 64
-0 88
-0 198
-128 221
-128 32
-128 160
-128 208
-128 227
-0 251
-176 9
-144 142
-128 171
-170 214
-25 239
-126 88
-184 10
-231 214
-192 32
-192 170
-143 180
-71 168
-17 133
-228 17
-96 38
-154 184
-88 40
-32 192
-32 0
-32 64
-192 151
-149 192
-128 0
-128 192
-32 64
-128 224
-88 64
-0 192
-0 8
-128 8
-208 64
-128 16
-32 24
-96 24
-208 0
-96 16
-216 224
-131 176
-0 1
-1 2
-3 0
-4 3
-2 5
-6 4
-5 7
-8 6
-7 9
-10 11
-11 12
-12 13
-13 10
-14 15
-15 16
-16 17
-17 14
-18 19
-19 20
-20 21
-21 18
-22 23
-23 24
-24 25
-25 22
-26 27
-28 26
-29 30
-30 28
-31 32
-33 34
-26 34
-33 27
-31 28
-30 32
-34 31
-32 35
-14 11
-27 15
-22 30
-36 37
-37 38
-38 39
-35 40
-41 42
-43 41
-3 2
-20 24
-17 12
-12 20
-13 19
-21 23
-9 44
-45 36
-45 44
-46 47
-48 49
-49 50
-50 45
-44 51
-51 46
-52 53
-47 53
-52 48
-53 54
-54 55
-55 56
-57 58
-59 52
-58 59
-60 61
-61 62
-62 63
-63 64
-64 65
-65 66
-66 67
-67 68
-68 69
-69 70
-70 71
-71 72
-72 73
-61 72
-62 71
-63 70
-64 69
-65 68
-60 73
-73 74
-74 57
-56 75
-75 60
-75 76
-76 77
-78 79
-79 74
-80 81
-82 83
-84 85
-83 86
-87 80
-88 89
-81 90
-91 82
-86 92
-92 91
-90 93
-93 87
-89 94
-94 95
-96 84
-97 96
-78 77
-88 80
-87 89
-83 85
-84 86
-81 82
-91 90
-98 97
-95 99
-99 100
-100 101
-101 102
-102 103
-103 98
-99 104
-104 105
-105 98
-85 106
-106 78
-77 107
-107 88
-108 109
-109 110
-110 111
-111 108
-112 113
-113 114
-114 115
-115 112
-39 116
-117 29
-118 117
-116 119
-29 39
-119 118
-120 121
-122 123
-121 118
-119 120
-120 123
-122 121
-124 122
-123 125
-126 127
-127 128
-129 43
-130 131
-132 133
-133 134
-134 135
-135 136
-136 137
-137 138
-138 139
-139 132
-140 141
-142 143
-143 144
-145 146
-147 148
-149 150
-151 152
-153 126
-152 153
-148 154
-155 154
-156 157
-158 156
-159 160
-161 158
-160 155
-162 163
-164 151
-163 165
-166 164
-140 144
-152 157
-157 163
-149 147
-157 151
-167 159
-162 167
-168 162
-169 170
-170 171
-171 168
-128 172
-172 173
-174 129
-175 174
-176 177
-177 178
-179 180
-181 179
-182 181
-183 182
-178 184
-184 185
-186 187
-173 175
-180 176
-179 177
-181 178
-182 184
-183 185
-186 188
-189 190
-191 192
-193 194
-195 196
-197 198
-199 200
-201 202
-203 204
-203 201
-202 204
-201 199
-199 197
-197 195
-195 193
-193 191
-192 194
-194 196
-196 198
-198 200
-200 202
-191 205
-206 192
-207 206
-205 166
-207 166
-205 206
-208 207
-126 209
-209 210
-210 42
-210 129
-128 209
-204 211
-211 190
-189 212
-212 203
-185 213
-213 188
-187 214
-214 183
-149 161
-146 215
-215 140
-144 216
-216 147
-217 169
-169 218
-218 168
-219 220
-220 221
-221 222
-222 223
-152 223
-222 153
-223 149
-224 225
-226 227
-227 228
-229 230
-231 232
-233 224
-234 235
-235 236
-236 237
-238 239
-239 240
-240 241
-228 242
-242 229
-237 243
-243 234
-232 244
-244 233
-241 245
-245 238
-245 246
-246 247
-247 242
-248 243
-244 249
-249 248
-250 251
-252 253
-251 254
-255 252
-229 232
-234 241
-165 208
-253 226
-225 250
-238 228
-233 237
-252 251
-254 0
-1 255
-2 1
-0 3
-3 4
-4 5
-6 7
-7 2
-7 4
-3 2
-5 8
-9 6
-8 10
-11 12
-12 13
-13 9
-10 11
-6 5
-14 208
-165 15
-230 16
-16 14
-15 17
-17 231
-15 14
-16 17
-18 19
-20 21
-21 18
-19 20
-0 1
-22 23
-24 25
-25 22
-23 24
-150 145
-26 27
-27 28
-28 29
-29 30
-30 31
-31 32
-32 33
-33 26
-34 35
-35 36
-37 38
-39 40
-40 41
-42 43
-44 45
-45 46
-46 47
-47 39
-36 44
-34 48
-48 49
-49 41
-50 51
-51 52
-52 37
-42 53
-54 55
-141 56
-57 142
-56 54
-124 125
-57 54
-58 59
-59 60
-60 61
-61 58
-38 62
-62 124
-125 63
-63 34
-41 64
-64 57
-55 65
-65 42
-66 67
-67 68
-68 69
-69 70
-70 71
-71 72
-72 73
-73 74
-74 75
-75 76
-76 77
-77 78
-78 79
-79 66
-71 78
-72 77
-73 76
-80 81
-81 82
-82 83
-83 80
-84 85
-85 86
-86 87
-87 84
-88 89
-89 90
-90 91
-91 88
-141 143
-92 93
-94 95
-96 97
-93 96
-218 98
-98 99
-97 100
-100 168
-93 101
-101 94
-95 102
-102 96
-190 103
-103 104
-104 186
-188 105
-105 106
-106 189
-173 107
-107 176
-180 108
-108 175
-99 109
-110 111
-112 110
-113 114
-114 115
-115 116
-116 117
-118 112
-119 118
-120 119
-117 121
-122 120
-121 123
-124 122
-154 217
-109 92
-113 111
-154 125
-125 124
-123 126
-126 217
-109 127
-127 113
-111 128
-128 92
-27 129
-130 8
-129 130
-129 131
-132 130
-42 132
-131 33
-132 131
-43 50
-40 133
-133 130
-131 134
-134 219
-43 134
-133 50
-50 53
-53 38
+(1088,-3680)
+(1024,-3680)
+(1024,-3648)
+(1088,-3648)
+(1152,-3648)
+(960,-3648)
+(1280,-3552)
+(832,-3552)
+(1344,-3552)
+(704,-3552)
+(896,-3392)
+(928,-3392)
+(928,-3360)
+(896,-3360)
+(1184,-3392)
+(1216,-3392)
+(1216,-3360)
+(1184,-3360)
+(896,-3072)
+(896,-3104)
+(928,-3104)
+(928,-3072)
+(1216,-3072)
+(1184,-3072)
+(1184,-3104)
+(1216,-3104)
+(1344,-3264)
+(1344,-3360)
+(1344,-3200)
+(1344,-2880)
+(1344,-3104)
+(1376,-3200)
+(1376,-3104)
+(1376,-3360)
+(1376,-3264)
+(1376,-2944)
+(704,-2944)
+(832,-2944)
+(968,-2880)
+(1216,-2880)
+(1472,-2880)
+(1528,-3680)
+(1376,-3648)
+(1672,-3744)
+(704,-3360)
+(704,-3104)
+(512,-3328)
+(512,-3304)
+(512,-3160)
+(512,-3136)
+(680,-3104)
+(680,-3360)
+(496,-3160)
+(496,-3304)
+(496,-3328)
+(448,-3456)
+(128,-3456)
+(128,-3008)
+(448,-3008)
+(496,-3136)
+(128,-3264)
+(160,-3264)
+(192,-3264)
+(224,-3264)
+(256,-3264)
+(288,-3264)
+(320,-3264)
+(320,-3200)
+(288,-3200)
+(256,-3200)
+(224,-3200)
+(192,-3200)
+(160,-3200)
+(128,-3200)
+(64,-3072)
+(64,-3392)
+(48,-3392)
+(-64,-3328)
+(-64,-3136)
+(48,-3072)
+(-256,-3328)
+(-320,-3296)
+(-320,-3168)
+(-256,-3136)
+(-128,-3120)
+(-128,-3136)
+(-256,-3120)
+(-256,-3344)
+(-128,-3328)
+(-128,-3344)
+(-336,-3296)
+(-336,-3168)
+(-336,-3120)
+(-336,-3344)
+(-96,-3344)
+(64,-3520)
+(-96,-3120)
+(64,-2944)
+(64,-2816)
+(64,-3648)
+(-640,-3648)
+(-768,-3520)
+(-768,-2944)
+(-640,-2816)
+(-640,-3520)
+(-640,-2944)
+(-88,-3136)
+(-88,-3328)
+(256,-3136)
+(320,-3136)
+(320,-3072)
+(256,-3072)
+(256,-3392)
+(320,-3392)
+(320,-3328)
+(256,-3328)
+(1248,-2528)
+(1384,-2592)
+(1472,-2560)
+(1472,-2432)
+(1536,-2432)
+(1536,-2560)
+(1552,-2560)
+(1552,-2432)
+(1664,-2560)
+(1664,-2432)
+(2736,-3648)
+(2488,-3744)
+(2240,-3776)
+(1984,-3776)
+(1856,-2880)
+(1920,-2920)
+(1520,-3168)
+(1672,-3104)
+(1896,-3104)
+(2040,-3144)
+(2128,-3272)
+(2064,-3408)
+(1784,-3448)
+(1544,-3384)
+(2752,-2784)
+(2624,-2784)
+(2520,-2560)
+(2752,-2560)
+(2944,-2656)
+(2880,-2912)
+(2880,-2880)
+(3048,-2880)
+(3048,-2944)
+(2752,-3048)
+(2752,-2912)
+(2752,-3584)
+(2752,-3360)
+(2736,-3360)
+(3304,-3040)
+(3136,-3072)
+(3112,-3360)
+(2944,-3536)
+(2816,-3232)
+(3280,-3320)
+(2984,-3200)
+(2976,-3072)
+(3264,-3616)
+(3072,-3648)
+(2944,-3648)
+(3072,-4000)
+(2944,-3776)
+(3104,-3552)
+(3352,-3568)
+(3472,-3432)
+(3408,-3432)
+(3312,-3496)
+(2208,-3680)
+(2176,-3680)
+(2016,-3680)
+(2048,-3680)
+(2176,-3776)
+(2176,-3808)
+(2176,-3840)
+(2048,-3808)
+(2048,-3776)
+(2048,-3840)
+(2048,-3872)
+(2048,-3904)
+(2176,-3872)
+(2176,-3904)
+(2240,-4096)
+(2112,-4032)
+(2240,-3968)
+(2368,-3968)
+(2368,-4096)
+(2880,-3776)
+(2880,-3904)
+(2848,-3776)
+(2848,-3904)
+(2816,-3776)
+(2816,-3904)
+(2784,-3776)
+(2784,-3904)
+(2752,-3776)
+(2752,-3904)
+(2688,-3776)
+(2720,-3904)
+(2632,-3792)
+(2688,-3920)
+(2912,-3776)
+(2912,-3904)
+(2944,-3904)
+(2944,-4000)
+(2240,-3648)
+(1984,-3648)
+(2672,-3920)
+(2616,-3792)
+(2176,-3920)
+(2048,-3920)
+(2752,-2800)
+(2960,-2656)
+(3400,-3152)
+(3448,-3520)
+(2240,-2920)
+(2272,-3008)
+(2432,-3112)
+(2736,-3112)
+(2752,-3112)
+(3200,-4128)
+(3328,-4128)
+(2688,-4128)
+(2816,-4128)
+(2856,-4160)
+(2912,-4160)
+(2912,-4128)
+(3104,-4128)
+(3104,-4160)
+(3160,-4160)
+(3104,-4352)
+(3104,-4384)
+(3160,-4384)
+(3160,-4352)
+(2856,-4352)
+(2856,-4384)
+(2912,-4384)
+(2912,-4352)
+(2888,-4160)
+(3128,-4352)
+(3128,-4160)
+(2888,-4352)
+(2888,-4320)
+(2888,-4192)
+(3128,-4320)
+(3128,-4192)
+(3328,-4544)
+(3072,-4544)
+(2944,-4544)
+(2688,-4544)
+(3072,-4608)
+(2944,-4608)
+(3040,-4608)
+(2976,-4608)
+(2976,-4632)
+(3040,-4632)
+(3040,-4648)
+(3040,-4672)
+(2976,-4672)
+(2976,-4648)
+(3104,-4672)
+(2912,-4672)
+(3104,-4864)
+(2912,-4864)
+(2912,-4800)
+(2912,-4736)
+(2944,-4016)
+(3072,-4016)
+(2944,-4032)
+(3072,-4032)
+(3024,-4592)
+(2992,-4592)
+(2992,-4600)
+(3024,-4600)
+(3024,-4840)
+(2992,-4840)
+(2992,-4848)
+(3024,-4848)
+(-240,-3264)
+(-208,-3264)
+(-192,-3248)
+(-192,-3216)
+(-208,-3200)
+(-240,-3200)
+(-256,-3216)
+(-256,-3248)
+(1664,-2368)
+(1600,-2368)
+(1600,-2112)
+(1600,-2624)
+(1664,-2624)
+(2560,-2112)
+(2560,-2496)
+(2496,-2496)
+(2176,-2752)
+(2176,-2816)
+(1600,-2048)
+(1664,-2048)
+(2496,-2048)
+(2560,-2048)
+(1664,-2112)
+(2496,-2112)
+(1664,-2816)
+(1600,-2816)
+(1600,-2752)
+(1664,-2752)
+(2496,-2688)
+(2496,-2752)
+(2520,-2688)
+(2496,-2560)
+(1984,-2304)
+(1984,-2240)
+(1792,-2240)
+(1792,-2304)
+(1664,-2600)
+(1664,-2392)
+(2496,-2520)
+(2200,-2752)
+(2112,-2592)
+(2336,-2592)
+(2336,-2272)
+(2112,-2272)
+(2112,-2304)
+(2144,-2304)
+(2176,-2304)
+(2208,-2304)
+(2304,-2304)
+(2304,-2560)
+(2208,-2560)
+(2176,-2560)
+(2144,-2560)
+(2112,-2560)
+(1984,-2624)
+(1984,-2560)
+(1792,-2560)
+(1792,-2624)
+(1992,-2552)
+(1784,-2552)
+(1784,-2632)
+(1992,-2632)
+(1784,-2312)
+(1992,-2312)
+(1992,-2232)
+(1784,-2232)
+(3520,-3904)
+(3328,-3968)
+(3200,-3968)
+(3200,-3744)
+(3328,-3744)
+(3360,-3648)
+(3472,-3520)
+(3520,-3584)
+(3352,-3592)
+(3304,-3968)
+(3304,-3744)
+(2344,-4096)
+(2264,-4096)
+(2264,-3968)
+(2344,-3968)
+(2176,-3704)
+(2048,-3704)
+(3520,-3840)
+(3680,-3904)
+(3584,-3904)
+(3744,-3808)
+(3584,-3840)
+(3616,-3776)
+(3552,-3552)
+(3552,-3392)
+(3648,-3264)
+(3680,-3552)
+(3680,-3392)
+(3808,-3264)
+(3496,-3032)
+(3584,-2880)
+(3456,-3032)
+(3360,-2880)
+(3320,-3040)
+(3416,-3152)
+(3536,-3840)
+(3536,-3904)
+(1344,-3392)
+(1344,-3520)
+(1376,-3392)
+(1376,-3520)
+(1664,-2880)
+(2176,-2920)
+(2176,-2880)
+(2176,-4064)
+(2176,-3648)
+(1984,-3680)
+(1664,-2312)
+(1664,-2552)
+(1664,-2232)
+(1992,-2112)
+(1984,-2312)
+(1984,-2232)
+(1784,-2240)
+(1792,-2312)
+(1784,-2752)
+(1992,-2752)
+(1984,-2552)
+(1984,-2632)
+(1784,-2560)
+(1792,-2632)
+(1992,-2560)
+(1992,-2304)
+(2176,-2592)
+(1992,-2592)
+(2176,-2112)
+(2176,-2272)
+(1992,-2272)
+(2176,-2048)
+(1344,-2486)
+(472,-3392)
+(256,-3456)
+(320,-3008)
+(256,-3008)
+(160,-3456)
+(160,-3008)
+(-768,-3496)
+(-256,-2874)
+(-128,-2851)
+(-640,-3296)
+(-640,-3168)
+(-640,-3120)
+(-128,-3613)
+(-256,-3589)
+(-336,-3575)
+(2960,-2930)
+(2944,-3669)
+(3242,-3370)
+(3353,-3601)
+(3454,-3496)
+(3512,-3574)
+(3047,-3626)
+(2752,-3296)
+(3008,-2902)
+(3215,-3404)
+(2887,-3160)
+(3345,-2939)
+(3556,-3567)
+(3680,-3546)
+(3738,-3144)
+(3672,-3032)
+(2336,-2112)
+(2336,-2560)
+(2336,-2752)
+(2496,-2665)
+(2197,-3648)
+(2688,-4352)
+(2688,-4160)
+(3104,-4544)
+(2688,-4384)
+(3160,-4544)
+(3328,-4160)
+(3072,-4600)
+(2944,-4600)
+(3024,-4544)
+(2944,-4592)
+(3104,-4840)
+(2912,-4840)
+(3024,-4864)
+(2912,-4848)
+(2776,-4128)
+(2435,-3920)
+{'xPos': 1056, 'yPos': -3616, 'angle': 90, 'type': 1, 'flags': 7}
+{'xPos': 1008, 'yPos': -3600, 'angle': 90, 'type': 2, 'flags': 7}
+{'xPos': 1104, 'yPos': -3600, 'angle': 90, 'type': 3, 'flags': 7}
+{'xPos': 960, 'yPos': -3600, 'angle': 90, 'type': 4, 'flags': 7}
+{'xPos': 288, 'yPos': -3104, 'angle': 90, 'type': 48, 'flags': 7}
+{'xPos': 288, 'yPos': -3360, 'angle': 90, 'type': 48, 'flags': 7}
+{'xPos': 528, 'yPos': -3312, 'angle': 90, 'type': 2028, 'flags': 7}
+{'xPos': 528, 'yPos': -3152, 'angle': 90, 'type': 2028, 'flags': 7}
+{'xPos': 3440, 'yPos': -3472, 'angle': 135, 'type': 3001, 'flags': 15}
+{'xPos': 3360, 'yPos': -3504, 'angle': 135, 'type': 3001, 'flags': 12}
+{'xPos': 2912, 'yPos': -2816, 'angle': 90, 'type': 3004, 'flags': 15}
+{'xPos': 3056, 'yPos': -3584, 'angle': 90, 'type': 3004, 'flags': 14}
+{'xPos': 3136, 'yPos': -3408, 'angle': 90, 'type': 3004, 'flags': 12}
+{'xPos': 1824, 'yPos': -3280, 'angle': 180, 'type': 2019, 'flags': 7}
+{'xPos': 2736, 'yPos': -4256, 'angle': 0, 'type': 3004, 'flags': 12}
+{'xPos': 3280, 'yPos': -4256, 'angle': 180, 'type': 3004, 'flags': 12}
+{'xPos': 3008, 'yPos': -4416, 'angle': 90, 'type': 3001, 'flags': 15}
+{'xPos': 3280, 'yPos': -4304, 'angle': 180, 'type': 3004, 'flags': 12}
+{'xPos': 2736, 'yPos': -4304, 'angle': 0, 'type': 3004, 'flags': 12}
+{'xPos': 2880, 'yPos': -4416, 'angle': 0, 'type': 2012, 'flags': 15}
+{'xPos': 2736, 'yPos': -4160, 'angle': 0, 'type': 2007, 'flags': 15}
+{'xPos': 3280, 'yPos': -4160, 'angle': 0, 'type': 2007, 'flags': 15}
+{'xPos': 2784, 'yPos': -2944, 'angle': 90, 'type': 2008, 'flags': 23}
+{'xPos': 144, 'yPos': -3136, 'angle': 90, 'type': 2014, 'flags': 7}
+{'xPos': 144, 'yPos': -3328, 'angle': 90, 'type': 2014, 'flags': 7}
+{'xPos': 96, 'yPos': -3392, 'angle': 90, 'type': 2014, 'flags': 7}
+{'xPos': 96, 'yPos': -3072, 'angle': 90, 'type': 2014, 'flags': 7}
+{'xPos': 432, 'yPos': -3040, 'angle': 90, 'type': 2015, 'flags': 7}
+{'xPos': 432, 'yPos': -3424, 'angle': 90, 'type': 2015, 'flags': 7}
+{'xPos': 32, 'yPos': -3232, 'angle': 90, 'type': 2015, 'flags': 7}
+{'xPos': -32, 'yPos': -3232, 'angle': 90, 'type': 2015, 'flags': 7}
+{'xPos': 1312, 'yPos': -3520, 'angle': 90, 'type': 2014, 'flags': 7}
+{'xPos': 736, 'yPos': -3520, 'angle': 90, 'type': 2014, 'flags': 7}
+{'xPos': 752, 'yPos': -2992, 'angle': 90, 'type': 2015, 'flags': 7}
+{'xPos': 976, 'yPos': -2912, 'angle': 90, 'type': 2015, 'flags': 7}
+{'xPos': 1312, 'yPos': -3264, 'angle': 90, 'type': 2035, 'flags': 7}
+{'xPos': 1152, 'yPos': -2912, 'angle': 90, 'type': 2035, 'flags': 7}
+{'xPos': 864, 'yPos': -3328, 'angle': 90, 'type': 2035, 'flags': 7}
+{'xPos': 2672, 'yPos': -2752, 'angle': 90, 'type': 2014, 'flags': 7}
+{'xPos': 2752, 'yPos': -2640, 'angle': 90, 'type': 2014, 'flags': 7}
+{'xPos': 3232, 'yPos': -3040, 'angle': 90, 'type': 2028, 'flags': 7}
+{'xPos': 2800, 'yPos': -3040, 'angle': 90, 'type': 2028, 'flags': 7}
+{'xPos': 2848, 'yPos': -3584, 'angle': 90, 'type': 2008, 'flags': 7}
+{'xPos': 3008, 'yPos': -3968, 'angle': 90, 'type': 2008, 'flags': 7}
+{'xPos': 2912, 'yPos': -4176, 'angle': 180, 'type': 2028, 'flags': 15}
+{'xPos': 3104, 'yPos': -4176, 'angle': 180, 'type': 2028, 'flags': 15}
+{'xPos': 2720, 'yPos': -4352, 'angle': 180, 'type': 2028, 'flags': 15}
+{'xPos': 3296, 'yPos': -4352, 'angle': 180, 'type': 2028, 'flags': 15}
+{'xPos': 2944, 'yPos': -4320, 'angle': 180, 'type': 2035, 'flags': 15}
+{'xPos': 3184, 'yPos': -4224, 'angle': 180, 'type': 2035, 'flags': 15}
+{'xPos': 2832, 'yPos': -4240, 'angle': 180, 'type': 2035, 'flags': 15}
+{'xPos': 3184, 'yPos': -4176, 'angle': 180, 'type': 2014, 'flags': 15}
+{'xPos': 2832, 'yPos': -4176, 'angle': 180, 'type': 2014, 'flags': 15}
+{'xPos': 2736, 'yPos': -4192, 'angle': 180, 'type': 2014, 'flags': 15}
+{'xPos': 3280, 'yPos': -4192, 'angle': 180, 'type': 2014, 'flags': 12}
+{'xPos': 3280, 'yPos': -4448, 'angle': 180, 'type': 2014, 'flags': 15}
+{'xPos': 2736, 'yPos': -4448, 'angle': 180, 'type': 2015, 'flags': 15}
+{'xPos': 3072, 'yPos': -4832, 'angle': 180, 'type': 2015, 'flags': 7}
+{'xPos': 2944, 'yPos': -4832, 'angle': 180, 'type': 2015, 'flags': 7}
+{'xPos': 3072, 'yPos': -4704, 'angle': 180, 'type': 2015, 'flags': 7}
+{'xPos': 2944, 'yPos': -4704, 'angle': 180, 'type': 2015, 'flags': 7}
+{'xPos': 3088, 'yPos': -4528, 'angle': 180, 'type': 35, 'flags': 7}
+{'xPos': 2928, 'yPos': -4528, 'angle': 180, 'type': 35, 'flags': 7}
+{'xPos': 3008, 'yPos': -4816, 'angle': 90, 'type': 3001, 'flags': 12}
+{'xPos': 3072, 'yPos': -4768, 'angle': 90, 'type': 2011, 'flags': 15}
+{'xPos': 2304, 'yPos': -4032, 'angle': 90, 'type': 2012, 'flags': 15}
+{'xPos': 2176, 'yPos': -4000, 'angle': 90, 'type': 2049, 'flags': 15}
+{'xPos': 2432, 'yPos': -4000, 'angle': 90, 'type': 2048, 'flags': 15}
+{'xPos': -224, 'yPos': -3232, 'angle': 90, 'type': 2018, 'flags': 7}
+{'xPos': -288, 'yPos': -3232, 'angle': 0, 'type': 11, 'flags': 7}
+{'xPos': 1056, 'yPos': -3552, 'angle': 90, 'type': 11, 'flags': 7}
+{'xPos': 1792, 'yPos': -2944, 'angle': 270, 'type': 11, 'flags': 7}
+{'xPos': 3408, 'yPos': -3504, 'angle': 135, 'type': 11, 'flags': 7}
+{'xPos': 2784, 'yPos': -4160, 'angle': 270, 'type': 11, 'flags': 7}
+{'xPos': 1712, 'yPos': -3264, 'angle': 270, 'type': 2003, 'flags': 23}
+{'xPos': 1936, 'yPos': -3264, 'angle': 270, 'type': 2046, 'flags': 23}
+{'xPos': 1920, 'yPos': -3712, 'angle': 270, 'type': 2046, 'flags': 23}
+{'xPos': 2304, 'yPos': -3712, 'angle': 270, 'type': 2046, 'flags': 23}
+{'xPos': 3232, 'yPos': -4160, 'angle': 270, 'type': 2002, 'flags': 23}
+{'xPos': 3232, 'yPos': -4192, 'angle': 270, 'type': 2048, 'flags': 23}
+{'xPos': 2784, 'yPos': -4192, 'angle': 270, 'type': 2048, 'flags': 23}
+{'xPos': 2560, 'yPos': -3904, 'angle': 270, 'type': 2048, 'flags': 23}
+{'xPos': 3360, 'yPos': -3536, 'angle': 270, 'type': 2048, 'flags': 23}
+{'xPos': 3008, 'yPos': -4768, 'angle': 270, 'type': 2048, 'flags': 23}
+{'xPos': 1408, 'yPos': -3584, 'angle': 270, 'type': 2049, 'flags': 23}
+{'xPos': 1408, 'yPos': -3456, 'angle': 270, 'type': 2049, 'flags': 23}
+{'xPos': 1408, 'yPos': -3328, 'angle': 270, 'type': 2049, 'flags': 23}
+{'xPos': 2272, 'yPos': -2432, 'angle': 180, 'type': 3004, 'flags': 15}
+{'xPos': 2272, 'yPos': -2352, 'angle': 180, 'type': 3004, 'flags': 14}
+{'xPos': 2272, 'yPos': -2512, 'angle': 180, 'type': 9, 'flags': 12}
+{'xPos': 2464, 'yPos': -2432, 'angle': 180, 'type': 9, 'flags': 12}
+{'xPos': 2224, 'yPos': -2320, 'angle': 180, 'type': 2015, 'flags': 7}
+{'xPos': 2224, 'yPos': -2544, 'angle': 180, 'type': 2015, 'flags': 7}
+{'xPos': 2288, 'yPos': -2544, 'angle': 180, 'type': 2015, 'flags': 7}
+{'xPos': 2288, 'yPos': -2320, 'angle': 180, 'type': 2015, 'flags': 7}
+{'xPos': 1712, 'yPos': -2144, 'angle': 180, 'type': 2015, 'flags': 7}
+{'xPos': 2240, 'yPos': -2256, 'angle': 180, 'type': 2015, 'flags': 7}
+{'xPos': 3264, 'yPos': -3856, 'angle': 270, 'type': 2049, 'flags': 7}
+{'xPos': 3264, 'yPos': -3936, 'angle': 270, 'type': 2001, 'flags': 7}
+{'xPos': 3232, 'yPos': -3808, 'angle': 270, 'type': 2012, 'flags': 7}
+{'xPos': 3216, 'yPos': -3888, 'angle': 0, 'type': 9, 'flags': 12}
+{'xPos': -160, 'yPos': -3232, 'angle': 0, 'type': 9, 'flags': 12}
+{'xPos': 240, 'yPos': -3376, 'angle': 135, 'type': 9, 'flags': 12}
+{'xPos': 240, 'yPos': -3088, 'angle': 225, 'type': 9, 'flags': 12}
+{'xPos': 1696, 'yPos': -2688, 'angle': 90, 'type': 9, 'flags': 12}
+{'xPos': 1920, 'yPos': -2176, 'angle': 270, 'type': 9, 'flags': 12}
+{'xPos': 2976, 'yPos': -3264, 'angle': 90, 'type': 9, 'flags': 12}
+{'xPos': 3008, 'yPos': -3520, 'angle': 90, 'type': 9, 'flags': 12}
+{'xPos': 3008, 'yPos': -3072, 'angle': 90, 'type': 9, 'flags': 12}
+{'xPos': 2816, 'yPos': -2688, 'angle': 0, 'type': 9, 'flags': 12}
+{'xPos': 2496, 'yPos': -3968, 'angle': 0, 'type': 9, 'flags': 12}
+{'xPos': 2256, 'yPos': -4064, 'angle': 0, 'type': 9, 'flags': 4}
+{'xPos': 3072, 'yPos': -4256, 'angle': 90, 'type': 9, 'flags': 12}
+{'xPos': -192, 'yPos': -3296, 'angle': 0, 'type': 9, 'flags': 12}
+{'xPos': 1024, 'yPos': -3264, 'angle': 270, 'type': 10, 'flags': 7}
+{'xPos': 1088, 'yPos': -2944, 'angle': 270, 'type': 15, 'flags': 7}
+{'xPos': 448, 'yPos': -3328, 'angle': 270, 'type': 24, 'flags': 7}
+{'xPos': -96, 'yPos': -3296, 'angle': 270, 'type': 10, 'flags': 7}
+{'xPos': 1504, 'yPos': -2496, 'angle': 270, 'type': 15, 'flags': 7}
+{'xPos': 2240, 'yPos': -2480, 'angle': 270, 'type': 15, 'flags': 7}
+{'xPos': 2112, 'yPos': -2688, 'angle': 270, 'type': 24, 'flags': 7}
+{'xPos': 1792, 'yPos': -2144, 'angle': 270, 'type': 24, 'flags': 7}
+{'xPos': 2368, 'yPos': -2336, 'angle': 270, 'type': 24, 'flags': 7}
+{'xPos': 2800, 'yPos': -2992, 'angle': 270, 'type': 15, 'flags': 7}
+{'xPos': 3072, 'yPos': -3488, 'angle': 270, 'type': 12, 'flags': 7}
+{'xPos': 2944, 'yPos': -4256, 'angle': 270, 'type': 12, 'flags': 7}
+{'xPos': 2976, 'yPos': -3840, 'angle': 270, 'type': 24, 'flags': 7}
+{'xPos': 3264, 'yPos': -4512, 'angle': 270, 'type': 24, 'flags': 7}
+{'xPos': 2272, 'yPos': -4000, 'angle': 270, 'type': 24, 'flags': 7}
+{'xPos': 3648, 'yPos': -3648, 'angle': 0, 'type': 2049, 'flags': 7}
+{'xPos': 3616, 'yPos': -3392, 'angle': 0, 'type': 2015, 'flags': 7}
+{'xPos': 3712, 'yPos': -3264, 'angle': 0, 'type': 2015, 'flags': 7}
+{'xPos': 3472, 'yPos': -2960, 'angle': 0, 'type': 2015, 'flags': 7}
+{'xPos': 3376, 'yPos': -3024, 'angle': 0, 'type': 2015, 'flags': 7}
+{'xPos': 3568, 'yPos': -2992, 'angle': 0, 'type': 2015, 'flags': 7}
+{'xPos': 3616, 'yPos': -3088, 'angle': 0, 'type': 2015, 'flags': 7}
+{'xPos': 3664, 'yPos': -3168, 'angle': 0, 'type': 2015, 'flags': 7}
+{'xPos': 3648, 'yPos': -3840, 'angle': 0, 'type': 2015, 'flags': 7}
+{'xPos': 256, 'yPos': -3424, 'angle': 0, 'type': 2023, 'flags': 19}
+{'xPos': 800, 'yPos': -2960, 'angle': 90, 'type': 2035, 'flags': 23}
+{'xPos': 768, 'yPos': -3008, 'angle': 90, 'type': 2035, 'flags': 23}
+{'xPos': 720, 'yPos': -3040, 'angle': 90, 'type': 2035, 'flags': 23}
+{'xPos': 736, 'yPos': -2976, 'angle': 90, 'type': 2001, 'flags': 23}
+{'xPartition': 1784, 'yPartition': -3448, 'changeXPartition': -240, 'changeYPartition': 64, 'rightboxtop': -3104, 'rightboxbottom': -3448, 'rightboxleft': 1520, 'rightboxright': 2128, 'leftboxtop': -3384, 'leftboxbottom': -3448, 'leftboxleft': 1544, 'leftboxright': 1784, 'rightchildID': 32768, 'leftchildID': 32769}
+{'xPartition': 2064, 'yPartition': -3408, 'changeXPartition': -280, 'changeYPartition': -40, 'rightboxtop': -3104, 'rightboxbottom': -3448, 'rightboxleft': 1520, 'rightboxright': 2128, 'leftboxtop': -3408, 'leftboxbottom': -3448, 'leftboxleft': 1784, 'leftboxright': 2064, 'rightchildID': 0, 'leftchildID': 32770}
+{'xPartition': 2128, 'yPartition': -3272, 'changeXPartition': -64, 'changeYPartition': -136, 'rightboxtop': -3104, 'rightboxbottom': -3448, 'rightboxleft': 1520, 'rightboxright': 2128, 'leftboxtop': -3272, 'leftboxbottom': -3408, 'leftboxleft': 2064, 'leftboxright': 2128, 'rightchildID': 1, 'leftchildID': 32771}
+{'xPartition': 2040, 'yPartition': -3144, 'changeXPartition': 88, 'changeYPartition': -128, 'rightboxtop': -3104, 'rightboxbottom': -3448, 'rightboxleft': 1520, 'rightboxright': 2128, 'leftboxtop': -3144, 'leftboxbottom': -3272, 'leftboxleft': 2040, 'leftboxright': 2128, 'rightchildID': 2, 'leftchildID': 32772}
+{'xPartition': 1896, 'yPartition': -3104, 'changeXPartition': 144, 'changeYPartition': -40, 'rightboxtop': -3104, 'rightboxbottom': -3448, 'rightboxleft': 1520, 'rightboxright': 2128, 'leftboxtop': -3104, 'leftboxbottom': -3144, 'leftboxleft': 1896, 'leftboxright': 2040, 'rightchildID': 3, 'leftchildID': 32773}
+{'xPartition': 1520, 'yPartition': -3168, 'changeXPartition': 152, 'changeYPartition': 64, 'rightboxtop': -3104, 'rightboxbottom': -3448, 'rightboxleft': 1520, 'rightboxright': 2128, 'leftboxtop': -3104, 'leftboxbottom': -3168, 'leftboxleft': 1520, 'leftboxright': 1672, 'rightchildID': 4, 'leftchildID': 32774}
+{'xPartition': 1544, 'yPartition': -3384, 'changeXPartition': -24, 'changeYPartition': 216, 'rightboxtop': -3104, 'rightboxbottom': -3448, 'rightboxleft': 1520, 'rightboxright': 2128, 'leftboxtop': -3104, 'leftboxbottom': -3520, 'leftboxleft': 1376, 'leftboxright': 1544, 'rightchildID': 5, 'leftchildID': 32775}
+{'xPartition': 1920, 'yPartition': -2920, 'changeXPartition': 256, 'changeYPartition': 0, 'rightboxtop': -2920, 'rightboxbottom': -2920, 'rightboxleft': 1920, 'rightboxright': 2176, 'leftboxtop': -2880, 'leftboxbottom': -2920, 'leftboxleft': 1856, 'leftboxright': 2176, 'rightchildID': 32777, 'leftchildID': 32778}
+{'xPartition': 1856, 'yPartition': -2880, 'changeXPartition': 64, 'changeYPartition': -40, 'rightboxtop': -2880, 'rightboxbottom': -3104, 'rightboxleft': 1376, 'rightboxright': 1920, 'leftboxtop': -2880, 'leftboxbottom': -2920, 'leftboxleft': 1856, 'leftboxright': 2176, 'rightchildID': 32776, 'leftchildID': 7}
+{'xPartition': 1672, 'yPartition': -3104, 'changeXPartition': 224, 'changeYPartition': 0, 'rightboxtop': -3104, 'rightboxbottom': -3520, 'rightboxleft': 1376, 'rightboxright': 2128, 'leftboxtop': -2880, 'leftboxbottom': -3104, 'leftboxleft': 1376, 'leftboxright': 2176, 'rightchildID': 6, 'leftchildID': 8}
+{'xPartition': 1376, 'yPartition': -3360, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -3264, 'rightboxbottom': -3360, 'rightboxleft': 1344, 'rightboxright': 1376, 'leftboxtop': -3392, 'leftboxbottom': -3520, 'leftboxleft': 1344, 'leftboxright': 1376, 'rightchildID': 32779, 'leftchildID': 32780}
+{'xPartition': 1344, 'yPartition': -3264, 'changeXPartition': 32, 'changeYPartition': 0, 'rightboxtop': -3264, 'rightboxbottom': -3520, 'rightboxleft': 1344, 'rightboxright': 1376, 'leftboxtop': -3104, 'leftboxbottom': -3200, 'leftboxleft': 1344, 'leftboxright': 1376, 'rightchildID': 10, 'leftchildID': 32781}
+{'xPartition': 1376, 'yPartition': -3200, 'changeXPartition': 0, 'changeYPartition': 96, 'rightboxtop': -2880, 'rightboxbottom': -3520, 'rightboxleft': 1376, 'rightboxright': 2176, 'leftboxtop': -3104, 'leftboxbottom': -3520, 'leftboxleft': 1344, 'leftboxright': 1376, 'rightchildID': 9, 'leftchildID': 11}
+{'xPartition': 2048, 'yPartition': -3904, 'changeXPartition': 128, 'changeYPartition': 0, 'rightboxtop': -3904, 'rightboxbottom': -4064, 'rightboxleft': 2048, 'rightboxright': 2176, 'leftboxtop': -3872, 'leftboxbottom': -3904, 'leftboxleft': 2048, 'leftboxright': 2176, 'rightchildID': 32782, 'leftchildID': 32783}
+{'xPartition': 2048, 'yPartition': -3840, 'changeXPartition': 128, 'changeYPartition': 0, 'rightboxtop': -3840, 'rightboxbottom': -3872, 'rightboxleft': 2048, 'rightboxright': 2176, 'leftboxtop': -3808, 'leftboxbottom': -3840, 'leftboxleft': 2048, 'leftboxright': 2176, 'rightchildID': 32784, 'leftchildID': 32785}
+{'xPartition': 2048, 'yPartition': -3808, 'changeXPartition': 128, 'changeYPartition': 0, 'rightboxtop': -3808, 'rightboxbottom': -3872, 'rightboxleft': 2048, 'rightboxright': 2176, 'leftboxtop': -3776, 'leftboxbottom': -3808, 'leftboxleft': 2048, 'leftboxright': 2176, 'rightchildID': 14, 'leftchildID': 32786}
+{'xPartition': 2048, 'yPartition': -3872, 'changeXPartition': 128, 'changeYPartition': 0, 'rightboxtop': -3872, 'rightboxbottom': -4064, 'rightboxleft': 2048, 'rightboxright': 2176, 'leftboxtop': -3776, 'leftboxbottom': -3872, 'leftboxleft': 2048, 'leftboxright': 2176, 'rightchildID': 13, 'leftchildID': 15}
+{'xPartition': 1984, 'yPartition': -3648, 'changeXPartition': -608, 'changeYPartition': 0, 'rightboxtop': -3520, 'rightboxbottom': -3648, 'rightboxleft': 1376, 'rightboxright': 1984, 'leftboxtop': -3648, 'leftboxbottom': -3776, 'leftboxleft': 1376, 'leftboxright': 1984, 'rightchildID': 32787, 'leftchildID': 32788}
+{'xPartition': 1528, 'yPartition': -3680, 'changeXPartition': -152, 'changeYPartition': 32, 'rightboxtop': -3520, 'rightboxbottom': -3776, 'rightboxleft': 1376, 'rightboxright': 1984, 'leftboxtop': -3680, 'leftboxbottom': -3776, 'leftboxleft': 1528, 'leftboxright': 1984, 'rightchildID': 17, 'leftchildID': 32789}
+{'xPartition': 2016, 'yPartition': -3680, 'changeXPartition': -32, 'changeYPartition': -96, 'rightboxtop': -3680, 'rightboxbottom': -3776, 'rightboxleft': 1984, 'rightboxright': 2016, 'leftboxtop': -3680, 'leftboxbottom': -3776, 'leftboxleft': 2048, 'leftboxright': 2176, 'rightchildID': 32792, 'leftchildID': 32793}
+{'xPartition': 2048, 'yPartition': -3680, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -3648, 'rightboxbottom': -3680, 'rightboxleft': 1984, 'rightboxright': 2176, 'leftboxtop': -3680, 'leftboxbottom': -3776, 'leftboxleft': 1984, 'leftboxright': 2176, 'rightchildID': 32791, 'leftchildID': 19}
+{'xPartition': 2176, 'yPartition': -3648, 'changeXPartition': -192, 'changeYPartition': 0, 'rightboxtop': -3648, 'rightboxbottom': -3648, 'rightboxleft': 1984, 'rightboxright': 2176, 'leftboxtop': -3648, 'leftboxbottom': -3776, 'leftboxleft': 1984, 'leftboxright': 2176, 'rightchildID': 32790, 'leftchildID': 20}
+{'xPartition': 1984, 'yPartition': -3648, 'changeXPartition': 0, 'changeYPartition': -128, 'rightboxtop': -3520, 'rightboxbottom': -3776, 'rightboxleft': 1376, 'rightboxright': 1984, 'leftboxtop': -3648, 'leftboxbottom': -3776, 'leftboxleft': 1984, 'leftboxright': 2176, 'rightchildID': 18, 'leftchildID': 21}
+{'xPartition': 2048, 'yPartition': -3776, 'changeXPartition': 128, 'changeYPartition': 0, 'rightboxtop': -3776, 'rightboxbottom': -4064, 'rightboxleft': 2048, 'rightboxright': 2176, 'leftboxtop': -3520, 'leftboxbottom': -3776, 'leftboxleft': 1376, 'leftboxright': 2176, 'rightchildID': 16, 'leftchildID': 22}
+{'xPartition': 1376, 'yPartition': -3520, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -2880, 'rightboxbottom': -3520, 'rightboxleft': 1344, 'rightboxright': 2176, 'leftboxtop': -3520, 'leftboxbottom': -4064, 'leftboxleft': 1376, 'leftboxright': 2176, 'rightchildID': 12, 'leftchildID': 23}
+{'xPartition': 2176, 'yPartition': -2816, 'changeXPartition': -512, 'changeYPartition': 0, 'rightboxtop': -2752, 'rightboxbottom': -2816, 'rightboxleft': 1664, 'rightboxright': 2176, 'leftboxtop': -2816, 'leftboxbottom': -2880, 'leftboxleft': 1664, 'leftboxright': 2176, 'rightchildID': 32794, 'leftchildID': 32795}
+{'xPartition': 1792, 'yPartition': -2304, 'changeXPartition': 192, 'changeYPartition': 0, 'rightboxtop': -2304, 'rightboxbottom': -2312, 'rightboxleft': 1792, 'rightboxright': 1984, 'leftboxtop': -2240, 'leftboxbottom': -2304, 'leftboxleft': 1792, 'leftboxright': 1984, 'rightchildID': 32802, 'leftchildID': 32803}
+{'xPartition': 1792, 'yPartition': -2240, 'changeXPartition': 0, 'changeYPartition': -64, 'rightboxtop': -2240, 'rightboxbottom': -2312, 'rightboxleft': 1784, 'rightboxright': 1792, 'leftboxtop': -2240, 'leftboxbottom': -2312, 'leftboxleft': 1792, 'leftboxright': 1984, 'rightchildID': 32801, 'leftchildID': 26}
+{'xPartition': 1984, 'yPartition': -2240, 'changeXPartition': -192, 'changeYPartition': 0, 'rightboxtop': -2232, 'rightboxbottom': -2240, 'rightboxleft': 1784, 'rightboxright': 1984, 'leftboxtop': -2240, 'leftboxbottom': -2312, 'leftboxleft': 1784, 'leftboxright': 1984, 'rightchildID': 32800, 'leftchildID': 27}
+{'xPartition': 1984, 'yPartition': -2304, 'changeXPartition': 0, 'changeYPartition': 64, 'rightboxtop': -2232, 'rightboxbottom': -2312, 'rightboxleft': 1984, 'rightboxright': 1992, 'leftboxtop': -2232, 'leftboxbottom': -2312, 'leftboxleft': 1784, 'leftboxright': 1984, 'rightchildID': 32799, 'leftchildID': 28}
+{'xPartition': 1784, 'yPartition': -2232, 'changeXPartition': 0, 'changeYPartition': -80, 'rightboxtop': -2232, 'rightboxbottom': -2312, 'rightboxleft': 1664, 'rightboxright': 1784, 'leftboxtop': -2232, 'leftboxbottom': -2312, 'leftboxleft': 1784, 'leftboxright': 1992, 'rightchildID': 32798, 'leftchildID': 29}
+{'xPartition': 1992, 'yPartition': -2232, 'changeXPartition': -208, 'changeYPartition': 0, 'rightboxtop': -2112, 'rightboxbottom': -2232, 'rightboxleft': 1664, 'rightboxright': 1992, 'leftboxtop': -2232, 'leftboxbottom': -2312, 'leftboxleft': 1664, 'leftboxright': 1992, 'rightchildID': 32797, 'leftchildID': 30}
+{'xPartition': 1784, 'yPartition': -2312, 'changeXPartition': 208, 'changeYPartition': 0, 'rightboxtop': -2312, 'rightboxbottom': -2552, 'rightboxleft': 1664, 'rightboxright': 1992, 'leftboxtop': -2112, 'leftboxbottom': -2312, 'leftboxleft': 1664, 'leftboxright': 1992, 'rightchildID': 32796, 'leftchildID': 31}
+{'xPartition': 1792, 'yPartition': -2624, 'changeXPartition': 192, 'changeYPartition': 0, 'rightboxtop': -2624, 'rightboxbottom': -2632, 'rightboxleft': 1792, 'rightboxright': 1984, 'leftboxtop': -2560, 'leftboxbottom': -2624, 'leftboxleft': 1792, 'leftboxright': 1984, 'rightchildID': 32809, 'leftchildID': 32810}
+{'xPartition': 1792, 'yPartition': -2560, 'changeXPartition': 0, 'changeYPartition': -64, 'rightboxtop': -2560, 'rightboxbottom': -2632, 'rightboxleft': 1784, 'rightboxright': 1792, 'leftboxtop': -2560, 'leftboxbottom': -2632, 'leftboxleft': 1792, 'leftboxright': 1984, 'rightchildID': 32808, 'leftchildID': 33}
+{'xPartition': 1984, 'yPartition': -2560, 'changeXPartition': -192, 'changeYPartition': 0, 'rightboxtop': -2552, 'rightboxbottom': -2560, 'rightboxleft': 1784, 'rightboxright': 1984, 'leftboxtop': -2560, 'leftboxbottom': -2632, 'leftboxleft': 1784, 'leftboxright': 1984, 'rightchildID': 32807, 'leftchildID': 34}
+{'xPartition': 1984, 'yPartition': -2624, 'changeXPartition': 0, 'changeYPartition': 64, 'rightboxtop': -2552, 'rightboxbottom': -2632, 'rightboxleft': 1984, 'rightboxright': 1992, 'leftboxtop': -2552, 'leftboxbottom': -2632, 'leftboxleft': 1784, 'leftboxright': 1984, 'rightchildID': 32806, 'leftchildID': 35}
+{'xPartition': 1784, 'yPartition': -2632, 'changeXPartition': 208, 'changeYPartition': 0, 'rightboxtop': -2632, 'rightboxbottom': -2752, 'rightboxleft': 1784, 'rightboxright': 1992, 'leftboxtop': -2552, 'leftboxbottom': -2632, 'leftboxleft': 1784, 'leftboxright': 1992, 'rightchildID': 32805, 'leftchildID': 36}
+{'xPartition': 1784, 'yPartition': -2552, 'changeXPartition': 0, 'changeYPartition': -80, 'rightboxtop': -2552, 'rightboxbottom': -2752, 'rightboxleft': 1664, 'rightboxright': 1784, 'leftboxtop': -2552, 'leftboxbottom': -2752, 'leftboxleft': 1784, 'leftboxright': 1992, 'rightchildID': 32804, 'leftchildID': 37}
+{'xPartition': 1992, 'yPartition': -2552, 'changeXPartition': -208, 'changeYPartition': 0, 'rightboxtop': -2112, 'rightboxbottom': -2552, 'rightboxleft': 1664, 'rightboxright': 1992, 'leftboxtop': -2552, 'leftboxbottom': -2752, 'leftboxleft': 1664, 'leftboxright': 1992, 'rightchildID': 32, 'leftchildID': 38}
+{'xPartition': 2144, 'yPartition': -2304, 'changeXPartition': 0, 'changeYPartition': -256, 'rightboxtop': -2304, 'rightboxbottom': -2560, 'rightboxleft': 1992, 'rightboxright': 2144, 'leftboxtop': -2304, 'leftboxbottom': -2560, 'leftboxleft': 2144, 'leftboxright': 2176, 'rightchildID': 32811, 'leftchildID': 32812}
+{'xPartition': 2112, 'yPartition': -2592, 'changeXPartition': 64, 'changeYPartition': 0, 'rightboxtop': -2592, 'rightboxbottom': -2752, 'rightboxleft': 1992, 'rightboxright': 2176, 'leftboxtop': -2560, 'leftboxbottom': -2592, 'leftboxleft': 1992, 'leftboxright': 2112, 'rightchildID': 32813, 'leftchildID': 32814}
+{'xPartition': 2176, 'yPartition': -2560, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -2304, 'rightboxbottom': -2560, 'rightboxleft': 1992, 'rightboxright': 2176, 'leftboxtop': -2560, 'leftboxbottom': -2752, 'leftboxleft': 1992, 'leftboxright': 2176, 'rightchildID': 40, 'leftchildID': 41}
+{'xPartition': 2176, 'yPartition': -2272, 'changeXPartition': -64, 'changeYPartition': 0, 'rightboxtop': -2112, 'rightboxbottom': -2272, 'rightboxleft': 1992, 'rightboxright': 2176, 'leftboxtop': -2272, 'leftboxbottom': -2304, 'leftboxleft': 1992, 'leftboxright': 2112, 'rightchildID': 32815, 'leftchildID': 32816}
+{'xPartition': 2112, 'yPartition': -2304, 'changeXPartition': 32, 'changeYPartition': 0, 'rightboxtop': -2304, 'rightboxbottom': -2752, 'rightboxleft': 1992, 'rightboxright': 2176, 'leftboxtop': -2112, 'leftboxbottom': -2304, 'leftboxleft': 1992, 'leftboxright': 2176, 'rightchildID': 42, 'leftchildID': 43}
+{'xPartition': 1992, 'yPartition': -2552, 'changeXPartition': 0, 'changeYPartition': -80, 'rightboxtop': -2112, 'rightboxbottom': -2752, 'rightboxleft': 1664, 'rightboxright': 1992, 'leftboxtop': -2112, 'leftboxbottom': -2752, 'leftboxleft': 1992, 'leftboxright': 2176, 'rightchildID': 39, 'leftchildID': 44}
+{'xPartition': 1664, 'yPartition': -2112, 'changeXPartition': 512, 'changeYPartition': 0, 'rightboxtop': -2112, 'rightboxbottom': -2752, 'rightboxleft': 1664, 'rightboxright': 2176, 'leftboxtop': -2048, 'leftboxbottom': -2112, 'leftboxleft': 1664, 'leftboxright': 2176, 'rightchildID': 45, 'leftchildID': 32817}
+{'xPartition': 1664, 'yPartition': -2752, 'changeXPartition': 512, 'changeYPartition': 0, 'rightboxtop': -2752, 'rightboxbottom': -2880, 'rightboxleft': 1664, 'rightboxright': 2176, 'leftboxtop': -2048, 'leftboxbottom': -2752, 'leftboxleft': 1664, 'leftboxright': 2176, 'rightchildID': 25, 'leftchildID': 46}
+{'xPartition': 1552, 'yPartition': -2432, 'changeXPartition': 112, 'changeYPartition': 0, 'rightboxtop': -2432, 'rightboxbottom': -2560, 'rightboxleft': 1552, 'rightboxright': 1664, 'leftboxtop': -2048, 'leftboxbottom': -2368, 'leftboxleft': 1600, 'leftboxright': 1664, 'rightchildID': 32818, 'leftchildID': 32819}
+{'xPartition': 1664, 'yPartition': -2560, 'changeXPartition': -112, 'changeYPartition': 0, 'rightboxtop': -2048, 'rightboxbottom': -2560, 'rightboxleft': 1552, 'rightboxright': 1664, 'leftboxtop': -2624, 'leftboxbottom': -2816, 'leftboxleft': 1600, 'leftboxright': 1664, 'rightchildID': 48, 'leftchildID': 32820}
+{'xPartition': 1472, 'yPartition': -2560, 'changeXPartition': -88, 'changeYPartition': -32, 'rightboxtop': -2432, 'rightboxbottom': -2592, 'rightboxleft': 1344, 'rightboxright': 1472, 'leftboxtop': -2592, 'leftboxbottom': -2880, 'leftboxleft': 1344, 'leftboxright': 1384, 'rightchildID': 32821, 'leftchildID': 32822}
+{'xPartition': 1536, 'yPartition': -2432, 'changeXPartition': 0, 'changeYPartition': -128, 'rightboxtop': -2432, 'rightboxbottom': -2560, 'rightboxleft': 1472, 'rightboxright': 1536, 'leftboxtop': -2432, 'leftboxbottom': -2560, 'leftboxleft': 1536, 'leftboxright': 1552, 'rightchildID': 32823, 'leftchildID': 32824}
+{'xPartition': 1472, 'yPartition': -2432, 'changeXPartition': 0, 'changeYPartition': -128, 'rightboxtop': -2432, 'rightboxbottom': -2880, 'rightboxleft': 1344, 'rightboxright': 1472, 'leftboxtop': -2432, 'leftboxbottom': -2560, 'leftboxleft': 1472, 'leftboxright': 1552, 'rightchildID': 50, 'leftchildID': 51}
+{'xPartition': 1552, 'yPartition': -2560, 'changeXPartition': 0, 'changeYPartition': 128, 'rightboxtop': -2048, 'rightboxbottom': -2816, 'rightboxleft': 1552, 'rightboxright': 1664, 'leftboxtop': -2432, 'leftboxbottom': -2880, 'leftboxleft': 1344, 'leftboxright': 1552, 'rightchildID': 49, 'leftchildID': 52}
+{'xPartition': 1664, 'yPartition': -2600, 'changeXPartition': 0, 'changeYPartition': 40, 'rightboxtop': -2048, 'rightboxbottom': -2880, 'rightboxleft': 1664, 'rightboxright': 2176, 'leftboxtop': -2048, 'leftboxbottom': -2880, 'leftboxleft': 1344, 'leftboxright': 1664, 'rightchildID': 47, 'leftchildID': 53}
+{'xPartition': 1664, 'yPartition': -2880, 'changeXPartition': 192, 'changeYPartition': 0, 'rightboxtop': -2880, 'rightboxbottom': -4064, 'rightboxleft': 1344, 'rightboxright': 2176, 'leftboxtop': -2048, 'leftboxbottom': -2880, 'leftboxleft': 1344, 'leftboxright': 2176, 'rightchildID': 24, 'leftchildID': 54}
+{'xPartition': 896, 'yPartition': -3360, 'changeXPartition': 0, 'changeYPartition': 256, 'rightboxtop': -3104, 'rightboxbottom': -3360, 'rightboxleft': 896, 'rightboxright': 928, 'leftboxtop': -3104, 'leftboxbottom': -3360, 'leftboxleft': 704, 'leftboxright': 896, 'rightchildID': 32826, 'leftchildID': 32827}
+{'xPartition': 928, 'yPartition': -3360, 'changeXPartition': 0, 'changeYPartition': 256, 'rightboxtop': -3104, 'rightboxbottom': -3360, 'rightboxleft': 928, 'rightboxright': 1344, 'leftboxtop': -3104, 'leftboxbottom': -3360, 'leftboxleft': 704, 'leftboxright': 928, 'rightchildID': 32825, 'leftchildID': 56}
+{'xPartition': 928, 'yPartition': -3072, 'changeXPartition': 256, 'changeYPartition': 0, 'rightboxtop': -3072, 'rightboxbottom': -3104, 'rightboxleft': 928, 'rightboxright': 1184, 'leftboxtop': -3072, 'leftboxbottom': -3072, 'leftboxleft': 928, 'leftboxright': 1184, 'rightchildID': 32828, 'leftchildID': 32829}
+{'xPartition': 1216, 'yPartition': -3072, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -3072, 'rightboxbottom': -3072, 'rightboxleft': 1184, 'rightboxright': 1216, 'leftboxtop': -3072, 'leftboxbottom': -3104, 'leftboxleft': 1216, 'leftboxright': 1344, 'rightchildID': 32830, 'leftchildID': 32831}
+{'xPartition': 1184, 'yPartition': -3072, 'changeXPartition': 0, 'changeYPartition': -32, 'rightboxtop': -3072, 'rightboxbottom': -3104, 'rightboxleft': 928, 'rightboxright': 1184, 'leftboxtop': -3072, 'leftboxbottom': -3104, 'leftboxleft': 1184, 'leftboxright': 1344, 'rightchildID': 58, 'leftchildID': 59}
+{'xPartition': 896, 'yPartition': -3072, 'changeXPartition': 0, 'changeYPartition': -32, 'rightboxtop': -2944, 'rightboxbottom': -3104, 'rightboxleft': 704, 'rightboxright': 896, 'leftboxtop': -3072, 'leftboxbottom': -3072, 'leftboxleft': 896, 'leftboxright': 928, 'rightchildID': 32832, 'leftchildID': 32833}
+{'xPartition': 928, 'yPartition': -3104, 'changeXPartition': 0, 'changeYPartition': 32, 'rightboxtop': -3072, 'rightboxbottom': -3104, 'rightboxleft': 928, 'rightboxright': 1344, 'leftboxtop': -2944, 'leftboxbottom': -3104, 'leftboxleft': 704, 'leftboxright': 928, 'rightchildID': 60, 'leftchildID': 61}
+{'xPartition': 832, 'yPartition': -2944, 'changeXPartition': 136, 'changeYPartition': 64, 'rightboxtop': -2880, 'rightboxbottom': -3104, 'rightboxleft': 832, 'rightboxright': 1344, 'leftboxtop': -2944, 'leftboxbottom': -2944, 'leftboxleft': 704, 'leftboxright': 832, 'rightchildID': 32834, 'leftchildID': 32835}
+{'xPartition': 968, 'yPartition': -2880, 'changeXPartition': 248, 'changeYPartition': 0, 'rightboxtop': -2880, 'rightboxbottom': -3104, 'rightboxleft': 704, 'rightboxright': 1344, 'leftboxtop': -2486, 'leftboxbottom': -2880, 'leftboxleft': 1216, 'leftboxright': 1344, 'rightchildID': 63, 'leftchildID': 32836}
+{'xPartition': 1216, 'yPartition': -3072, 'changeXPartition': 128, 'changeYPartition': -32, 'rightboxtop': -2944, 'rightboxbottom': -3104, 'rightboxleft': 704, 'rightboxright': 1344, 'leftboxtop': -2486, 'leftboxbottom': -3104, 'leftboxleft': 704, 'leftboxright': 1344, 'rightchildID': 62, 'leftchildID': 64}
+{'xPartition': 896, 'yPartition': -3104, 'changeXPartition': 32, 'changeYPartition': 0, 'rightboxtop': -3104, 'rightboxbottom': -3360, 'rightboxleft': 704, 'rightboxright': 1344, 'leftboxtop': -2486, 'leftboxbottom': -3104, 'leftboxleft': 704, 'leftboxright': 1344, 'rightchildID': 57, 'leftchildID': 65}
+{'xPartition': 1184, 'yPartition': -3392, 'changeXPartition': -256, 'changeYPartition': 0, 'rightboxtop': -3360, 'rightboxbottom': -3392, 'rightboxleft': 928, 'rightboxright': 1184, 'leftboxtop': -3392, 'leftboxbottom': -3392, 'leftboxleft': 928, 'leftboxright': 1184, 'rightchildID': 32837, 'leftchildID': 32838}
+{'xPartition': 896, 'yPartition': -3360, 'changeXPartition': 0, 'changeYPartition': -32, 'rightboxtop': -3360, 'rightboxbottom': -3552, 'rightboxleft': 704, 'rightboxright': 896, 'leftboxtop': -3392, 'leftboxbottom': -3392, 'leftboxleft': 896, 'leftboxright': 928, 'rightchildID': 32839, 'leftchildID': 32840}
+{'xPartition': 928, 'yPartition': -3392, 'changeXPartition': 0, 'changeYPartition': 32, 'rightboxtop': -3360, 'rightboxbottom': -3392, 'rightboxleft': 928, 'rightboxright': 1184, 'leftboxtop': -3360, 'leftboxbottom': -3552, 'leftboxleft': 704, 'leftboxright': 928, 'rightchildID': 67, 'leftchildID': 68}
+{'xPartition': 1344, 'yPartition': -3360, 'changeXPartition': -128, 'changeYPartition': -32, 'rightboxtop': -3360, 'rightboxbottom': -3392, 'rightboxleft': 1216, 'rightboxright': 1344, 'leftboxtop': -3360, 'leftboxbottom': -3392, 'leftboxleft': 1216, 'leftboxright': 1344, 'rightchildID': 32842, 'leftchildID': 32843}
+{'xPartition': 1184, 'yPartition': -3392, 'changeXPartition': 32, 'changeYPartition': 0, 'rightboxtop': -3392, 'rightboxbottom': -3552, 'rightboxleft': 1184, 'rightboxright': 1344, 'leftboxtop': -3360, 'leftboxbottom': -3392, 'leftboxleft': 1216, 'leftboxright': 1344, 'rightchildID': 32841, 'leftchildID': 70}
+{'xPartition': 1184, 'yPartition': -3360, 'changeXPartition': 0, 'changeYPartition': -32, 'rightboxtop': -3360, 'rightboxbottom': -3552, 'rightboxleft': 704, 'rightboxright': 1184, 'leftboxtop': -3360, 'leftboxbottom': -3552, 'leftboxleft': 1184, 'leftboxright': 1344, 'rightchildID': 69, 'leftchildID': 71}
+{'xPartition': 1152, 'yPartition': -3648, 'changeXPartition': -64, 'changeYPartition': 0, 'rightboxtop': -3552, 'rightboxbottom': -3648, 'rightboxleft': 832, 'rightboxright': 1280, 'leftboxtop': -3648, 'leftboxbottom': -3680, 'leftboxleft': 1024, 'leftboxright': 1088, 'rightchildID': 32844, 'leftchildID': 32845}
+{'xPartition': 1344, 'yPartition': -3552, 'changeXPartition': -64, 'changeYPartition': 0, 'rightboxtop': -3360, 'rightboxbottom': -3552, 'rightboxleft': 704, 'rightboxright': 1344, 'leftboxtop': -3552, 'leftboxbottom': -3680, 'leftboxleft': 832, 'leftboxright': 1280, 'rightchildID': 72, 'leftchildID': 73}
+{'xPartition': 1184, 'yPartition': -3360, 'changeXPartition': -256, 'changeYPartition': 0, 'rightboxtop': -2486, 'rightboxbottom': -3360, 'rightboxleft': 704, 'rightboxright': 1344, 'leftboxtop': -3360, 'leftboxbottom': -3680, 'leftboxleft': 704, 'leftboxright': 1344, 'rightchildID': 66, 'leftchildID': 74}
+{'xPartition': 512, 'yPartition': -3328, 'changeXPartition': 0, 'changeYPartition': 24, 'rightboxtop': -3104, 'rightboxbottom': -3360, 'rightboxleft': 512, 'rightboxright': 704, 'leftboxtop': -3160, 'leftboxbottom': -3304, 'leftboxleft': 496, 'leftboxright': 512, 'rightchildID': 32846, 'leftchildID': 32847}
+{'xPartition': 288, 'yPartition': -3264, 'changeXPartition': 0, 'changeYPartition': 64, 'rightboxtop': -3200, 'rightboxbottom': -3264, 'rightboxleft': 288, 'rightboxright': 320, 'leftboxtop': -3200, 'leftboxbottom': -3264, 'leftboxleft': 256, 'leftboxright': 288, 'rightchildID': 32851, 'leftchildID': 32852}
+{'xPartition': 320, 'yPartition': -3200, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -3136, 'rightboxbottom': -3200, 'rightboxleft': 256, 'rightboxright': 320, 'leftboxtop': -3200, 'leftboxbottom': -3264, 'leftboxleft': 256, 'leftboxright': 320, 'rightchildID': 32850, 'leftchildID': 77}
+{'xPartition': 256, 'yPartition': -3264, 'changeXPartition': 32, 'changeYPartition': 0, 'rightboxtop': -3264, 'rightboxbottom': -3328, 'rightboxleft': 256, 'rightboxright': 320, 'leftboxtop': -3136, 'leftboxbottom': -3264, 'leftboxleft': 256, 'leftboxright': 320, 'rightchildID': 32849, 'leftchildID': 78}
+{'xPartition': 320, 'yPartition': -3264, 'changeXPartition': 0, 'changeYPartition': 64, 'rightboxtop': -3136, 'rightboxbottom': -3328, 'rightboxleft': 320, 'rightboxright': 496, 'leftboxtop': -3136, 'leftboxbottom': -3328, 'leftboxleft': 256, 'leftboxright': 320, 'rightchildID': 32848, 'leftchildID': 79}
+{'xPartition': 320, 'yPartition': -3392, 'changeXPartition': 0, 'changeYPartition': 64, 'rightboxtop': -3328, 'rightboxbottom': -3392, 'rightboxleft': 320, 'rightboxright': 496, 'leftboxtop': -3328, 'leftboxbottom': -3392, 'leftboxleft': 256, 'leftboxright': 320, 'rightchildID': 32854, 'leftchildID': 32855}
+{'xPartition': 256, 'yPartition': -3392, 'changeXPartition': 64, 'changeYPartition': 0, 'rightboxtop': -3392, 'rightboxbottom': -3456, 'rightboxleft': 256, 'rightboxright': 472, 'leftboxtop': -3328, 'leftboxbottom': -3392, 'leftboxleft': 256, 'leftboxright': 496, 'rightchildID': 32853, 'leftchildID': 81}
+{'xPartition': 320, 'yPartition': -3328, 'changeXPartition': -64, 'changeYPartition': 0, 'rightboxtop': -3136, 'rightboxbottom': -3328, 'rightboxleft': 256, 'rightboxright': 496, 'leftboxtop': -3328, 'leftboxbottom': -3456, 'leftboxleft': 256, 'leftboxright': 496, 'rightchildID': 80, 'leftchildID': 82}
+{'xPartition': 320, 'yPartition': -3072, 'changeXPartition': -64, 'changeYPartition': 0, 'rightboxtop': -3008, 'rightboxbottom': -3072, 'rightboxleft': 256, 'rightboxright': 320, 'leftboxtop': -3072, 'leftboxbottom': -3136, 'leftboxleft': 256, 'leftboxright': 320, 'rightchildID': 32857, 'leftchildID': 32858}
+{'xPartition': 320, 'yPartition': -3136, 'changeXPartition': 0, 'changeYPartition': 64, 'rightboxtop': -3008, 'rightboxbottom': -3136, 'rightboxleft': 320, 'rightboxright': 496, 'leftboxtop': -3008, 'leftboxbottom': -3136, 'leftboxleft': 256, 'leftboxright': 320, 'rightchildID': 32856, 'leftchildID': 84}
+{'xPartition': 256, 'yPartition': -3136, 'changeXPartition': 64, 'changeYPartition': 0, 'rightboxtop': -3136, 'rightboxbottom': -3456, 'rightboxleft': 256, 'rightboxright': 496, 'leftboxtop': -3008, 'leftboxbottom': -3136, 'leftboxleft': 256, 'leftboxright': 496, 'rightchildID': 83, 'leftchildID': 85}
+{'xPartition': 496, 'yPartition': -3304, 'changeXPartition': 0, 'changeYPartition': 144, 'rightboxtop': -3104, 'rightboxbottom': -3360, 'rightboxleft': 496, 'rightboxright': 704, 'leftboxtop': -3008, 'leftboxbottom': -3456, 'leftboxleft': 256, 'leftboxright': 496, 'rightchildID': 76, 'leftchildID': 86}
+{'xPartition': 704, 'yPartition': -3104, 'changeXPartition': 0, 'changeYPartition': 160, 'rightboxtop': -2486, 'rightboxbottom': -3680, 'rightboxleft': 704, 'rightboxright': 1344, 'leftboxtop': -3008, 'leftboxbottom': -3456, 'leftboxleft': 256, 'leftboxright': 704, 'rightchildID': 75, 'leftchildID': 87}
+{'xPartition': 224, 'yPartition': -3264, 'changeXPartition': 0, 'changeYPartition': 64, 'rightboxtop': -3200, 'rightboxbottom': -3264, 'rightboxleft': 224, 'rightboxright': 256, 'leftboxtop': -3200, 'leftboxbottom': -3264, 'leftboxleft': 192, 'leftboxright': 224, 'rightchildID': 32861, 'leftchildID': 32862}
+{'xPartition': 192, 'yPartition': -3264, 'changeXPartition': 0, 'changeYPartition': 64, 'rightboxtop': -3200, 'rightboxbottom': -3264, 'rightboxleft': 192, 'rightboxright': 256, 'leftboxtop': -3200, 'leftboxbottom': -3264, 'leftboxleft': 160, 'leftboxright': 192, 'rightchildID': 89, 'leftchildID': 32863}
+{'xPartition': 256, 'yPartition': -3200, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -3008, 'rightboxbottom': -3200, 'rightboxleft': 160, 'rightboxright': 256, 'leftboxtop': -3200, 'leftboxbottom': -3264, 'leftboxleft': 160, 'leftboxright': 256, 'rightchildID': 32860, 'leftchildID': 90}
+{'xPartition': 160, 'yPartition': -3264, 'changeXPartition': 32, 'changeYPartition': 0, 'rightboxtop': -3264, 'rightboxbottom': -3456, 'rightboxleft': 160, 'rightboxright': 256, 'leftboxtop': -3008, 'leftboxbottom': -3264, 'leftboxleft': 160, 'leftboxright': 256, 'rightchildID': 32859, 'leftchildID': 91}
+{'xPartition': -128, 'yPartition': -3120, 'changeXPartition': -128, 'changeYPartition': 0, 'rightboxtop': -2851, 'rightboxbottom': -3120, 'rightboxleft': -256, 'rightboxright': -128, 'leftboxtop': -3120, 'leftboxbottom': -3136, 'leftboxleft': -256, 'leftboxright': -128, 'rightchildID': 32867, 'leftchildID': 32868}
+{'xPartition': -256, 'yPartition': -3136, 'changeXPartition': 128, 'changeYPartition': 0, 'rightboxtop': -3136, 'rightboxbottom': -3216, 'rightboxleft': -256, 'rightboxright': -128, 'leftboxtop': -2851, 'leftboxbottom': -3136, 'leftboxleft': -256, 'leftboxright': -128, 'rightchildID': 32866, 'leftchildID': 93}
+{'xPartition': -256, 'yPartition': -3248, 'changeXPartition': 16, 'changeYPartition': -16, 'rightboxtop': -3248, 'rightboxbottom': -3264, 'rightboxleft': -256, 'rightboxright': -240, 'leftboxtop': -3200, 'leftboxbottom': -3264, 'leftboxleft': -256, 'leftboxright': -192, 'rightchildID': 32874, 'leftchildID': 32875}
+{'xPartition': -240, 'yPartition': -3200, 'changeXPartition': -16, 'changeYPartition': -16, 'rightboxtop': -3200, 'rightboxbottom': -3216, 'rightboxleft': -256, 'rightboxright': -240, 'leftboxtop': -3200, 'leftboxbottom': -3264, 'leftboxleft': -256, 'leftboxright': -192, 'rightchildID': 32873, 'leftchildID': 95}
+{'xPartition': -208, 'yPartition': -3200, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -3200, 'rightboxbottom': -3200, 'rightboxleft': -240, 'rightboxright': -208, 'leftboxtop': -3200, 'leftboxbottom': -3264, 'leftboxleft': -256, 'leftboxright': -192, 'rightchildID': 32872, 'leftchildID': 96}
+{'xPartition': -192, 'yPartition': -3248, 'changeXPartition': 0, 'changeYPartition': 32, 'rightboxtop': -3216, 'rightboxbottom': -3248, 'rightboxleft': -192, 'rightboxright': -192, 'leftboxtop': -3200, 'leftboxbottom': -3264, 'leftboxleft': -256, 'leftboxright': -192, 'rightchildID': 32871, 'leftchildID': 97}
+{'xPartition': -208, 'yPartition': -3264, 'changeXPartition': 16, 'changeYPartition': 16, 'rightboxtop': -3248, 'rightboxbottom': -3264, 'rightboxleft': -208, 'rightboxright': -192, 'leftboxtop': -3200, 'leftboxbottom': -3264, 'leftboxleft': -256, 'leftboxright': -192, 'rightchildID': 32870, 'leftchildID': 98}
+{'xPartition': -240, 'yPartition': -3264, 'changeXPartition': 32, 'changeYPartition': 0, 'rightboxtop': -3264, 'rightboxbottom': -3264, 'rightboxleft': -240, 'rightboxright': -208, 'leftboxtop': -3200, 'leftboxbottom': -3264, 'leftboxleft': -256, 'leftboxright': -192, 'rightchildID': 32869, 'leftchildID': 99}
+{'xPartition': -192, 'yPartition': -3216, 'changeXPartition': -16, 'changeYPartition': 16, 'rightboxtop': -2851, 'rightboxbottom': -3216, 'rightboxleft': -256, 'rightboxright': -128, 'leftboxtop': -3200, 'leftboxbottom': -3264, 'leftboxleft': -256, 'leftboxright': -192, 'rightchildID': 94, 'leftchildID': 100}
+{'xPartition': -336, 'yPartition': -3168, 'changeXPartition': 0, 'changeYPartition': -128, 'rightboxtop': -3168, 'rightboxbottom': -3296, 'rightboxleft': -640, 'rightboxright': -336, 'leftboxtop': -3168, 'leftboxbottom': -3296, 'leftboxleft': -336, 'leftboxright': -320, 'rightchildID': 32877, 'leftchildID': 32878}
+{'xPartition': -320, 'yPartition': -3296, 'changeXPartition': 0, 'changeYPartition': 128, 'rightboxtop': -3168, 'rightboxbottom': -3296, 'rightboxleft': -320, 'rightboxright': -256, 'leftboxtop': -3168, 'leftboxbottom': -3296, 'leftboxleft': -640, 'leftboxright': -320, 'rightchildID': 32876, 'leftchildID': 102}
+{'xPartition': -256, 'yPartition': -3120, 'changeXPartition': -80, 'changeYPartition': 0, 'rightboxtop': -2874, 'rightboxbottom': -3120, 'rightboxleft': -640, 'rightboxright': -256, 'leftboxtop': -3120, 'leftboxbottom': -3168, 'leftboxleft': -640, 'leftboxright': -336, 'rightchildID': 32880, 'leftchildID': 32881}
+{'xPartition': -320, 'yPartition': -3168, 'changeXPartition': 64, 'changeYPartition': 32, 'rightboxtop': -3136, 'rightboxbottom': -3168, 'rightboxleft': -320, 'rightboxright': -256, 'leftboxtop': -2874, 'leftboxbottom': -3168, 'leftboxleft': -640, 'leftboxright': -256, 'rightchildID': 32879, 'leftchildID': 104}
+{'xPartition': -336, 'yPartition': -3168, 'changeXPartition': 16, 'changeYPartition': 0, 'rightboxtop': -3168, 'rightboxbottom': -3296, 'rightboxleft': -640, 'rightboxright': -256, 'leftboxtop': -2874, 'leftboxbottom': -3168, 'leftboxleft': -640, 'leftboxright': -256, 'rightchildID': 103, 'leftchildID': 105}
+{'xPartition': -256, 'yPartition': -3136, 'changeXPartition': 0, 'changeYPartition': 16, 'rightboxtop': -2851, 'rightboxbottom': -3264, 'rightboxleft': -256, 'rightboxright': -128, 'leftboxtop': -2874, 'leftboxbottom': -3296, 'leftboxleft': -640, 'leftboxright': -256, 'rightchildID': 101, 'leftchildID': 106}
+{'xPartition': -128, 'yPartition': -3328, 'changeXPartition': -128, 'changeYPartition': 0, 'rightboxtop': -3328, 'rightboxbottom': -3328, 'rightboxleft': -256, 'rightboxright': -128, 'leftboxtop': -3328, 'leftboxbottom': -3344, 'leftboxleft': -256, 'leftboxright': -128, 'rightchildID': 32883, 'leftchildID': 32884}
+{'xPartition': -256, 'yPartition': -3344, 'changeXPartition': 128, 'changeYPartition': 0, 'rightboxtop': -3344, 'rightboxbottom': -3613, 'rightboxleft': -256, 'rightboxright': -128, 'leftboxtop': -3328, 'leftboxbottom': -3344, 'leftboxleft': -256, 'leftboxright': -128, 'rightchildID': 32882, 'leftchildID': 108}
+{'xPartition': -336, 'yPartition': -3296, 'changeXPartition': 0, 'changeYPartition': -48, 'rightboxtop': -3296, 'rightboxbottom': -3575, 'rightboxleft': -640, 'rightboxright': -336, 'leftboxtop': -3344, 'leftboxbottom': -3589, 'leftboxleft': -336, 'leftboxright': -256, 'rightchildID': 32886, 'leftchildID': 32887}
+{'xPartition': -256, 'yPartition': -3328, 'changeXPartition': -64, 'changeYPartition': 32, 'rightboxtop': -3296, 'rightboxbottom': -3328, 'rightboxleft': -320, 'rightboxright': -256, 'leftboxtop': -3296, 'leftboxbottom': -3589, 'leftboxleft': -640, 'leftboxright': -256, 'rightchildID': 32885, 'leftchildID': 110}
+{'xPartition': -256, 'yPartition': -3344, 'changeXPartition': 0, 'changeYPartition': 16, 'rightboxtop': -3328, 'rightboxbottom': -3613, 'rightboxleft': -256, 'rightboxright': -128, 'leftboxtop': -3296, 'leftboxbottom': -3589, 'leftboxleft': -640, 'leftboxright': -256, 'rightchildID': 109, 'leftchildID': 111}
+{'xPartition': -320, 'yPartition': -3296, 'changeXPartition': -16, 'changeYPartition': 0, 'rightboxtop': -2851, 'rightboxbottom': -3296, 'rightboxleft': -640, 'rightboxright': -128, 'leftboxtop': -3296, 'leftboxbottom': -3613, 'leftboxleft': -640, 'leftboxright': -128, 'rightchildID': 107, 'leftchildID': 112}
+{'xPartition': -64, 'yPartition': -3136, 'changeXPartition': 0, 'changeYPartition': -192, 'rightboxtop': -3136, 'rightboxbottom': -3328, 'rightboxleft': -64, 'rightboxright': -64, 'leftboxtop': -3072, 'leftboxbottom': -3392, 'leftboxleft': -64, 'leftboxright': 64, 'rightchildID': 32888, 'leftchildID': 32889}
+{'xPartition': -96, 'yPartition': -3120, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -2816, 'rightboxbottom': -3120, 'rightboxleft': -128, 'rightboxright': 64, 'leftboxtop': -3136, 'leftboxbottom': -3136, 'leftboxleft': -128, 'leftboxright': -64, 'rightchildID': 32890, 'leftchildID': 32891}
+{'xPartition': -64, 'yPartition': -3136, 'changeXPartition': 112, 'changeYPartition': 64, 'rightboxtop': -3072, 'rightboxbottom': -3392, 'rightboxleft': -64, 'rightboxright': 64, 'leftboxtop': -2816, 'leftboxbottom': -3136, 'leftboxleft': -128, 'leftboxright': 64, 'rightchildID': 114, 'leftchildID': 115}
+{'xPartition': -128, 'yPartition': -3344, 'changeXPartition': 32, 'changeYPartition': 0, 'rightboxtop': -3344, 'rightboxbottom': -3648, 'rightboxleft': -128, 'rightboxright': 64, 'leftboxtop': -3328, 'leftboxbottom': -3328, 'leftboxleft': -128, 'leftboxright': -64, 'rightchildID': 32892, 'leftchildID': 32893}
+{'xPartition': 48, 'yPartition': -3392, 'changeXPartition': -112, 'changeYPartition': 64, 'rightboxtop': -2816, 'rightboxbottom': -3392, 'rightboxleft': -128, 'rightboxright': 64, 'leftboxtop': -3328, 'leftboxbottom': -3648, 'leftboxleft': -128, 'leftboxright': 64, 'rightchildID': 116, 'leftchildID': 117}
+{'xPartition': -128, 'yPartition': -3120, 'changeXPartition': 0, 'changeYPartition': -16, 'rightboxtop': -2851, 'rightboxbottom': -3613, 'rightboxleft': -640, 'rightboxright': -128, 'leftboxtop': -2816, 'leftboxbottom': -3648, 'leftboxleft': -128, 'leftboxright': 64, 'rightchildID': 113, 'leftchildID': 118}
+{'xPartition': 64, 'yPartition': -2816, 'changeXPartition': -704, 'changeYPartition': -128, 'rightboxtop': -2816, 'rightboxbottom': -2944, 'rightboxleft': -640, 'rightboxright': 64, 'leftboxtop': -2816, 'leftboxbottom': -3648, 'leftboxleft': -640, 'leftboxright': 64, 'rightchildID': 32865, 'leftchildID': 119}
+{'xPartition': -640, 'yPartition': -3520, 'changeXPartition': 0, 'changeYPartition': 576, 'rightboxtop': -2816, 'rightboxbottom': -3648, 'rightboxleft': -640, 'rightboxright': 64, 'leftboxtop': -2816, 'leftboxbottom': -3520, 'leftboxleft': -768, 'leftboxright': -640, 'rightchildID': 120, 'leftchildID': 32894}
+{'xPartition': 160, 'yPartition': -3200, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -3008, 'rightboxbottom': -3200, 'rightboxleft': 128, 'rightboxright': 160, 'leftboxtop': -3200, 'leftboxbottom': -3264, 'leftboxleft': 128, 'leftboxright': 160, 'rightchildID': 32896, 'leftchildID': 32897}
+{'xPartition': 128, 'yPartition': -3264, 'changeXPartition': 32, 'changeYPartition': 0, 'rightboxtop': -3264, 'rightboxbottom': -3456, 'rightboxleft': 128, 'rightboxright': 160, 'leftboxtop': -3008, 'leftboxbottom': -3264, 'leftboxleft': 128, 'leftboxright': 160, 'rightchildID': 32895, 'leftchildID': 122}
+{'xPartition': 64, 'yPartition': -3392, 'changeXPartition': 64, 'changeYPartition': 128, 'rightboxtop': -3264, 'rightboxbottom': -3456, 'rightboxleft': 64, 'rightboxright': 128, 'leftboxtop': -3072, 'leftboxbottom': -3392, 'leftboxleft': 64, 'leftboxright': 128, 'rightchildID': 32899, 'leftchildID': 32900}
+{'xPartition': 128, 'yPartition': -3200, 'changeXPartition': -64, 'changeYPartition': 128, 'rightboxtop': -3008, 'rightboxbottom': -3200, 'rightboxleft': 64, 'rightboxright': 128, 'leftboxtop': -3072, 'leftboxbottom': -3456, 'leftboxleft': 64, 'leftboxright': 128, 'rightchildID': 32898, 'leftchildID': 124}
+{'xPartition': 128, 'yPartition': -3264, 'changeXPartition': 0, 'changeYPartition': 64, 'rightboxtop': -3008, 'rightboxbottom': -3456, 'rightboxleft': 128, 'rightboxright': 160, 'leftboxtop': -3008, 'leftboxbottom': -3456, 'leftboxleft': 64, 'leftboxright': 128, 'rightchildID': 123, 'leftchildID': 125}
+{'xPartition': 64, 'yPartition': -3520, 'changeXPartition': 0, 'changeYPartition': -128, 'rightboxtop': -2816, 'rightboxbottom': -3648, 'rightboxleft': -768, 'rightboxright': 64, 'leftboxtop': -3008, 'leftboxbottom': -3456, 'leftboxleft': 64, 'leftboxright': 160, 'rightchildID': 121, 'leftchildID': 126}
+{'xPartition': -640, 'yPartition': -3520, 'changeXPartition': 704, 'changeYPartition': -128, 'rightboxtop': -3496, 'rightboxbottom': -3648, 'rightboxleft': -768, 'rightboxright': 64, 'leftboxtop': -2816, 'leftboxbottom': -3648, 'leftboxleft': -768, 'leftboxright': 160, 'rightchildID': 32864, 'leftchildID': 127}
+{'xPartition': 160, 'yPartition': -3264, 'changeXPartition': 0, 'changeYPartition': 64, 'rightboxtop': -3008, 'rightboxbottom': -3456, 'rightboxleft': 160, 'rightboxright': 256, 'leftboxtop': -2816, 'leftboxbottom': -3648, 'leftboxleft': -768, 'leftboxright': 160, 'rightchildID': 92, 'leftchildID': 128}
+{'xPartition': 256, 'yPartition': -3264, 'changeXPartition': 0, 'changeYPartition': 64, 'rightboxtop': -2486, 'rightboxbottom': -3680, 'rightboxleft': 256, 'rightboxright': 1344, 'leftboxtop': -2816, 'leftboxbottom': -3648, 'leftboxleft': -768, 'leftboxright': 256, 'rightchildID': 88, 'leftchildID': 129}
+{'xPartition': 1344, 'yPartition': -3200, 'changeXPartition': 0, 'changeYPartition': 96, 'rightboxtop': -2048, 'rightboxbottom': -4064, 'rightboxleft': 1344, 'rightboxright': 2176, 'leftboxtop': -2486, 'leftboxbottom': -3680, 'leftboxleft': -768, 'leftboxright': 1344, 'rightchildID': 55, 'leftchildID': 130}
+{'xPartition': 2752, 'yPartition': -2912, 'changeXPartition': 128, 'changeYPartition': 0, 'rightboxtop': -2912, 'rightboxbottom': -3048, 'rightboxleft': 2752, 'rightboxright': 2960, 'leftboxtop': -2880, 'leftboxbottom': -2912, 'leftboxleft': 2880, 'leftboxright': 2880, 'rightchildID': 32902, 'leftchildID': 32903}
+{'xPartition': 2880, 'yPartition': -2880, 'changeXPartition': -128, 'changeYPartition': 80, 'rightboxtop': -2656, 'rightboxbottom': -2930, 'rightboxleft': 2752, 'rightboxright': 3048, 'leftboxtop': -2880, 'leftboxbottom': -3048, 'leftboxleft': 2752, 'leftboxright': 2960, 'rightchildID': 32901, 'leftchildID': 132}
+{'xPartition': 2752, 'yPartition': -2784, 'changeXPartition': 192, 'changeYPartition': 128, 'rightboxtop': -2656, 'rightboxbottom': -3048, 'rightboxleft': 2752, 'rightboxright': 3048, 'leftboxtop': -2560, 'leftboxbottom': -2784, 'leftboxleft': 2752, 'leftboxright': 2944, 'rightchildID': 133, 'leftchildID': 32904}
+{'xPartition': 2944, 'yPartition': -3648, 'changeXPartition': -192, 'changeYPartition': 64, 'rightboxtop': -3536, 'rightboxbottom': -3648, 'rightboxleft': 2752, 'rightboxright': 2944, 'leftboxtop': -3648, 'leftboxbottom': -3669, 'leftboxleft': 2944, 'leftboxright': 2944, 'rightchildID': 32906, 'leftchildID': 32907}
+{'xPartition': 2944, 'yPartition': -3536, 'changeXPartition': -192, 'changeYPartition': -48, 'rightboxtop': -3360, 'rightboxbottom': -3584, 'rightboxleft': 2752, 'rightboxright': 2944, 'leftboxtop': -3536, 'leftboxbottom': -3669, 'leftboxleft': 2752, 'leftboxright': 2944, 'rightchildID': 32905, 'leftchildID': 135}
+{'xPartition': 3352, 'yPartition': -3592, 'changeXPartition': 0, 'changeYPartition': 24, 'rightboxtop': -3568, 'rightboxbottom': -3592, 'rightboxleft': 3352, 'rightboxright': 3352, 'leftboxtop': -3592, 'leftboxbottom': -3601, 'leftboxleft': 3352, 'leftboxright': 3353, 'rightchildID': 32910, 'leftchildID': 32911}
+{'xPartition': 3352, 'yPartition': -3568, 'changeXPartition': -88, 'changeYPartition': -48, 'rightboxtop': -3370, 'rightboxbottom': -3616, 'rightboxleft': 3104, 'rightboxright': 3352, 'leftboxtop': -3568, 'leftboxbottom': -3601, 'leftboxleft': 3352, 'leftboxright': 3353, 'rightchildID': 32909, 'leftchildID': 137}
+{'xPartition': 3448, 'yPartition': -3520, 'changeXPartition': -96, 'changeYPartition': -48, 'rightboxtop': -3432, 'rightboxbottom': -3568, 'rightboxleft': 3312, 'rightboxright': 3454, 'leftboxtop': -3520, 'leftboxbottom': -3568, 'leftboxleft': 3352, 'leftboxright': 3448, 'rightchildID': 32913, 'leftchildID': 32914}
+{'xPartition': 3408, 'yPartition': -3432, 'changeXPartition': -96, 'changeYPartition': -64, 'rightboxtop': -3320, 'rightboxbottom': -3496, 'rightboxleft': 3242, 'rightboxright': 3408, 'leftboxtop': -3432, 'leftboxbottom': -3568, 'leftboxleft': 3312, 'leftboxright': 3454, 'rightchildID': 32912, 'leftchildID': 139}
+{'xPartition': 3312, 'yPartition': -3496, 'changeXPartition': 40, 'changeYPartition': -72, 'rightboxtop': -3370, 'rightboxbottom': -3616, 'rightboxleft': 3104, 'rightboxright': 3353, 'leftboxtop': -3320, 'leftboxbottom': -3568, 'leftboxleft': 3242, 'leftboxright': 3454, 'rightchildID': 138, 'leftchildID': 140}
+{'xPartition': 3454, 'yPartition': -3496, 'changeXPartition': -6, 'changeYPartition': -23, 'rightboxtop': -3320, 'rightboxbottom': -3616, 'rightboxleft': 3104, 'rightboxright': 3454, 'leftboxtop': -3520, 'leftboxbottom': -3574, 'leftboxleft': 3448, 'leftboxright': 3512, 'rightchildID': 141, 'leftchildID': 32915}
+{'xPartition': 3264, 'yPartition': -3616, 'changeXPartition': -160, 'changeYPartition': 64, 'rightboxtop': -3320, 'rightboxbottom': -3616, 'rightboxleft': 3104, 'rightboxright': 3512, 'leftboxtop': -3552, 'leftboxbottom': -3648, 'leftboxleft': 3047, 'leftboxright': 3264, 'rightchildID': 142, 'leftchildID': 32916}
+{'xPartition': 2752, 'yPartition': -3048, 'changeXPartition': 224, 'changeYPartition': -24, 'rightboxtop': -3048, 'rightboxbottom': -3296, 'rightboxleft': 2752, 'rightboxright': 2976, 'leftboxtop': -2902, 'leftboxbottom': -3072, 'leftboxleft': 2752, 'leftboxright': 3008, 'rightchildID': 32917, 'leftchildID': 32918}
+{'xPartition': 3112, 'yPartition': -3360, 'changeXPartition': -168, 'changeYPartition': -176, 'rightboxtop': -3232, 'rightboxbottom': -3536, 'rightboxleft': 2752, 'rightboxright': 3112, 'leftboxtop': -3360, 'leftboxbottom': -3626, 'leftboxleft': 2944, 'leftboxright': 3215, 'rightchildID': 32919, 'leftchildID': 32920}
+{'xPartition': 2984, 'yPartition': -3200, 'changeXPartition': 152, 'changeYPartition': 128, 'rightboxtop': -3072, 'rightboxbottom': -3320, 'rightboxleft': 2984, 'rightboxright': 3280, 'leftboxtop': -3072, 'leftboxbottom': -3200, 'leftboxleft': 2887, 'leftboxright': 3136, 'rightchildID': 32921, 'leftchildID': 32922}
+{'xPartition': 3280, 'yPartition': -3320, 'changeXPartition': -296, 'changeYPartition': 120, 'rightboxtop': -3072, 'rightboxbottom': -3320, 'rightboxleft': 2887, 'rightboxright': 3280, 'leftboxtop': -3160, 'leftboxbottom': -3404, 'leftboxleft': 2816, 'leftboxright': 3280, 'rightchildID': 146, 'leftchildID': 32923}
+{'xPartition': 2816, 'yPartition': -3232, 'changeXPartition': 296, 'changeYPartition': -128, 'rightboxtop': -3232, 'rightboxbottom': -3626, 'rightboxleft': 2752, 'rightboxright': 3215, 'leftboxtop': -3072, 'leftboxbottom': -3404, 'leftboxleft': 2816, 'leftboxright': 3280, 'rightchildID': 145, 'leftchildID': 147}
+{'xPartition': 2976, 'yPartition': -3072, 'changeXPartition': -160, 'changeYPartition': -160, 'rightboxtop': -2902, 'rightboxbottom': -3296, 'rightboxleft': 2752, 'rightboxright': 3008, 'leftboxtop': -3072, 'leftboxbottom': -3626, 'leftboxleft': 2752, 'leftboxright': 3280, 'rightchildID': 144, 'leftchildID': 148}
+{'xPartition': 3104, 'yPartition': -3552, 'changeXPartition': 176, 'changeYPartition': 232, 'rightboxtop': -3320, 'rightboxbottom': -3648, 'rightboxleft': 3047, 'rightboxright': 3512, 'leftboxtop': -2902, 'leftboxbottom': -3626, 'leftboxleft': 2752, 'leftboxright': 3280, 'rightchildID': 143, 'leftchildID': 149}
+{'xPartition': 3304, 'yPartition': -3040, 'changeXPartition': 96, 'changeYPartition': -112, 'rightboxtop': -3040, 'rightboxbottom': -3432, 'rightboxleft': 3136, 'rightboxright': 3472, 'leftboxtop': -3040, 'leftboxbottom': -3152, 'leftboxleft': 3304, 'leftboxright': 3400, 'rightchildID': 32924, 'leftchildID': 32925}
+{'xPartition': 3472, 'yPartition': -3432, 'changeXPartition': -64, 'changeYPartition': 0, 'rightboxtop': -3040, 'rightboxbottom': -3432, 'rightboxleft': 3136, 'rightboxright': 3472, 'leftboxtop': -3432, 'leftboxbottom': -3496, 'leftboxleft': 3408, 'leftboxright': 3472, 'rightchildID': 151, 'leftchildID': 32926}
+{'xPartition': 3136, 'yPartition': -3072, 'changeXPartition': 168, 'changeYPartition': 32, 'rightboxtop': -3040, 'rightboxbottom': -3496, 'rightboxleft': 3136, 'rightboxright': 3472, 'leftboxtop': -2944, 'leftboxbottom': -3072, 'leftboxleft': 3048, 'leftboxright': 3304, 'rightchildID': 152, 'leftchildID': 32927}
+{'xPartition': 3304, 'yPartition': -3040, 'changeXPartition': 16, 'changeYPartition': 0, 'rightboxtop': -3040, 'rightboxbottom': -3040, 'rightboxleft': 3304, 'rightboxright': 3320, 'leftboxtop': -2939, 'leftboxbottom': -3040, 'leftboxleft': 3320, 'leftboxright': 3345, 'rightchildID': 32929, 'leftchildID': 32930}
+{'xPartition': 3048, 'yPartition': -2880, 'changeXPartition': 0, 'changeYPartition': -64, 'rightboxtop': -2880, 'rightboxbottom': -2944, 'rightboxleft': 3008, 'rightboxright': 3048, 'leftboxtop': -2939, 'leftboxbottom': -3040, 'leftboxleft': 3304, 'leftboxright': 3345, 'rightchildID': 32928, 'leftchildID': 154}
+{'xPartition': 3048, 'yPartition': -2944, 'changeXPartition': 256, 'changeYPartition': -96, 'rightboxtop': -2944, 'rightboxbottom': -3496, 'rightboxleft': 3048, 'rightboxright': 3472, 'leftboxtop': -2880, 'leftboxbottom': -3040, 'leftboxleft': 3008, 'leftboxright': 3345, 'rightchildID': 153, 'leftchildID': 155}
+{'xPartition': 3680, 'yPartition': -3392, 'changeXPartition': 0, 'changeYPartition': -154, 'rightboxtop': -3264, 'rightboxbottom': -3567, 'rightboxleft': 3552, 'rightboxright': 3680, 'leftboxtop': -3144, 'leftboxbottom': -3392, 'leftboxleft': 3680, 'leftboxright': 3808, 'rightchildID': 32931, 'leftchildID': 32932}
+{'xPartition': 3648, 'yPartition': -3264, 'changeXPartition': -152, 'changeYPartition': 232, 'rightboxtop': -3032, 'rightboxbottom': -3264, 'rightboxleft': 3496, 'rightboxright': 3738, 'leftboxtop': -3032, 'leftboxbottom': -3152, 'leftboxleft': 3400, 'leftboxright': 3456, 'rightchildID': 32934, 'leftchildID': 32935}
+{'xPartition': 3496, 'yPartition': -3032, 'changeXPartition': -40, 'changeYPartition': 0, 'rightboxtop': -2880, 'rightboxbottom': -3032, 'rightboxleft': 3345, 'rightboxright': 3672, 'leftboxtop': -3032, 'leftboxbottom': -3264, 'leftboxleft': 3400, 'leftboxright': 3738, 'rightchildID': 32933, 'leftchildID': 158}
+{'xPartition': 3552, 'yPartition': -3392, 'changeXPartition': 96, 'changeYPartition': 128, 'rightboxtop': -3144, 'rightboxbottom': -3567, 'rightboxleft': 3552, 'rightboxright': 3808, 'leftboxtop': -2880, 'leftboxbottom': -3264, 'leftboxleft': 3345, 'leftboxright': 3738, 'rightchildID': 157, 'leftchildID': 159}
+{'xPartition': 3400, 'yPartition': -3152, 'changeXPartition': 72, 'changeYPartition': -280, 'rightboxtop': -2880, 'rightboxbottom': -3496, 'rightboxleft': 3008, 'rightboxright': 3472, 'leftboxtop': -2880, 'leftboxbottom': -3567, 'leftboxleft': 3345, 'leftboxright': 3808, 'rightchildID': 156, 'leftchildID': 160}
+{'xPartition': 3472, 'yPartition': -3520, 'changeXPartition': 40, 'changeYPartition': -54, 'rightboxtop': -2902, 'rightboxbottom': -3648, 'rightboxleft': 2752, 'rightboxright': 3512, 'leftboxtop': -2880, 'leftboxbottom': -3567, 'leftboxleft': 3008, 'leftboxright': 3808, 'rightchildID': 150, 'leftchildID': 161}
+{'xPartition': 2944, 'yPartition': -3536, 'changeXPartition': 128, 'changeYPartition': -112, 'rightboxtop': -3536, 'rightboxbottom': -3648, 'rightboxleft': 2944, 'rightboxright': 3072, 'leftboxtop': -2880, 'leftboxbottom': -3648, 'leftboxleft': 2752, 'leftboxright': 3808, 'rightchildID': 32908, 'leftchildID': 162}
+{'xPartition': 2752, 'yPartition': -3360, 'changeXPartition': 192, 'changeYPartition': -176, 'rightboxtop': -3360, 'rightboxbottom': -3669, 'rightboxleft': 2752, 'rightboxright': 2944, 'leftboxtop': -2880, 'leftboxbottom': -3648, 'leftboxleft': 2752, 'leftboxright': 3808, 'rightchildID': 136, 'leftchildID': 163}
+{'xPartition': 3048, 'yPartition': -2880, 'changeXPartition': -296, 'changeYPartition': -168, 'rightboxtop': -2560, 'rightboxbottom': -3048, 'rightboxleft': 2752, 'rightboxright': 3048, 'leftboxtop': -2880, 'leftboxbottom': -3669, 'leftboxleft': 2752, 'leftboxright': 3808, 'rightchildID': 134, 'leftchildID': 164}
+{'xPartition': 2208, 'yPartition': -2304, 'changeXPartition': 0, 'changeYPartition': -256, 'rightboxtop': -2304, 'rightboxbottom': -2560, 'rightboxleft': 2176, 'rightboxright': 2208, 'leftboxtop': -2304, 'leftboxbottom': -2560, 'leftboxleft': 2208, 'leftboxright': 2304, 'rightchildID': 32938, 'leftchildID': 32939}
+{'xPartition': 2336, 'yPartition': -2272, 'changeXPartition': -160, 'changeYPartition': 0, 'rightboxtop': -2112, 'rightboxbottom': -2272, 'rightboxleft': 2176, 'rightboxright': 2336, 'leftboxtop': -2304, 'leftboxbottom': -2560, 'leftboxleft': 2176, 'leftboxright': 2304, 'rightchildID': 32937, 'leftchildID': 166}
+{'xPartition': 2336, 'yPartition': -2560, 'changeXPartition': 0, 'changeYPartition': 288, 'rightboxtop': -2112, 'rightboxbottom': -2560, 'rightboxleft': 2336, 'rightboxright': 2496, 'leftboxtop': -2112, 'leftboxbottom': -2560, 'leftboxleft': 2176, 'leftboxright': 2336, 'rightchildID': 32936, 'leftchildID': 167}
+{'xPartition': 2336, 'yPartition': -2592, 'changeXPartition': 0, 'changeYPartition': 32, 'rightboxtop': -2560, 'rightboxbottom': -2752, 'rightboxleft': 2336, 'rightboxright': 2496, 'leftboxtop': -2592, 'leftboxbottom': -2752, 'leftboxleft': 2176, 'leftboxright': 2336, 'rightchildID': 32940, 'leftchildID': 32941}
+{'xPartition': 2304, 'yPartition': -2560, 'changeXPartition': -96, 'changeYPartition': 0, 'rightboxtop': -2112, 'rightboxbottom': -2560, 'rightboxleft': 2176, 'rightboxright': 2496, 'leftboxtop': -2560, 'leftboxbottom': -2752, 'leftboxleft': 2176, 'leftboxright': 2496, 'rightchildID': 168, 'leftchildID': 169}
+{'xPartition': 2176, 'yPartition': -2112, 'changeXPartition': 320, 'changeYPartition': 0, 'rightboxtop': -2112, 'rightboxbottom': -2752, 'rightboxleft': 2176, 'rightboxright': 2496, 'leftboxtop': -2048, 'leftboxbottom': -2112, 'leftboxleft': 2176, 'leftboxright': 2496, 'rightchildID': 170, 'leftchildID': 32942}
+{'xPartition': 2624, 'yPartition': -2784, 'changeXPartition': -104, 'changeYPartition': 96, 'rightboxtop': -2560, 'rightboxbottom': -2784, 'rightboxleft': 2496, 'rightboxright': 2752, 'leftboxtop': -2665, 'leftboxbottom': -2688, 'leftboxleft': 2496, 'leftboxright': 2520, 'rightchildID': 32944, 'leftchildID': 32945}
+{'xPartition': 2624, 'yPartition': -2784, 'changeXPartition': 128, 'changeYPartition': 224, 'rightboxtop': -2560, 'rightboxbottom': -2784, 'rightboxleft': 2624, 'rightboxright': 2752, 'leftboxtop': -2560, 'leftboxbottom': -2784, 'leftboxleft': 2496, 'leftboxright': 2752, 'rightchildID': 32943, 'leftchildID': 172}
+{'xPartition': 2520, 'yPartition': -2560, 'changeXPartition': 232, 'changeYPartition': 0, 'rightboxtop': -2560, 'rightboxbottom': -2784, 'rightboxleft': 2496, 'rightboxright': 2752, 'leftboxtop': -2048, 'leftboxbottom': -2496, 'leftboxleft': 2496, 'leftboxright': 2560, 'rightchildID': 173, 'leftchildID': 32946}
+{'xPartition': 2496, 'yPartition': -2112, 'changeXPartition': 0, 'changeYPartition': -384, 'rightboxtop': -2048, 'rightboxbottom': -2752, 'rightboxleft': 2176, 'rightboxright': 2496, 'leftboxtop': -2048, 'leftboxbottom': -2784, 'leftboxleft': 2496, 'leftboxright': 2752, 'rightchildID': 171, 'leftchildID': 174}
+{'xPartition': 2432, 'yPartition': -3112, 'changeXPartition': 304, 'changeYPartition': 0, 'rightboxtop': -3112, 'rightboxbottom': -3360, 'rightboxleft': 2432, 'rightboxright': 2736, 'leftboxtop': -3008, 'leftboxbottom': -3112, 'leftboxleft': 2272, 'leftboxright': 2432, 'rightchildID': 32948, 'leftchildID': 32949}
+{'xPartition': 2240, 'yPartition': -2920, 'changeXPartition': 32, 'changeYPartition': -88, 'rightboxtop': -2920, 'rightboxbottom': -3008, 'rightboxleft': 2176, 'rightboxright': 2272, 'leftboxtop': -3008, 'leftboxbottom': -3360, 'leftboxleft': 2272, 'leftboxright': 2736, 'rightchildID': 32947, 'leftchildID': 176}
+{'xPartition': 2736, 'yPartition': -3112, 'changeXPartition': 0, 'changeYPartition': -248, 'rightboxtop': -2920, 'rightboxbottom': -3360, 'rightboxleft': 2176, 'rightboxright': 2736, 'leftboxtop': -3112, 'leftboxbottom': -3360, 'leftboxleft': 2736, 'leftboxright': 2752, 'rightchildID': 177, 'leftchildID': 32950}
+{'xPartition': 2736, 'yPartition': -3648, 'changeXPartition': -496, 'changeYPartition': 0, 'rightboxtop': -3360, 'rightboxbottom': -3648, 'rightboxleft': 2240, 'rightboxright': 2736, 'leftboxtop': -3648, 'leftboxbottom': -3776, 'leftboxleft': 2240, 'leftboxright': 2736, 'rightchildID': 32951, 'leftchildID': 32952}
+{'xPartition': 2240, 'yPartition': -3776, 'changeXPartition': -32, 'changeYPartition': 96, 'rightboxtop': -3648, 'rightboxbottom': -3776, 'rightboxleft': 2197, 'rightboxright': 2240, 'leftboxtop': -3648, 'leftboxbottom': -3680, 'leftboxleft': 2176, 'leftboxright': 2208, 'rightchildID': 32954, 'leftchildID': 32955}
+{'xPartition': 2240, 'yPartition': -3648, 'changeXPartition': -64, 'changeYPartition': 0, 'rightboxtop': -3648, 'rightboxbottom': -3648, 'rightboxleft': 2176, 'rightboxright': 2240, 'leftboxtop': -3648, 'leftboxbottom': -3776, 'leftboxleft': 2176, 'leftboxright': 2240, 'rightchildID': 32953, 'leftchildID': 180}
+{'xPartition': 2240, 'yPartition': -3776, 'changeXPartition': 0, 'changeYPartition': 128, 'rightboxtop': -3360, 'rightboxbottom': -3776, 'rightboxleft': 2240, 'rightboxright': 2736, 'leftboxtop': -3648, 'leftboxbottom': -3776, 'leftboxleft': 2176, 'leftboxright': 2240, 'rightchildID': 179, 'leftchildID': 181}
+{'xPartition': 2752, 'yPartition': -3360, 'changeXPartition': -16, 'changeYPartition': 0, 'rightboxtop': -2920, 'rightboxbottom': -3360, 'rightboxleft': 2176, 'rightboxright': 2752, 'leftboxtop': -3360, 'leftboxbottom': -3776, 'leftboxleft': 2176, 'leftboxright': 2736, 'rightchildID': 178, 'leftchildID': 182}
+{'xPartition': 2752, 'yPartition': -2784, 'changeXPartition': -128, 'changeYPartition': 0, 'rightboxtop': -2048, 'rightboxbottom': -2784, 'rightboxleft': 2176, 'rightboxright': 2752, 'leftboxtop': -2920, 'leftboxbottom': -3776, 'leftboxleft': 2176, 'leftboxright': 2752, 'rightchildID': 175, 'leftchildID': 183}
+{'xPartition': 2752, 'yPartition': -3584, 'changeXPartition': 0, 'changeYPartition': 224, 'rightboxtop': -2560, 'rightboxbottom': -3669, 'rightboxleft': 2752, 'rightboxright': 3808, 'leftboxtop': -2048, 'leftboxbottom': -3776, 'leftboxleft': 2176, 'leftboxright': 2752, 'rightchildID': 165, 'leftchildID': 184}
+{'xPartition': 2856, 'yPartition': -4352, 'changeXPartition': 0, 'changeYPartition': 192, 'rightboxtop': -4160, 'rightboxbottom': -4352, 'rightboxleft': 2856, 'rightboxright': 2888, 'leftboxtop': -4160, 'leftboxbottom': -4352, 'leftboxleft': 2688, 'leftboxright': 2856, 'rightchildID': 32957, 'leftchildID': 32958}
+{'xPartition': 2888, 'yPartition': -4352, 'changeXPartition': 0, 'changeYPartition': 32, 'rightboxtop': -4160, 'rightboxbottom': -4352, 'rightboxleft': 2888, 'rightboxright': 3104, 'leftboxtop': -4160, 'leftboxbottom': -4352, 'leftboxleft': 2688, 'leftboxright': 2888, 'rightchildID': 32956, 'leftchildID': 186}
+{'xPartition': 2856, 'yPartition': -4352, 'changeXPartition': 0, 'changeYPartition': -32, 'rightboxtop': -4352, 'rightboxbottom': -4384, 'rightboxleft': 2688, 'rightboxright': 2856, 'leftboxtop': -4352, 'leftboxbottom': -4384, 'leftboxleft': 2912, 'leftboxright': 3104, 'rightchildID': 32960, 'leftchildID': 32961}
+{'xPartition': 2856, 'yPartition': -4384, 'changeXPartition': 56, 'changeYPartition': 0, 'rightboxtop': -4384, 'rightboxbottom': -4544, 'rightboxleft': 2688, 'rightboxright': 3104, 'leftboxtop': -4352, 'leftboxbottom': -4384, 'leftboxleft': 2688, 'leftboxright': 3104, 'rightchildID': 32959, 'leftchildID': 188}
+{'xPartition': 2912, 'yPartition': -4352, 'changeXPartition': -24, 'changeYPartition': 0, 'rightboxtop': -4160, 'rightboxbottom': -4352, 'rightboxleft': 2688, 'rightboxright': 3104, 'leftboxtop': -4352, 'leftboxbottom': -4544, 'leftboxleft': 2688, 'leftboxright': 3104, 'rightchildID': 187, 'leftchildID': 189}
+{'xPartition': 3128, 'yPartition': -4320, 'changeXPartition': 0, 'changeYPartition': -32, 'rightboxtop': -4160, 'rightboxbottom': -4352, 'rightboxleft': 3104, 'rightboxright': 3128, 'leftboxtop': -4160, 'leftboxbottom': -4352, 'leftboxleft': 3128, 'leftboxright': 3160, 'rightchildID': 32964, 'leftchildID': 32965}
+{'xPartition': 3104, 'yPartition': -4384, 'changeXPartition': 56, 'changeYPartition': 0, 'rightboxtop': -4384, 'rightboxbottom': -4544, 'rightboxleft': 3104, 'rightboxright': 3160, 'leftboxtop': -4160, 'leftboxbottom': -4352, 'leftboxleft': 3104, 'leftboxright': 3160, 'rightchildID': 32963, 'leftchildID': 191}
+{'xPartition': 3160, 'yPartition': -4384, 'changeXPartition': 0, 'changeYPartition': 32, 'rightboxtop': -4160, 'rightboxbottom': -4544, 'rightboxleft': 3160, 'rightboxright': 3328, 'leftboxtop': -4160, 'leftboxbottom': -4544, 'leftboxleft': 3104, 'leftboxright': 3160, 'rightchildID': 32962, 'leftchildID': 192}
+{'xPartition': 3104, 'yPartition': -4352, 'changeXPartition': 0, 'changeYPartition': -32, 'rightboxtop': -4160, 'rightboxbottom': -4544, 'rightboxleft': 2688, 'rightboxright': 3104, 'leftboxtop': -4160, 'leftboxbottom': -4544, 'leftboxleft': 3104, 'leftboxright': 3328, 'rightchildID': 190, 'leftchildID': 193}
+{'xPartition': 2992, 'yPartition': -4592, 'changeXPartition': 0, 'changeYPartition': -8, 'rightboxtop': -4592, 'rightboxbottom': -4600, 'rightboxleft': 2944, 'rightboxright': 2992, 'leftboxtop': -4592, 'leftboxbottom': -4600, 'leftboxleft': 2992, 'leftboxright': 3024, 'rightchildID': 32969, 'leftchildID': 32970}
+{'xPartition': 3024, 'yPartition': -4592, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -4544, 'rightboxbottom': -4592, 'rightboxleft': 2944, 'rightboxright': 3024, 'leftboxtop': -4592, 'leftboxbottom': -4600, 'leftboxleft': 2944, 'leftboxright': 3024, 'rightchildID': 32968, 'leftchildID': 195}
+{'xPartition': 3024, 'yPartition': -4600, 'changeXPartition': 0, 'changeYPartition': 8, 'rightboxtop': -4544, 'rightboxbottom': -4600, 'rightboxleft': 3024, 'rightboxright': 3072, 'leftboxtop': -4544, 'leftboxbottom': -4600, 'leftboxleft': 2944, 'leftboxright': 3024, 'rightchildID': 32967, 'leftchildID': 196}
+{'xPartition': 2992, 'yPartition': -4600, 'changeXPartition': 32, 'changeYPartition': 0, 'rightboxtop': -4600, 'rightboxbottom': -4608, 'rightboxleft': 2944, 'rightboxright': 3072, 'leftboxtop': -4544, 'leftboxbottom': -4600, 'leftboxleft': 2944, 'leftboxright': 3072, 'rightchildID': 32966, 'leftchildID': 197}
+{'xPartition': 3040, 'yPartition': -4632, 'changeXPartition': -64, 'changeYPartition': 0, 'rightboxtop': -4608, 'rightboxbottom': -4632, 'rightboxleft': 2976, 'rightboxright': 3040, 'leftboxtop': -4632, 'leftboxbottom': -4648, 'leftboxleft': 2976, 'leftboxright': 3040, 'rightchildID': 32971, 'leftchildID': 32972}
+{'xPartition': 3072, 'yPartition': -4608, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -4544, 'rightboxbottom': -4608, 'rightboxleft': 2944, 'rightboxright': 3072, 'leftboxtop': -4608, 'leftboxbottom': -4648, 'leftboxleft': 2976, 'leftboxright': 3040, 'rightchildID': 198, 'leftchildID': 199}
+{'xPartition': 2992, 'yPartition': -4840, 'changeXPartition': 0, 'changeYPartition': -8, 'rightboxtop': -4840, 'rightboxbottom': -4848, 'rightboxleft': 2912, 'rightboxright': 2992, 'leftboxtop': -4840, 'leftboxbottom': -4848, 'leftboxleft': 2992, 'leftboxright': 3024, 'rightchildID': 32976, 'leftchildID': 32977}
+{'xPartition': 2992, 'yPartition': -4848, 'changeXPartition': 32, 'changeYPartition': 0, 'rightboxtop': -4848, 'rightboxbottom': -4864, 'rightboxleft': 2912, 'rightboxright': 3024, 'leftboxtop': -4840, 'leftboxbottom': -4848, 'leftboxleft': 2912, 'leftboxright': 3024, 'rightchildID': 32975, 'leftchildID': 201}
+{'xPartition': 3024, 'yPartition': -4848, 'changeXPartition': 0, 'changeYPartition': 8, 'rightboxtop': -4840, 'rightboxbottom': -4864, 'rightboxleft': 3024, 'rightboxright': 3104, 'leftboxtop': -4840, 'leftboxbottom': -4864, 'leftboxleft': 2912, 'leftboxright': 3024, 'rightchildID': 32974, 'leftchildID': 202}
+{'xPartition': 3024, 'yPartition': -4840, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -4672, 'rightboxbottom': -4840, 'rightboxleft': 2912, 'rightboxright': 3104, 'leftboxtop': -4840, 'leftboxbottom': -4864, 'leftboxleft': 2912, 'leftboxright': 3104, 'rightchildID': 32973, 'leftchildID': 203}
+{'xPartition': 3040, 'yPartition': -4672, 'changeXPartition': 64, 'changeYPartition': 0, 'rightboxtop': -4672, 'rightboxbottom': -4864, 'rightboxleft': 2912, 'rightboxright': 3104, 'leftboxtop': -4648, 'leftboxbottom': -4672, 'leftboxleft': 2976, 'leftboxright': 3040, 'rightchildID': 204, 'leftchildID': 32978}
+{'xPartition': 3040, 'yPartition': -4648, 'changeXPartition': -64, 'changeYPartition': 0, 'rightboxtop': -4544, 'rightboxbottom': -4648, 'rightboxleft': 2944, 'rightboxright': 3072, 'leftboxtop': -4648, 'leftboxbottom': -4864, 'leftboxleft': 2912, 'leftboxright': 3104, 'rightchildID': 200, 'leftchildID': 205}
+{'xPartition': 2944, 'yPartition': -4544, 'changeXPartition': -256, 'changeYPartition': 0, 'rightboxtop': -4160, 'rightboxbottom': -4544, 'rightboxleft': 2688, 'rightboxright': 3328, 'leftboxtop': -4544, 'leftboxbottom': -4864, 'leftboxleft': 2912, 'leftboxright': 3104, 'rightchildID': 194, 'leftchildID': 206}
+{'xPartition': 2784, 'yPartition': -3776, 'changeXPartition': 0, 'changeYPartition': -128, 'rightboxtop': -3776, 'rightboxbottom': -3904, 'rightboxleft': 2752, 'rightboxright': 2784, 'leftboxtop': -3776, 'leftboxbottom': -3904, 'leftboxleft': 2784, 'leftboxright': 2816, 'rightchildID': 32980, 'leftchildID': 32981}
+{'xPartition': 2816, 'yPartition': -3904, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -3776, 'rightboxbottom': -3904, 'rightboxleft': 2752, 'rightboxright': 2816, 'leftboxtop': -4128, 'leftboxbottom': -4128, 'leftboxleft': 2776, 'leftboxright': 2816, 'rightchildID': 208, 'leftchildID': 32982}
+{'xPartition': 2752, 'yPartition': -3776, 'changeXPartition': 0, 'changeYPartition': -128, 'rightboxtop': -3776, 'rightboxbottom': -3904, 'rightboxleft': 2688, 'rightboxright': 2752, 'leftboxtop': -3776, 'leftboxbottom': -4128, 'leftboxleft': 2752, 'leftboxright': 2816, 'rightchildID': 32979, 'leftchildID': 209}
+{'xPartition': 2848, 'yPartition': -3776, 'changeXPartition': 0, 'changeYPartition': -128, 'rightboxtop': -3776, 'rightboxbottom': -3904, 'rightboxleft': 2816, 'rightboxright': 2848, 'leftboxtop': -3776, 'leftboxbottom': -3904, 'leftboxleft': 2848, 'leftboxright': 2880, 'rightchildID': 32983, 'leftchildID': 32984}
+{'xPartition': 2880, 'yPartition': -3904, 'changeXPartition': -32, 'changeYPartition': 0, 'rightboxtop': -3776, 'rightboxbottom': -3904, 'rightboxleft': 2816, 'rightboxright': 2880, 'leftboxtop': -4128, 'leftboxbottom': -4160, 'leftboxleft': 2816, 'leftboxright': 2856, 'rightchildID': 211, 'leftchildID': 32985}
+{'xPartition': 2880, 'yPartition': -3776, 'changeXPartition': 0, 'changeYPartition': -128, 'rightboxtop': -3776, 'rightboxbottom': -4160, 'rightboxleft': 2816, 'rightboxright': 2880, 'leftboxtop': -3776, 'leftboxbottom': -3904, 'leftboxleft': 2880, 'leftboxright': 2912, 'rightchildID': 212, 'leftchildID': 32986}
+{'xPartition': 2816, 'yPartition': -3776, 'changeXPartition': 0, 'changeYPartition': -128, 'rightboxtop': -3776, 'rightboxbottom': -4128, 'rightboxleft': 2688, 'rightboxright': 2816, 'leftboxtop': -3776, 'leftboxbottom': -4160, 'leftboxleft': 2816, 'leftboxright': 2912, 'rightchildID': 210, 'leftchildID': 213}
+{'xPartition': 2240, 'yPartition': -4096, 'changeXPartition': 0, 'changeYPartition': 128, 'rightboxtop': -3968, 'rightboxbottom': -4096, 'rightboxleft': 2240, 'rightboxright': 2368, 'leftboxtop': -3920, 'leftboxbottom': -4096, 'leftboxleft': 2176, 'leftboxright': 2240, 'rightchildID': 32987, 'leftchildID': 32988}
+{'xPartition': 2688, 'yPartition': -3920, 'changeXPartition': -16, 'changeYPartition': 0, 'rightboxtop': -3792, 'rightboxbottom': -3920, 'rightboxleft': 2435, 'rightboxright': 2688, 'leftboxtop': -3920, 'leftboxbottom': -4096, 'leftboxleft': 2368, 'leftboxright': 2672, 'rightchildID': 32990, 'leftchildID': 32991}
+{'xPartition': 2688, 'yPartition': -4128, 'changeXPartition': 88, 'changeYPartition': 0, 'rightboxtop': -4128, 'rightboxbottom': -4160, 'rightboxleft': 2688, 'rightboxright': 2776, 'leftboxtop': -3792, 'leftboxbottom': -4096, 'leftboxleft': 2368, 'leftboxright': 2688, 'rightchildID': 32989, 'leftchildID': 216}
+{'xPartition': 2632, 'yPartition': -3792, 'changeXPartition': 56, 'changeYPartition': -128, 'rightboxtop': -3792, 'rightboxbottom': -4160, 'rightboxleft': 2368, 'rightboxright': 2776, 'leftboxtop': -3776, 'leftboxbottom': -3920, 'leftboxleft': 2632, 'leftboxright': 2720, 'rightchildID': 217, 'leftchildID': 32992}
+{'xPartition': 2368, 'yPartition': -3968, 'changeXPartition': 0, 'changeYPartition': -128, 'rightboxtop': -3920, 'rightboxbottom': -4096, 'rightboxleft': 2176, 'rightboxright': 2368, 'leftboxtop': -3776, 'leftboxbottom': -4160, 'leftboxleft': 2368, 'leftboxright': 2776, 'rightchildID': 215, 'leftchildID': 218}
+{'xPartition': 2720, 'yPartition': -3904, 'changeXPartition': -32, 'changeYPartition': 128, 'rightboxtop': -3776, 'rightboxbottom': -4160, 'rightboxleft': 2688, 'rightboxright': 2912, 'leftboxtop': -3776, 'leftboxbottom': -4160, 'leftboxleft': 2176, 'leftboxright': 2776, 'rightchildID': 214, 'leftchildID': 219}
+{'xPartition': 3072, 'yPartition': -4000, 'changeXPartition': -128, 'changeYPartition': 0, 'rightboxtop': -3648, 'rightboxbottom': -4000, 'rightboxleft': 2944, 'rightboxright': 3072, 'leftboxtop': -4000, 'leftboxbottom': -4016, 'leftboxleft': 2944, 'leftboxright': 3072, 'rightchildID': 32993, 'leftchildID': 32994}
+{'xPartition': 2944, 'yPartition': -3776, 'changeXPartition': 0, 'changeYPartition': 106, 'rightboxtop': -3648, 'rightboxbottom': -4016, 'rightboxleft': 2944, 'rightboxright': 3072, 'leftboxtop': -3776, 'leftboxbottom': -3904, 'leftboxleft': 2912, 'leftboxright': 2944, 'rightchildID': 221, 'leftchildID': 32995}
+{'xPartition': 2944, 'yPartition': -4032, 'changeXPartition': 128, 'changeYPartition': 0, 'rightboxtop': -4032, 'rightboxbottom': -4160, 'rightboxleft': 2912, 'rightboxright': 3104, 'leftboxtop': -4016, 'leftboxbottom': -4032, 'leftboxleft': 2944, 'leftboxright': 3072, 'rightchildID': 32996, 'leftchildID': 32997}
+{'xPartition': 3072, 'yPartition': -4016, 'changeXPartition': -128, 'changeYPartition': 0, 'rightboxtop': -3648, 'rightboxbottom': -4016, 'rightboxleft': 2912, 'rightboxright': 3072, 'leftboxtop': -4016, 'leftboxbottom': -4160, 'leftboxleft': 2912, 'leftboxright': 3104, 'rightchildID': 222, 'leftchildID': 223}
+{'xPartition': 3200, 'yPartition': -4128, 'changeXPartition': 128, 'changeYPartition': 0, 'rightboxtop': -4128, 'rightboxbottom': -4160, 'rightboxleft': 3160, 'rightboxright': 3328, 'leftboxtop': -3744, 'leftboxbottom': -3968, 'leftboxleft': 3200, 'leftboxright': 3328, 'rightchildID': 32998, 'leftchildID': 32999}
+{'xPartition': 3328, 'yPartition': -3744, 'changeXPartition': 32, 'changeYPartition': 96, 'rightboxtop': -3574, 'rightboxbottom': -3968, 'rightboxleft': 3328, 'rightboxright': 3520, 'leftboxtop': -3601, 'leftboxbottom': -3648, 'leftboxleft': 3353, 'leftboxright': 3360, 'rightchildID': 33000, 'leftchildID': 33001}
+{'xPartition': 3328, 'yPartition': -4128, 'changeXPartition': 0, 'changeYPartition': -32, 'rightboxtop': -3744, 'rightboxbottom': -4160, 'rightboxleft': 3160, 'rightboxright': 3328, 'leftboxtop': -3574, 'leftboxbottom': -3968, 'leftboxleft': 3328, 'leftboxright': 3520, 'rightchildID': 225, 'leftchildID': 226}
+{'xPartition': 3584, 'yPartition': -3840, 'changeXPartition': 0, 'changeYPartition': -64, 'rightboxtop': -3840, 'rightboxbottom': -3904, 'rightboxleft': 3520, 'rightboxright': 3584, 'leftboxtop': -3840, 'leftboxbottom': -3904, 'leftboxleft': 3584, 'leftboxright': 3680, 'rightchildID': 33002, 'leftchildID': 33003}
+{'xPartition': 3584, 'yPartition': -3840, 'changeXPartition': 32, 'changeYPartition': 64, 'rightboxtop': -3776, 'rightboxbottom': -3840, 'rightboxleft': 3584, 'rightboxright': 3616, 'leftboxtop': -3546, 'leftboxbottom': -3776, 'leftboxleft': 3556, 'leftboxright': 3680, 'rightchildID': 33004, 'leftchildID': 33005}
+{'xPartition': 3520, 'yPartition': -3840, 'changeXPartition': 16, 'changeYPartition': 0, 'rightboxtop': -3840, 'rightboxbottom': -3904, 'rightboxleft': 3520, 'rightboxright': 3680, 'leftboxtop': -3546, 'leftboxbottom': -3840, 'leftboxleft': 3556, 'leftboxright': 3680, 'rightchildID': 228, 'leftchildID': 229}
+{'xPartition': 3680, 'yPartition': -3546, 'changeXPartition': 0, 'changeYPartition': -5, 'rightboxtop': -3546, 'rightboxbottom': -3904, 'rightboxleft': 3520, 'rightboxright': 3680, 'leftboxtop': -3552, 'leftboxbottom': -3904, 'leftboxleft': 3680, 'leftboxright': 3744, 'rightchildID': 230, 'leftchildID': 33006}
+{'xPartition': 3520, 'yPartition': -3584, 'changeXPartition': 0, 'changeYPartition': -256, 'rightboxtop': -3574, 'rightboxbottom': -4160, 'rightboxleft': 3160, 'rightboxright': 3520, 'leftboxtop': -3546, 'leftboxbottom': -3904, 'leftboxleft': 3520, 'leftboxright': 3744, 'rightchildID': 227, 'leftchildID': 231}
+{'xPartition': 3104, 'yPartition': -4128, 'changeXPartition': 0, 'changeYPartition': -32, 'rightboxtop': -3648, 'rightboxbottom': -4160, 'rightboxleft': 2912, 'rightboxright': 3104, 'leftboxtop': -3546, 'leftboxbottom': -4160, 'leftboxleft': 3160, 'leftboxright': 3744, 'rightchildID': 224, 'leftchildID': 232}
+{'xPartition': 2912, 'yPartition': -3776, 'changeXPartition': 0, 'changeYPartition': -128, 'rightboxtop': -3776, 'rightboxbottom': -4160, 'rightboxleft': 2176, 'rightboxright': 2912, 'leftboxtop': -3546, 'leftboxbottom': -4160, 'leftboxleft': 2912, 'leftboxright': 3744, 'rightchildID': 220, 'leftchildID': 233}
+{'xPartition': 2888, 'yPartition': -4160, 'changeXPartition': 24, 'changeYPartition': 0, 'rightboxtop': -4160, 'rightboxbottom': -4864, 'rightboxleft': 2688, 'rightboxright': 3328, 'leftboxtop': -3546, 'leftboxbottom': -4160, 'leftboxleft': 2176, 'leftboxright': 3744, 'rightchildID': 207, 'leftchildID': 234}
+{'xPartition': 3264, 'yPartition': -3616, 'changeXPartition': -192, 'changeYPartition': -32, 'rightboxtop': -2048, 'rightboxbottom': -3776, 'rightboxleft': 2176, 'rightboxright': 3808, 'leftboxtop': -3546, 'leftboxbottom': -4864, 'leftboxleft': 2176, 'leftboxright': 3744, 'rightchildID': 185, 'leftchildID': 235}
+{'xPartition': 2176, 'yPartition': -2304, 'changeXPartition': 0, 'changeYPartition': -256, 'rightboxtop': -2048, 'rightboxbottom': -4064, 'rightboxleft': -768, 'rightboxright': 2176, 'leftboxtop': -2048, 'leftboxbottom': -4864, 'leftboxleft': 2176, 'leftboxright': 3808, 'rightchildID': 131, 'leftchildID': 236}

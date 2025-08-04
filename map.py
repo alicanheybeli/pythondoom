@@ -1,6 +1,7 @@
 from enum import IntEnum
-
-
+from pyray import *
+from things import *
+from BSP import * 
 class EMAPLUMPSINDEX(IntEnum):
 
     eTHINGS = 1
@@ -26,9 +27,10 @@ class ELINEDEFFLAGS(IntEnum):
     eDONTDRAW      = 64
     eDRAW          = 128
 
+
 class Vertex:
-    xposition = 0
-    yposition = 0
+    x = 0
+    y = 0
 class Linedef:
     startvertex = None
     endvertex = None
@@ -40,16 +42,96 @@ class Linedef:
 
 
 class Map:
+
+
     mapname = None
     vertexes = []
     linedefs = []
+    things = []
+    nodes = []
+    xmax = 0
+    xmin = 0
+    ymax = 0
+    ymin = 0
+    automapscalefactor = 5
     def __init__(self,mapname:str) -> None:
         self.mapname = mapname
-        
-    def AddVertex(self,vertex):
+    
+
+    def AddVertex(self,vertex:Vertex):
         self.vertexes.append(vertex)
-        
+        self.xmax = max(vertex.x,self.xmax)
+        self.xmin = min(vertex.x,self.xmin)
+        self.ymax = max(vertex.y,self.ymax)
+        self.ymin = min(vertex.y,self.ymin)
+
+
     def AddLinedef(self,linedef):
         self.linedefs.append(linedef)
+    
+    def AddNode(self,Node):
+        self.nodes.append(Node)
+
+    def AddThing(self,thing:Thing):
+        if(thing.type == 1):
+            Players[1].xPos = thing.xPos
+            Players[1].yPos = thing.yPos
+            Players[1].angle = thing.angle
+        self.things.append(thing)
+    def xtoscreen(self,x):
+        return int((x - self.xmin) / self.automapscalefactor)
+    def ytoscreen(self,y):
+        ysize = get_render_height() - 1
+        return int(ysize - ((y -self.ymin) / self.automapscalefactor))
+    def RenderAutoMapWalls(self):
+        
+        for linedef in self.linedefs:
+            vstart = self.vertexes[linedef.startvertex]
+            vend =  self.vertexes[linedef.endvertex] 
+
+
+
+            draw_line(self.xtoscreen(vstart.x),
+                      self.ytoscreen(vstart.y),
+                      self.xtoscreen(vend.x),
+                      self.ytoscreen(vend.y),
+                      BLACK)
+            
+    def RenderAutoMapPlayer(self):
+
+        
+        draw_circle(self.xtoscreen(Players[1].xPos),
+                    self.ytoscreen(Players[1].yPos),
+                    5,RED)
+    
+
+    def RenderAutoMapNodes(self):
+        def RenderNode(node:BTreeNode):
+            draw_rectangle_lines_ex([self.xtoscreen(node.rightboxleft),
+                                 self.ytoscreen(node.rightboxtop),
+                                 self.xtoscreen(node.rightboxright)- self.xtoscreen(node.rightboxleft)+1,
+                                 self.ytoscreen(node.rightboxbottom)- self.ytoscreen(node.rightboxtop)+1],
+                                 1,
+                                 RED)
+            draw_rectangle_lines_ex([self.xtoscreen(node.leftboxleft),
+                                 self.ytoscreen(node.leftboxtop),
+                                 self.xtoscreen(node.leftboxright) - self.xtoscreen(node.leftboxleft)+1,
+                                 self.ytoscreen(node.leftboxbottom) - self.ytoscreen(node.leftboxtop)+1],
+                                 1,
+                                 GREEN)
+        for i in self.nodes:
+            RenderNode(i)
+
+        
+    def RenderAutoMap(self):
+        
+        clear_background(WHITE)
+        self.RenderAutoMapPlayer()
+        self.RenderAutoMapWalls()
+        self.RenderAutoMapNodes()
+
+
+
+        
         
     
