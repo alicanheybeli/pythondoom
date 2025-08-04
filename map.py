@@ -14,6 +14,17 @@ class EMAPLUMPSINDEX(IntEnum):
     eREJECT = 9
     eBLOCKMAP = 10
     eCOUN = 11
+class ELINEDEFFLAGS(IntEnum):
+
+    eBLOCKING      = 0
+    eBLOCKMONSTERS = 1
+    eTWOSIDED      = 2
+    eDONTPEGTOP    = 4
+    eDONTPEGBOTTOM = 8
+    eSECRET        = 16
+    eSOUNDBLOCK    = 32
+    eDONTDRAW      = 64
+    eDRAW          = 128
 
 class Vertex:
     xposition = 0

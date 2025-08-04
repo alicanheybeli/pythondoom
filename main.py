@@ -1,8 +1,12 @@
 # Example file showing a basic pygame "game loop"
+
 import pygame
 import pygame.examples
 import pygame.freetype
+
+ 
 from wad import *
+
 white = (255, 255, 255)
 green = (0, 255, 0)
 blue = (0, 0, 128)
@@ -15,8 +19,14 @@ clock = pygame.time.Clock()
 running = True
 font = pygame.font.Font('freesansbold.ttf', 32)
 
-new = WADLoader("data\\DOOM.wad")
-new.ReadDirectories()
+
+wadloader = WADLoader("data\\DOOM.wad")
+wadloader.ReadDirectories()
+
+#print(LOL.lumpname,LOL.lumpoffset,LOL.lumpsize)
+map = wadloader.LoadMapData(Map('E1M1'))
+
+
 
 while running:
     fps = str(clock.get_fps())

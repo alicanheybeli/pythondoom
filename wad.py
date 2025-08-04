@@ -1,7 +1,8 @@
 
+from logging import *
 from map import *
 
-
+LOL = None
 
 class Header:
     wadtype = None
@@ -45,7 +46,11 @@ class WADLoader:
         directory = Directory()
         directory.lumpoffset = self.Read4Bytes(offset)
         directory.lumpsize = self.Read4Bytes(offset + 4)
-        directory.lumpname = self.data[offset + 8:offset + 15].decode("ascii")
+        directory.lumpname = self.data[offset + 8:offset + 16].replace(b'\x00',b'').decode("ascii")
+
+        if(directory.lumpname == "E1M1"):
+            LOL = directory
+        
         return directory
 
     def ReadVertexData(self,offset):
@@ -65,18 +70,70 @@ class WADLoader:
         linedef.leftsidedef = self.Read2Bytes(offset+12)
         return linedef
     def FindMapIndex(self,map:Map):
-        for i in self.directories:
-            if(i.lumpname == map.mapname):
+        for i in range(0,len(self.directories)):
+            if(self.directories[i].lumpname == map.mapname):
                 return i
         return -1
+    
+    
+    def ReadMapVertex(self,map:Map) -> Map:
+        mapindex = self.FindMapIndex(map)
+        if(mapindex == -1):
+            return False
+        mapindex += EMAPLUMPSINDEX.eVERTEXES
+        if(self.directories[mapindex].lumpname != "VERTEXES"):
+            return False
+        vertexsize = 4 # short x,y;
+        vertexcount = self.directories[mapindex].lumpsize / vertexsize
+        
+        
+        for i in range(0,int(vertexcount)):
+            vertex = self.ReadVertexData(self.directories[mapindex].lumpoffset + i * vertexsize)
+            map.AddVertex(vertex)
+
+            log(vertex.xposition ," ", vertex.yposition , "\n")
+        
+        return map
+    def ReadMapLinedef(self,map:Map) -> Map:
+        mapindex = self.FindMapIndex(map)
+        if(mapindex == -1):
+            return False
+        mapindex += EMAPLUMPSINDEX.eLINEDEFS
+        if(self.directories[mapindex].lumpname != "LINEDEFS"):
+            return False
+        linedefsize = 14 
+        linedefcount = self.directories[mapindex].lumpsize / linedefsize
+        
+        
+        for i in range(0,int(linedefcount)):
+            linedef = self.ReadVertexData(self.directories[mapindex].lumpoffset + i * linedefsize)
+            map.AddLinedef(linedef)
+
+            log(linedef.xposition , " " , linedef.yposition , "\n")
+        
+        return map
+
+
+    def LoadMapData(self,map:Map)->map:
+        
+        newmap = self.ReadMapVertex(map)
+        if(not newmap):
+           log("Error: Failed to load map vertex data MAP: " + map.mapname)
+           return False
+        
+        newmap = self.ReadMapLinedef(map)
+        if(not newmap):
+           log("Error: Failed to load map linedef data MAP: " + map.mapname)
+           return False
+        return newmap
 
     def ReadDirectories(self):
         self.ReadHeaderData(0)
-        print(self.header.wadtype)
-        print(self.header.directorycount)
-        print(self.header.directoryoffset)
+        log(self.header.wadtype)
+        log(self.header.directorycount)
+        log(self.header.directoryoffset)
         directory = Directory()
         for i in range(0,self.header.directorycount):
             directory = self.ReadDirectoryData(self.header.directoryoffset + i * 16)
             self.directories.append(directory)
-            print([directory.lumpoffset,directory.lumpsize,directory.lumpname],"\n")
+            log([directory.lumpoffset,directory.lumpsize,directory.lumpname],"\n")
