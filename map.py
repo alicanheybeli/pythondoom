@@ -2,6 +2,8 @@ from enum import IntEnum
 from pyray import *
 from things import *
 from BSP import * 
+
+SUBSECTORIDENTIFIER = 0
 class EMAPLUMPSINDEX(IntEnum):
 
     eTHINGS = 1
@@ -48,12 +50,12 @@ class Map:
     vertexes = []
     linedefs = []
     things = []
-    nodes = []
+    nodes = [BTreeNode]
     xmax = 0
     xmin = 0
     ymax = 0
     ymin = 0
-    automapscalefactor = 5
+    automapscalefactor = 10
     def __init__(self,mapname:str) -> None:
         self.mapname = mapname
     
@@ -65,7 +67,33 @@ class Map:
         self.ymax = max(vertex.y,self.ymax)
         self.ymin = min(vertex.y,self.ymin)
 
+    def CheckPointSubSectorSide(self,pointX,pointY,nodeID):
+        dx = pointX - self.nodes[nodeID].xPartition
+        dy = pointY - self.nodes[nodeID].yPartition
 
+        return (((dx * self.nodes[nodeID].changeXPartition) -(dy*self.nodes[nodeID].changeYPartition)) >= 0)
+    def RenderBSPNodes(self, NodeID:int):
+        def RenderSubSector(_NodeID):
+            self.RenderNode(self.nodes[_NodeID])
+        #bID = format(NodeID, '016b')
+        #
+        #if(bID[SUBSECTORIDENTIFIER] == "-"): #I have to do It this because python is fucking dumb
+        #    bID = "0" + bID[1:15] 
+        #    bID = int(bID,2)
+        #    RenderSubSector(0,bID)
+        #    return
+        if(NodeID >= 32768):
+            RenderSubSector(NodeID - 32768)
+            return
+        
+        isonleftside = self.CheckPointSubSectorSide(Players[1].xPos,Players[1].yPos,NodeID)
+        if(isonleftside):
+            self.RenderBSPNodes(self.nodes[NodeID].leftchildID)
+        else:
+            self.RenderBSPNodes(self.nodes[NodeID].rightchildID)
+            
+
+        
     def AddLinedef(self,linedef):
         self.linedefs.append(linedef)
     
@@ -104,23 +132,27 @@ class Map:
                     self.ytoscreen(Players[1].yPos),
                     5,RED)
     
-
+    def RenderNode(self, node:BTreeNode):
+        draw_rectangle_lines_ex([self.xtoscreen(node.rightboxleft),
+                             self.ytoscreen(node.rightboxtop),
+                             self.xtoscreen(node.rightboxright)- self.xtoscreen(node.rightboxleft)+1,
+                             self.ytoscreen(node.rightboxbottom)- self.ytoscreen(node.rightboxtop)+1],
+                             3,
+                             RED)
+        draw_rectangle_lines_ex([self.xtoscreen(node.leftboxleft),
+                             self.ytoscreen(node.leftboxtop),
+                             self.xtoscreen(node.leftboxright) - self.xtoscreen(node.leftboxleft)+1,
+                             self.ytoscreen(node.leftboxbottom) - self.ytoscreen(node.leftboxtop)+1],
+                             3,
+                             GREEN)
+        draw_line(self.xtoscreen(node.xPartition),
+                  self.ytoscreen(node.yPartition),
+                  self.xtoscreen(node.xPartition+ node.changeXPartition),
+                  self.ytoscreen(node.yPartition+node.changeYPartition),
+                  BLUE)
     def RenderAutoMapNodes(self):
-        def RenderNode(node:BTreeNode):
-            draw_rectangle_lines_ex([self.xtoscreen(node.rightboxleft),
-                                 self.ytoscreen(node.rightboxtop),
-                                 self.xtoscreen(node.rightboxright)- self.xtoscreen(node.rightboxleft)+1,
-                                 self.ytoscreen(node.rightboxbottom)- self.ytoscreen(node.rightboxtop)+1],
-                                 1,
-                                 RED)
-            draw_rectangle_lines_ex([self.xtoscreen(node.leftboxleft),
-                                 self.ytoscreen(node.leftboxtop),
-                                 self.xtoscreen(node.leftboxright) - self.xtoscreen(node.leftboxleft)+1,
-                                 self.ytoscreen(node.leftboxbottom) - self.ytoscreen(node.leftboxtop)+1],
-                                 1,
-                                 GREEN)
         for i in self.nodes:
-            RenderNode(i)
+            self.RenderNode(i)
 
         
     def RenderAutoMap(self):
@@ -128,7 +160,8 @@ class Map:
         clear_background(WHITE)
         self.RenderAutoMapPlayer()
         self.RenderAutoMapWalls()
-        self.RenderAutoMapNodes()
+        #self.RenderAutoMapNodes()
+        self.RenderBSPNodes(self.nodes.__len__() - 1)
 
 
 

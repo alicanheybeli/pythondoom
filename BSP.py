@@ -1,18 +1,18 @@
 class BTreeNode():
-    xPartition = 0
-    yPartition = 0
-    changeXPartition = 0
-    changeYPartition = 0
+    xPartition = None
+    yPartition = None
+    changeXPartition = None
+    changeYPartition = None
 
-    rightboxtop = 0
-    rightboxbottom = 0
-    rightboxleft = 0
-    rightboxright = 0
+    rightboxtop = None
+    rightboxbottom = None
+    rightboxleft = None
+    rightboxright = None
 
-    leftboxtop = 0
-    leftboxbottom = 0
-    leftboxleft = 0
-    leftboxright = 0
+    leftboxtop = None
+    leftboxbottom = None
+    leftboxleft = None
+    leftboxright = None
 
-    rightchildID = 0
-    leftchildID = 0
+    rightchildID = None
+    leftchildID = None

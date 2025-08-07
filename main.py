@@ -11,6 +11,7 @@ game = Game()
 game.Init()
 
 while not game.IsOver():
+    #set_target_fps(4)
     game.ProcessInput()
     game.Update()   
     game.Render()

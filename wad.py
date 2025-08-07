@@ -158,25 +158,25 @@ class WADLoader:
 
     def LoadMapData(self,map:Map)->map:
         
-        newmap = self.ReadMapVertex(map)
-        if(not newmap):
+        map = self.ReadMapVertex(map)
+        if(not map):
            log("Error: Failed to load map vertex data for MAP: " + map.mapname)
            return False
         
-        newmap = self.ReadMapLinedef(map)
-        if(not newmap):
+        map = self.ReadMapLinedef(map)
+        if(not map):
            log("Error: Failed to load map linedef data for MAP: " + map.mapname)
            return False
         
-        newmap = self.ReadMapThings(map)
-        if(not newmap):
+        map = self.ReadMapThings(map)
+        if(not map):
            log("Error: Failed to load map things data for MAP: " + map.mapname)
            return False
-        newmap = self.ReadMapNodes(map)
-        if(not newmap):
+        map = self.ReadMapNodes(map)
+        if(not map):
            log("Error: Failed to load map nodes data for MAP: " + map.mapname)
            return False
-        return newmap
+        return map
 
     def ReadDirectories(self):
         self.ReadHeaderData(0)
