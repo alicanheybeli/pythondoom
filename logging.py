@@ -1,5 +1,5 @@
 
-f = open("log.txt","w+")
+f = open("log.log","w+")
 
 def log(*value):
     string = ''
