@@ -61,7 +61,9 @@ class Map:
     automapscalefactor = 10
     def __init__(self,mapname:str) -> None:
         self.mapname = mapname
-    
+        self.rendertexture = None
+        self.currentNodeID = len(self.nodes) - 1  # start at root
+        self.nodestack = []
 
     def AddVertex(self,vertex:Vertex):
         self.vertexes.append(vertex)
@@ -91,7 +93,7 @@ class Map:
                          [randrange(0,255,1),randrange(0,255,1),randrange(0,255,1),255])
         rl_draw_render_batch_active()
         swap_screen_buffer()
-        wait_time(0.2)
+        #wait_time(0.2)
         swap_screen_buffer()
             
             
@@ -106,23 +108,23 @@ class Map:
 
         bID = format(NodeID, '016b')
         
-        if(bID[SUBSECTORIDENTIFIER] == "1"): #I have to do It this because python is fucking dumb
-            bID = "0" + bID[1:15] 
-            bID = int(bID,2)
-            self.RenderSubSector(bID)
+
+        if(NodeID >= 32768):
+            self.RenderSubSector(NodeID - 32768)
             return
-        #if(NodeID >= 32768):
-        #    self.RenderSubSector(NodeID - 32768)
-        #    return
         
         
-        isonleftside = self.CheckPointSubSectorSide(Players[1].xPos,Players[1].yPos,NodeID)
-        if(isonleftside):
-            self.RenderBSPNodes(self.nodes[NodeID].leftchildID)
-            self.RenderBSPNodes(self.nodes[NodeID].rightchildID)
-        else:
-            self.RenderBSPNodes(self.nodes[NodeID].rightchildID)
-            self.RenderBSPNodes(self.nodes[NodeID].leftchildID)
+        
+        self.RenderBSPNodes(self.nodes[NodeID].leftchildID)
+        self.RenderBSPNodes(self.nodes[NodeID].rightchildID)
+        #isonleftside = self.CheckPointSubSectorSide(Players[1].xPos,Players[1].yPos,NodeID)
+        
+        #if(isonleftside):
+        #    self.RenderBSPNodes(self.nodes[NodeID].leftchildID)
+        #    self.RenderBSPNodes(self.nodes[NodeID].rightchildID)
+        #else:
+        #    self.RenderBSPNodes(self.nodes[NodeID].rightchildID)
+        #    self.RenderBSPNodes(self.nodes[NodeID].leftchildID)
             
 
         
@@ -187,19 +189,34 @@ class Map:
             self.RenderNode(i)
 
         
+    #def RenderAutoMap(self):
+    #    
+    #    clear_background(WHITE)
+    #    self.RenderAutoMapPlayer()
+    #    self.RenderAutoMapWalls()
+    #    #self.RenderAutoMapNodes()
+    #    #log("\n\n\n\n\n\n")
+    #    #for i in self.nodes:
+    #    #    log(i)
+    #    #    log("\n")
+    #    #log("\n\n\n\n\n\n")
+    #    self.RenderBSPNodes(self.nodes.__len__() - 1)
     def RenderAutoMap(self):
-        
-        clear_background(WHITE)
-        self.RenderAutoMapPlayer()
-        self.RenderAutoMapWalls()
-        #self.RenderAutoMapNodes()
-        #log("\n\n\n\n\n\n")
-        #for i in self.nodes:
-        #    log(i)
-        #    log("\n")
-        #log("\n\n\n\n\n\n")
-        self.RenderBSPNodes(self.nodes.__len__() - 1)
+        draw_texture_rec(self.rendertexture.texture, 
+                     [0, 0, self.rendertexture.texture.width, -self.rendertexture.texture.height],
+                     [0, 0], 
+                     WHITE)
+        self.RenderAutoMapPlayer()  # player still draws every frame
 
+        self.RenderNode(self.nodes[self.currentNodeID])
+
+    def RenderToTexture(self):
+        self.rendertexture = load_render_texture(800, 450)
+        begin_texture_mode(self.rendertexture)
+        clear_background(WHITE)
+        self.RenderAutoMapWalls()
+        self.RenderBSPNodes(self.nodes.__len__() - 1)
+        end_texture_mode()
 
 
         
