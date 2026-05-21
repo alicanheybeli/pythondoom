@@ -1,28 +1,44 @@
-What it is:
-A DOOM WAD file parser and automap renderer written in Python. Reads the binary WAD format, parses map geometry, BSP trees, subsectors and segs, and renders them using raylib.
-What it does currently:
+# Python DOOM WAD Renderer
 
-Parses DOOM 1 WAD format (header, directories, map lumps)
-Renders automap with linedefs and segs colored by subsector
-BSP tree visualization with bounding boxes (red/green)
-Interactive BSP tree traversal with arrow keys
-Player position marker
+A DOOM 1 WAD file parser and automap visualizer written in Python, following a C++ tutorial ported to Python with raylib.
 
-Requirements:
+![Automap](screenshot.png)
 
-Python 3.x
-pyray (pip install raylib)
-A legal copy of DOOM.WAD placed in data/
+## What it does
 
-How to run:
+- Parses the DOOM 1 WAD binary format — header, directories, and map lumps
+- Reads map geometry: vertices, linedefs, segs, subsectors, BSP nodes, and things
+- Renders a full automap with linedefs in black and segs colored by subsector
+- Visualizes BSP tree bounding boxes (red = right child, green = left child)
+- Interactive BSP tree traversal — navigate the tree in real time with arrow keys
+- Player position marker
+
+## Requirements
+
+- Python 3.x
+- raylib (`pip install raylib`)
+- A legal copy of `DOOM.WAD` placed in the `data/` folder
+
+## How to run
+
+```
 pip install raylib
 python main.py
-Controls:
+```
 
-Left/Right arrows — traverse BSP tree children
-Up arrow — go back to parent node
+## Controls
 
-Known issues / current state:
+| Key | Action |
+|-----|--------|
+| Right arrow | Traverse to right child node |
+| Left arrow | Traverse to left child node |
+| Up arrow | Go back to parent node |
 
-Read-only visualization, no gameplay
-Texture rendering not implemented
+## Current state
+
+Work in progress. WAD parsing and automap visualization are functional. No gameplay, no texture rendering, no 3D view yet.
+
+## References
+
+- [Doom Wiki — WAD format](https://doomwiki.org/wiki/WAD)
+- [Doom Wiki — BSP](https://doomwiki.org/wiki/Node)
