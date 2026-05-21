@@ -16,3 +16,13 @@ class BTreeNode():
 
     rightchildID = None
     leftchildID = None
+class Subsector():
+    segcount = None
+    firstsegID= None
+class Seg():
+    startvertexID = None
+    endvertexID = None
+    angle = None
+    linedefID = None
+    direction = None
+    offset = None

@@ -2,7 +2,8 @@ from enum import IntEnum
 from pyray import *
 from things import *
 from BSP import * 
-
+from logging import log
+from random import randrange
 SUBSECTORIDENTIFIER = 0
 class EMAPLUMPSINDEX(IntEnum):
 
@@ -16,7 +17,7 @@ class EMAPLUMPSINDEX(IntEnum):
     eSECTORS = 8
     eREJECT = 9
     eBLOCKMAP = 10
-    eCOUN = 11
+    eCOUNT = 11
 class ELINEDEFFLAGS(IntEnum):
 
     eBLOCKING      = 0
@@ -47,10 +48,12 @@ class Map:
 
 
     mapname = None
-    vertexes = []
-    linedefs = []
-    things = []
-    nodes = [BTreeNode]
+    vertexes:list[Vertex] = []
+    linedefs:list[Linedef] = []
+    things:list[Thing] = []
+    nodes:list[BTreeNode] = []
+    segs:list[Seg] = []
+    subsectors = []
     xmax = 0
     xmin = 0
     ymax = 0
@@ -72,25 +75,54 @@ class Map:
         dy = pointY - self.nodes[nodeID].yPartition
 
         return (((dx * self.nodes[nodeID].changeXPartition) -(dy*self.nodes[nodeID].changeYPartition)) >= 0)
+    def RenderSubSector(self,subsectorID):
+        #self.RenderNode(self.nodes[_NodeID])
+        #rl_draw_render_batch_active()
+        #swap_screen_buffer()
+        #wait_time(1)
+        #swap_screen_buffer()
+        ssector = self.subsectors[subsectorID]
+        for i in self.segs[ssector.firstsegID:(ssector.firstsegID+ssector.segcount+1)]:
+            draw_line_ex([self.xtoscreen(self.vertexes[i.startvertexID].x),
+                         self.ytoscreen(self.vertexes[i.startvertexID].y)],
+                         [self.xtoscreen(self.vertexes[i.endvertexID].x),
+                         self.ytoscreen(self.vertexes[i.endvertexID].y)],
+                         2,
+                         [randrange(0,255,1),randrange(0,255,1),randrange(0,255,1),255])
+        rl_draw_render_batch_active()
+        swap_screen_buffer()
+        wait_time(0.2)
+        swap_screen_buffer()
+            
+            
+        
+    def AddSubSector(self,ssector):
+        self.subsectors.append(ssector)
+
+    def AddSegs(self,segs):
+        self.segs.append(segs)
+
     def RenderBSPNodes(self, NodeID:int):
-        def RenderSubSector(_NodeID):
-            self.RenderNode(self.nodes[_NodeID])
-        #bID = format(NodeID, '016b')
-        #
-        #if(bID[SUBSECTORIDENTIFIER] == "-"): #I have to do It this because python is fucking dumb
-        #    bID = "0" + bID[1:15] 
-        #    bID = int(bID,2)
-        #    RenderSubSector(0,bID)
-        #    return
-        if(NodeID >= 32768):
-            RenderSubSector(NodeID - 32768)
+
+        bID = format(NodeID, '016b')
+        
+        if(bID[SUBSECTORIDENTIFIER] == "1"): #I have to do It this because python is fucking dumb
+            bID = "0" + bID[1:15] 
+            bID = int(bID,2)
+            self.RenderSubSector(bID)
             return
+        #if(NodeID >= 32768):
+        #    self.RenderSubSector(NodeID - 32768)
+        #    return
+        
         
         isonleftside = self.CheckPointSubSectorSide(Players[1].xPos,Players[1].yPos,NodeID)
         if(isonleftside):
             self.RenderBSPNodes(self.nodes[NodeID].leftchildID)
+            self.RenderBSPNodes(self.nodes[NodeID].rightchildID)
         else:
             self.RenderBSPNodes(self.nodes[NodeID].rightchildID)
+            self.RenderBSPNodes(self.nodes[NodeID].leftchildID)
             
 
         
@@ -161,6 +193,11 @@ class Map:
         self.RenderAutoMapPlayer()
         self.RenderAutoMapWalls()
         #self.RenderAutoMapNodes()
+        #log("\n\n\n\n\n\n")
+        #for i in self.nodes:
+        #    log(i)
+        #    log("\n")
+        #log("\n\n\n\n\n\n")
         self.RenderBSPNodes(self.nodes.__len__() - 1)
 
 

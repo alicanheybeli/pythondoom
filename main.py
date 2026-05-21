@@ -4,8 +4,8 @@
 from wad import *
 from pyray import *
 from doomengine import *
-
-
+import sys
+sys.setrecursionlimit(1000000)
 game = Game()
 
 game.Init()

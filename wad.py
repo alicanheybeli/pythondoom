@@ -69,6 +69,21 @@ class WADLoader:
         vertex.x = self.Read2Bytes_SShort(offset)
         vertex.y = self.Read2Bytes_SShort(offset + 2)
         return vertex
+    def ReadSSectorData(self,offset):
+        ssector = Subsector()
+        ssector.segcount = self.Read2Bytes_UShort(offset)
+        ssector.firstsegID = self.Read2Bytes_UShort(offset + 2)
+        return ssector
+    def ReadSegData(self,offset):
+        seg = Seg()
+        seg.startvertexID = self.Read2Bytes_UShort(offset)
+        seg.endvertexID = self.Read2Bytes_UShort(offset + 2)
+        seg.angle = self.Read2Bytes_UShort(offset + 4)
+        seg.linedefID = self.Read2Bytes_UShort(offset + 6)
+        seg.direction = self.Read2Bytes_UShort(offset + 8)
+        seg.offset = self.Read2Bytes_UShort(offset + 10)
+        return seg
+    
     def ReadNodesData(self,offset):
         node = BTreeNode()
         
@@ -176,6 +191,14 @@ class WADLoader:
         if(not map):
            log("Error: Failed to load map nodes data for MAP: " + map.mapname)
            return False
+        map = self.ReadMapSubSectors(map)
+        if(not map):
+           log("Error: Failed to load map nodes data for MAP: " + map.mapname)
+           return False
+        map = self.ReadMapSegs(map)
+        if(not map):
+           log("Error: Failed to load map nodes data for MAP: " + map.mapname)
+           return False
         return map
 
     def ReadDirectories(self):
@@ -222,6 +245,46 @@ class WADLoader:
             node = self.ReadNodesData(self.directories[mapindex].lumpoffset + i * nodesize)
             map.AddNode(node)
             log(vars(node))
+            log("\n")
+            #log(linedef.xposition , " " , linedef.yposition , "\n")
+        
+        return map
+    
+    def ReadMapSubSectors(self,map:Map) -> Map:
+        mapindex = self.FindMapIndex(map)
+        if(mapindex == -1):
+            return False
+        mapindex += EMAPLUMPSINDEX.eSSECTORS
+        if(self.directories[mapindex].lumpname != "SSECTORS"):
+            return False
+        Ssectorsize = 4
+        SubSectorcount = self.directories[mapindex].lumpsize / Ssectorsize
+        
+        
+        for i in range(0,int(SubSectorcount)):
+            Ssector = self.ReadSSectorData(self.directories[mapindex].lumpoffset + i * Ssectorsize)
+            map.AddSubSector(Ssector)
+            log(vars(Ssector))
+            log("\n")
+            #log(linedef.xposition , " " , linedef.yposition , "\n")
+        
+        return map
+        
+    def ReadMapSegs(self,map:Map) -> Map:
+        mapindex = self.FindMapIndex(map)
+        if(mapindex == -1):
+            return False
+        mapindex += EMAPLUMPSINDEX.eSEAGS
+        if(self.directories[mapindex].lumpname != "SEGS"):
+            return False
+        segsize = 12
+        segcount = self.directories[mapindex].lumpsize / segsize
+        
+        
+        for i in range(0,int(segcount)):
+            seg = self.ReadSegData(self.directories[mapindex].lumpoffset + i * segsize)
+            map.AddSegs(seg)
+            log(vars(seg))
             log("\n")
             #log(linedef.xposition , " " , linedef.yposition , "\n")
         

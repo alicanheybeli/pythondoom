@@ -3155,3 +3155,973 @@ IWAD230612371396[12, 10752, 'PLAYPAL']
 {'xPartition': 2888, 'yPartition': -4160, 'changeXPartition': 24, 'changeYPartition': 0, 'rightboxtop': -4160, 'rightboxbottom': -4864, 'rightboxleft': 2688, 'rightboxright': 3328, 'leftboxtop': -3546, 'leftboxbottom': -4160, 'leftboxleft': 2176, 'leftboxright': 3744, 'rightchildID': 207, 'leftchildID': 234}
 {'xPartition': 3264, 'yPartition': -3616, 'changeXPartition': -192, 'changeYPartition': -32, 'rightboxtop': -2048, 'rightboxbottom': -3776, 'rightboxleft': 2176, 'rightboxright': 3808, 'leftboxtop': -3546, 'leftboxbottom': -4864, 'leftboxleft': 2176, 'leftboxright': 3744, 'rightchildID': 185, 'leftchildID': 235}
 {'xPartition': 2176, 'yPartition': -2304, 'changeXPartition': 0, 'changeYPartition': -256, 'rightboxtop': -2048, 'rightboxbottom': -4064, 'rightboxleft': -768, 'rightboxright': 2176, 'leftboxtop': -2048, 'leftboxbottom': -4864, 'leftboxleft': 2176, 'leftboxright': 3808, 'rightchildID': 131, 'leftchildID': 236}
+{'segcount': 8, 'firstsegID': 0}
+{'segcount': 1, 'firstsegID': 8}
+{'segcount': 1, 'firstsegID': 9}
+{'segcount': 1, 'firstsegID': 10}
+{'segcount': 1, 'firstsegID': 11}
+{'segcount': 1, 'firstsegID': 12}
+{'segcount': 1, 'firstsegID': 13}
+{'segcount': 6, 'firstsegID': 14}
+{'segcount': 6, 'firstsegID': 20}
+{'segcount': 1, 'firstsegID': 26}
+{'segcount': 3, 'firstsegID': 27}
+{'segcount': 4, 'firstsegID': 30}
+{'segcount': 4, 'firstsegID': 34}
+{'segcount': 4, 'firstsegID': 38}
+{'segcount': 5, 'firstsegID': 42}
+{'segcount': 4, 'firstsegID': 47}
+{'segcount': 4, 'firstsegID': 51}
+{'segcount': 4, 'firstsegID': 55}
+{'segcount': 4, 'firstsegID': 59}
+{'segcount': 2, 'firstsegID': 63}
+{'segcount': 3, 'firstsegID': 65}
+{'segcount': 2, 'firstsegID': 68}
+{'segcount': 1, 'firstsegID': 70}
+{'segcount': 4, 'firstsegID': 71}
+{'segcount': 2, 'firstsegID': 75}
+{'segcount': 6, 'firstsegID': 77}
+{'segcount': 4, 'firstsegID': 83}
+{'segcount': 4, 'firstsegID': 87}
+{'segcount': 6, 'firstsegID': 91}
+{'segcount': 3, 'firstsegID': 97}
+{'segcount': 2, 'firstsegID': 100}
+{'segcount': 4, 'firstsegID': 102}
+{'segcount': 3, 'firstsegID': 106}
+{'segcount': 3, 'firstsegID': 109}
+{'segcount': 2, 'firstsegID': 112}
+{'segcount': 4, 'firstsegID': 114}
+{'segcount': 6, 'firstsegID': 118}
+{'segcount': 2, 'firstsegID': 124}
+{'segcount': 4, 'firstsegID': 126}
+{'segcount': 3, 'firstsegID': 130}
+{'segcount': 3, 'firstsegID': 133}
+{'segcount': 2, 'firstsegID': 136}
+{'segcount': 4, 'firstsegID': 138}
+{'segcount': 5, 'firstsegID': 142}
+{'segcount': 4, 'firstsegID': 147}
+{'segcount': 3, 'firstsegID': 151}
+{'segcount': 2, 'firstsegID': 154}
+{'segcount': 3, 'firstsegID': 156}
+{'segcount': 2, 'firstsegID': 159}
+{'segcount': 2, 'firstsegID': 161}
+{'segcount': 4, 'firstsegID': 163}
+{'segcount': 5, 'firstsegID': 167}
+{'segcount': 6, 'firstsegID': 172}
+{'segcount': 3, 'firstsegID': 178}
+{'segcount': 1, 'firstsegID': 181}
+{'segcount': 4, 'firstsegID': 182}
+{'segcount': 4, 'firstsegID': 186}
+{'segcount': 8, 'firstsegID': 190}
+{'segcount': 4, 'firstsegID': 198}
+{'segcount': 2, 'firstsegID': 202}
+{'segcount': 4, 'firstsegID': 204}
+{'segcount': 1, 'firstsegID': 208}
+{'segcount': 1, 'firstsegID': 209}
+{'segcount': 2, 'firstsegID': 210}
+{'segcount': 2, 'firstsegID': 212}
+{'segcount': 1, 'firstsegID': 214}
+{'segcount': 5, 'firstsegID': 215}
+{'segcount': 1, 'firstsegID': 220}
+{'segcount': 3, 'firstsegID': 221}
+{'segcount': 4, 'firstsegID': 224}
+{'segcount': 1, 'firstsegID': 228}
+{'segcount': 3, 'firstsegID': 229}
+{'segcount': 1, 'firstsegID': 232}
+{'segcount': 4, 'firstsegID': 233}
+{'segcount': 2, 'firstsegID': 237}
+{'segcount': 2, 'firstsegID': 239}
+{'segcount': 5, 'firstsegID': 241}
+{'segcount': 4, 'firstsegID': 246}
+{'segcount': 7, 'firstsegID': 250}
+{'segcount': 3, 'firstsegID': 257}
+{'segcount': 4, 'firstsegID': 260}
+{'segcount': 3, 'firstsegID': 264}
+{'segcount': 3, 'firstsegID': 267}
+{'segcount': 4, 'firstsegID': 270}
+{'segcount': 4, 'firstsegID': 274}
+{'segcount': 3, 'firstsegID': 278}
+{'segcount': 2, 'firstsegID': 281}
+{'segcount': 4, 'firstsegID': 283}
+{'segcount': 3, 'firstsegID': 287}
+{'segcount': 2, 'firstsegID': 290}
+{'segcount': 4, 'firstsegID': 292}
+{'segcount': 5, 'firstsegID': 296}
+{'segcount': 5, 'firstsegID': 301}
+{'segcount': 4, 'firstsegID': 306}
+{'segcount': 4, 'firstsegID': 310}
+{'segcount': 4, 'firstsegID': 314}
+{'segcount': 4, 'firstsegID': 318}
+{'segcount': 2, 'firstsegID': 322}
+{'segcount': 2, 'firstsegID': 324}
+{'segcount': 2, 'firstsegID': 326}
+{'segcount': 4, 'firstsegID': 328}
+{'segcount': 1, 'firstsegID': 332}
+{'segcount': 1, 'firstsegID': 333}
+{'segcount': 1, 'firstsegID': 334}
+{'segcount': 1, 'firstsegID': 335}
+{'segcount': 1, 'firstsegID': 336}
+{'segcount': 1, 'firstsegID': 337}
+{'segcount': 8, 'firstsegID': 338}
+{'segcount': 2, 'firstsegID': 346}
+{'segcount': 2, 'firstsegID': 348}
+{'segcount': 4, 'firstsegID': 350}
+{'segcount': 1, 'firstsegID': 354}
+{'segcount': 3, 'firstsegID': 355}
+{'segcount': 2, 'firstsegID': 358}
+{'segcount': 2, 'firstsegID': 360}
+{'segcount': 1, 'firstsegID': 362}
+{'segcount': 4, 'firstsegID': 363}
+{'segcount': 1, 'firstsegID': 367}
+{'segcount': 3, 'firstsegID': 368}
+{'segcount': 2, 'firstsegID': 371}
+{'segcount': 1, 'firstsegID': 373}
+{'segcount': 5, 'firstsegID': 374}
+{'segcount': 4, 'firstsegID': 379}
+{'segcount': 2, 'firstsegID': 383}
+{'segcount': 4, 'firstsegID': 385}
+{'segcount': 2, 'firstsegID': 389}
+{'segcount': 3, 'firstsegID': 391}
+{'segcount': 2, 'firstsegID': 394}
+{'segcount': 2, 'firstsegID': 396}
+{'segcount': 4, 'firstsegID': 398}
+{'segcount': 2, 'firstsegID': 402}
+{'segcount': 2, 'firstsegID': 404}
+{'segcount': 3, 'firstsegID': 406}
+{'segcount': 6, 'firstsegID': 409}
+{'segcount': 3, 'firstsegID': 415}
+{'segcount': 1, 'firstsegID': 418}
+{'segcount': 2, 'firstsegID': 419}
+{'segcount': 3, 'firstsegID': 421}
+{'segcount': 2, 'firstsegID': 424}
+{'segcount': 1, 'firstsegID': 426}
+{'segcount': 1, 'firstsegID': 427}
+{'segcount': 4, 'firstsegID': 428}
+{'segcount': 1, 'firstsegID': 432}
+{'segcount': 1, 'firstsegID': 433}
+{'segcount': 2, 'firstsegID': 434}
+{'segcount': 4, 'firstsegID': 436}
+{'segcount': 1, 'firstsegID': 440}
+{'segcount': 2, 'firstsegID': 441}
+{'segcount': 3, 'firstsegID': 443}
+{'segcount': 4, 'firstsegID': 446}
+{'segcount': 2, 'firstsegID': 450}
+{'segcount': 4, 'firstsegID': 452}
+{'segcount': 3, 'firstsegID': 456}
+{'segcount': 2, 'firstsegID': 459}
+{'segcount': 2, 'firstsegID': 461}
+{'segcount': 4, 'firstsegID': 463}
+{'segcount': 4, 'firstsegID': 467}
+{'segcount': 1, 'firstsegID': 471}
+{'segcount': 2, 'firstsegID': 472}
+{'segcount': 2, 'firstsegID': 474}
+{'segcount': 2, 'firstsegID': 476}
+{'segcount': 1, 'firstsegID': 478}
+{'segcount': 1, 'firstsegID': 479}
+{'segcount': 4, 'firstsegID': 480}
+{'segcount': 2, 'firstsegID': 484}
+{'segcount': 4, 'firstsegID': 486}
+{'segcount': 2, 'firstsegID': 490}
+{'segcount': 2, 'firstsegID': 492}
+{'segcount': 5, 'firstsegID': 494}
+{'segcount': 2, 'firstsegID': 499}
+{'segcount': 4, 'firstsegID': 501}
+{'segcount': 4, 'firstsegID': 505}
+{'segcount': 4, 'firstsegID': 509}
+{'segcount': 3, 'firstsegID': 513}
+{'segcount': 2, 'firstsegID': 516}
+{'segcount': 2, 'firstsegID': 518}
+{'segcount': 5, 'firstsegID': 520}
+{'segcount': 2, 'firstsegID': 525}
+{'segcount': 5, 'firstsegID': 527}
+{'segcount': 2, 'firstsegID': 532}
+{'segcount': 2, 'firstsegID': 534}
+{'segcount': 1, 'firstsegID': 536}
+{'segcount': 4, 'firstsegID': 537}
+{'segcount': 2, 'firstsegID': 541}
+{'segcount': 4, 'firstsegID': 543}
+{'segcount': 1, 'firstsegID': 547}
+{'segcount': 3, 'firstsegID': 548}
+{'segcount': 2, 'firstsegID': 551}
+{'segcount': 7, 'firstsegID': 553}
+{'segcount': 6, 'firstsegID': 560}
+{'segcount': 2, 'firstsegID': 566}
+{'segcount': 5, 'firstsegID': 568}
+{'segcount': 2, 'firstsegID': 573}
+{'segcount': 3, 'firstsegID': 575}
+{'segcount': 4, 'firstsegID': 578}
+{'segcount': 2, 'firstsegID': 582}
+{'segcount': 5, 'firstsegID': 584}
+{'segcount': 6, 'firstsegID': 589}
+{'segcount': 6, 'firstsegID': 595}
+{'segcount': 3, 'firstsegID': 601}
+{'segcount': 3, 'firstsegID': 604}
+{'segcount': 2, 'firstsegID': 607}
+{'segcount': 4, 'firstsegID': 609}
+{'segcount': 4, 'firstsegID': 613}
+{'segcount': 4, 'firstsegID': 617}
+{'segcount': 8, 'firstsegID': 621}
+{'segcount': 3, 'firstsegID': 629}
+{'segcount': 3, 'firstsegID': 632}
+{'segcount': 2, 'firstsegID': 635}
+{'segcount': 4, 'firstsegID': 637}
+{'segcount': 4, 'firstsegID': 641}
+{'segcount': 4, 'firstsegID': 645}
+{'segcount': 4, 'firstsegID': 649}
+{'segcount': 4, 'firstsegID': 653}
+{'segcount': 1, 'firstsegID': 657}
+{'segcount': 4, 'firstsegID': 658}
+{'segcount': 4, 'firstsegID': 662}
+{'segcount': 1, 'firstsegID': 666}
+{'segcount': 4, 'firstsegID': 667}
+{'segcount': 8, 'firstsegID': 671}
+{'segcount': 3, 'firstsegID': 679}
+{'segcount': 2, 'firstsegID': 682}
+{'segcount': 4, 'firstsegID': 684}
+{'segcount': 3, 'firstsegID': 688}
+{'segcount': 4, 'firstsegID': 691}
+{'segcount': 5, 'firstsegID': 695}
+{'segcount': 4, 'firstsegID': 700}
+{'segcount': 4, 'firstsegID': 704}
+{'segcount': 6, 'firstsegID': 708}
+{'segcount': 4, 'firstsegID': 714}
+{'segcount': 3, 'firstsegID': 718}
+{'segcount': 6, 'firstsegID': 721}
+{'segcount': 6, 'firstsegID': 727}
+{'segcount': 1, 'firstsegID': 733}
+{'segcount': 6, 'firstsegID': 734}
+{'segcount': 2, 'firstsegID': 740}
+{'segcount': 1, 'firstsegID': 742}
+{'segcount': 2, 'firstsegID': 743}
+{'segcount': 2, 'firstsegID': 745}
+{'startvertexID': 132, 'endvertexID': 133, 'angle': 4156, 'linedefID': 160, 'direction': 0, 'offset': 0}
+{'startvertexID': 133, 'endvertexID': 134, 'angle': 0, 'linedefID': 161, 'direction': 0, 'offset': 0}
+{'startvertexID': 134, 'endvertexID': 135, 'angle': 62710, 'linedefID': 162, 'direction': 0, 'offset': 0}
+{'startvertexID': 135, 'endvertexID': 136, 'angle': 55435, 'linedefID': 163, 'direction': 0, 'offset': 0}
+{'startvertexID': 136, 'endvertexID': 137, 'angle': 44565, 'linedefID': 164, 'direction': 0, 'offset': 0}
+{'startvertexID': 137, 'endvertexID': 138, 'angle': 34249, 'linedefID': 165, 'direction': 0, 'offset': 0}
+{'startvertexID': 138, 'endvertexID': 139, 'angle': 30049, 'linedefID': 166, 'direction': 0, 'offset': 0}
+{'startvertexID': 139, 'endvertexID': 132, 'angle': 17538, 'linedefID': 167, 'direction': 0, 'offset': 0}
+{'startvertexID': 139, 'endvertexID': 138, 'angle': 62818, 'linedefID': 166, 'direction': 1, 'offset': 0}
+{'startvertexID': 138, 'endvertexID': 137, 'angle': 1480, 'linedefID': 165, 'direction': 1, 'offset': 0}
+{'startvertexID': 137, 'endvertexID': 136, 'angle': 11796, 'linedefID': 164, 'direction': 1, 'offset': 0}
+{'startvertexID': 136, 'endvertexID': 135, 'angle': 22666, 'linedefID': 163, 'direction': 1, 'offset': 0}
+{'startvertexID': 135, 'endvertexID': 134, 'angle': 29941, 'linedefID': 162, 'direction': 1, 'offset': 0}
+{'startvertexID': 133, 'endvertexID': 132, 'angle': 36925, 'linedefID': 160, 'direction': 1, 'offset': 0}
+{'startvertexID': 31, 'endvertexID': 32, 'angle': 16384, 'linedefID': 29, 'direction': 0, 'offset': 0}
+{'startvertexID': 33, 'endvertexID': 34, 'angle': 16384, 'linedefID': 30, 'direction': 0, 'offset': 0}
+{'startvertexID': 34, 'endvertexID': 31, 'angle': 16384, 'linedefID': 35, 'direction': 0, 'offset': 0}
+{'startvertexID': 132, 'endvertexID': 139, 'angle': 50307, 'linedefID': 167, 'direction': 1, 'offset': 0}
+{'startvertexID': 387, 'endvertexID': 33, 'angle': 16384, 'linedefID': 475, 'direction': 0, 'offset': 0}
+{'startvertexID': 388, 'endvertexID': 387, 'angle': 16384, 'linedefID': 476, 'direction': 0, 'offset': 0}
+{'startvertexID': 32, 'endvertexID': 35, 'angle': 16384, 'linedefID': 36, 'direction': 0, 'offset': 0}
+{'startvertexID': 35, 'endvertexID': 40, 'angle': 6133, 'linedefID': 43, 'direction': 0, 'offset': 0}
+{'startvertexID': 130, 'endvertexID': 131, 'angle': 59710, 'linedefID': 159, 'direction': 0, 'offset': 0}
+{'startvertexID': 134, 'endvertexID': 133, 'angle': 32768, 'linedefID': 161, 'direction': 1, 'offset': 0}
+{'startvertexID': 40, 'endvertexID': 389, 'angle': 0, 'linedefID': 478, 'direction': 0, 'offset': 0}
+{'startvertexID': 389, 'endvertexID': 130, 'angle': 0, 'linedefID': 479, 'direction': 0, 'offset': 0}
+{'startvertexID': 131, 'endvertexID': 390, 'angle': 0, 'linedefID': 480, 'direction': 0, 'offset': 0}
+{'startvertexID': 131, 'endvertexID': 130, 'angle': 26941, 'linedefID': 159, 'direction': 1, 'offset': 0}
+{'startvertexID': 390, 'endvertexID': 131, 'angle': 32768, 'linedefID': 480, 'direction': 1, 'offset': 0}
+{'startvertexID': 391, 'endvertexID': 390, 'angle': 49152, 'linedefID': 482, 'direction': 0, 'offset': 64}
+{'startvertexID': 27, 'endvertexID': 26, 'angle': 16384, 'linedefID': 25, 'direction': 1, 'offset': 0}
+{'startvertexID': 34, 'endvertexID': 33, 'angle': 49152, 'linedefID': 30, 'direction': 1, 'offset': 0}
+{'startvertexID': 26, 'endvertexID': 34, 'angle': 0, 'linedefID': 31, 'direction': 0, 'offset': 0}
+{'startvertexID': 33, 'endvertexID': 27, 'angle': 32768, 'linedefID': 32, 'direction': 0, 'offset': 0}
+{'startvertexID': 386, 'endvertexID': 385, 'angle': 16384, 'linedefID': 471, 'direction': 1, 'offset': 0}
+{'startvertexID': 385, 'endvertexID': 387, 'angle': 0, 'linedefID': 472, 'direction': 0, 'offset': 0}
+{'startvertexID': 388, 'endvertexID': 386, 'angle': 32768, 'linedefID': 473, 'direction': 0, 'offset': 0}
+{'startvertexID': 387, 'endvertexID': 388, 'angle': 49152, 'linedefID': 476, 'direction': 1, 'offset': 0}
+{'startvertexID': 28, 'endvertexID': 30, 'angle': 16384, 'linedefID': 28, 'direction': 1, 'offset': 0}
+{'startvertexID': 32, 'endvertexID': 31, 'angle': 49152, 'linedefID': 29, 'direction': 1, 'offset': 0}
+{'startvertexID': 31, 'endvertexID': 28, 'angle': 32768, 'linedefID': 33, 'direction': 0, 'offset': 0}
+{'startvertexID': 30, 'endvertexID': 32, 'angle': 0, 'linedefID': 34, 'direction': 0, 'offset': 0}
+{'startvertexID': 392, 'endvertexID': 187, 'angle': 27931, 'linedefID': 211, 'direction': 0, 'offset': 71}
+{'startvertexID': 183, 'endvertexID': 185, 'angle': 0, 'linedefID': 217, 'direction': 0, 'offset': 0}
+{'startvertexID': 185, 'endvertexID': 213, 'angle': 49152, 'linedefID': 255, 'direction': 0, 'offset': 0}
+{'startvertexID': 187, 'endvertexID': 214, 'angle': 21798, 'linedefID': 257, 'direction': 0, 'offset': 0}
+{'startvertexID': 214, 'endvertexID': 183, 'angle': 16384, 'linedefID': 258, 'direction': 0, 'offset': 0}
+{'startvertexID': 183, 'endvertexID': 182, 'angle': 16384, 'linedefID': 208, 'direction': 0, 'offset': 0}
+{'startvertexID': 184, 'endvertexID': 185, 'angle': 49152, 'linedefID': 210, 'direction': 0, 'offset': 0}
+{'startvertexID': 182, 'endvertexID': 184, 'angle': 0, 'linedefID': 216, 'direction': 0, 'offset': 0}
+{'startvertexID': 185, 'endvertexID': 183, 'angle': 32768, 'linedefID': 217, 'direction': 1, 'offset': 0}
+{'startvertexID': 182, 'endvertexID': 181, 'angle': 16384, 'linedefID': 207, 'direction': 0, 'offset': 0}
+{'startvertexID': 178, 'endvertexID': 184, 'angle': 49152, 'linedefID': 209, 'direction': 0, 'offset': 0}
+{'startvertexID': 181, 'endvertexID': 178, 'angle': 0, 'linedefID': 215, 'direction': 0, 'offset': 0}
+{'startvertexID': 184, 'endvertexID': 182, 'angle': 32768, 'linedefID': 216, 'direction': 1, 'offset': 0}
+{'startvertexID': 177, 'endvertexID': 178, 'angle': 49152, 'linedefID': 204, 'direction': 0, 'offset': 0}
+{'startvertexID': 181, 'endvertexID': 179, 'angle': 16384, 'linedefID': 206, 'direction': 0, 'offset': 0}
+{'startvertexID': 179, 'endvertexID': 177, 'angle': 0, 'linedefID': 214, 'direction': 0, 'offset': 0}
+{'startvertexID': 178, 'endvertexID': 181, 'angle': 32768, 'linedefID': 215, 'direction': 1, 'offset': 0}
+{'startvertexID': 176, 'endvertexID': 177, 'angle': 49152, 'linedefID': 203, 'direction': 0, 'offset': 0}
+{'startvertexID': 179, 'endvertexID': 180, 'angle': 16384, 'linedefID': 205, 'direction': 0, 'offset': 0}
+{'startvertexID': 180, 'endvertexID': 176, 'angle': 0, 'linedefID': 213, 'direction': 0, 'offset': 0}
+{'startvertexID': 177, 'endvertexID': 179, 'angle': 32768, 'linedefID': 214, 'direction': 1, 'offset': 0}
+{'startvertexID': 210, 'endvertexID': 42, 'angle': 32768, 'linedefID': 248, 'direction': 0, 'offset': 0}
+{'startvertexID': 42, 'endvertexID': 388, 'angle': 16384, 'linedefID': 474, 'direction': 0, 'offset': 0}
+{'startvertexID': 41, 'endvertexID': 42, 'angle': 30603, 'linedefID': 44, 'direction': 0, 'offset': 0}
+{'startvertexID': 42, 'endvertexID': 210, 'angle': 0, 'linedefID': 248, 'direction': 1, 'offset': 0}
+{'startvertexID': 210, 'endvertexID': 129, 'angle': 49152, 'linedefID': 249, 'direction': 0, 'offset': 0}
+{'startvertexID': 43, 'endvertexID': 41, 'angle': 28405, 'linedefID': 45, 'direction': 0, 'offset': 0}
+{'startvertexID': 129, 'endvertexID': 43, 'angle': 31701, 'linedefID': 158, 'direction': 0, 'offset': 0}
+{'startvertexID': 393, 'endvertexID': 210, 'angle': 32768, 'linedefID': 247, 'direction': 0, 'offset': 64}
+{'startvertexID': 175, 'endvertexID': 174, 'angle': 32768, 'linedefID': 202, 'direction': 0, 'offset': 0}
+{'startvertexID': 173, 'endvertexID': 175, 'angle': 32768, 'linedefID': 212, 'direction': 0, 'offset': 0}
+{'startvertexID': 210, 'endvertexID': 393, 'angle': 0, 'linedefID': 247, 'direction': 1, 'offset': 0}
+{'startvertexID': 394, 'endvertexID': 210, 'angle': 16384, 'linedefID': 249, 'direction': 1, 'offset': 96}
+{'startvertexID': 174, 'endvertexID': 129, 'angle': 45797, 'linedefID': 201, 'direction': 0, 'offset': 0}
+{'startvertexID': 129, 'endvertexID': 394, 'angle': 16384, 'linedefID': 249, 'direction': 1, 'offset': 0}
+{'startvertexID': 175, 'endvertexID': 173, 'angle': 0, 'linedefID': 212, 'direction': 1, 'offset': 0}
+{'startvertexID': 176, 'endvertexID': 180, 'angle': 32768, 'linedefID': 213, 'direction': 1, 'offset': 0}
+{'startvertexID': 173, 'endvertexID': 363, 'angle': 49152, 'linedefID': 440, 'direction': 0, 'offset': 0}
+{'startvertexID': 363, 'endvertexID': 176, 'angle': 49152, 'linedefID': 441, 'direction': 0, 'offset': 0}
+{'startvertexID': 180, 'endvertexID': 364, 'angle': 16384, 'linedefID': 442, 'direction': 0, 'offset': 0}
+{'startvertexID': 364, 'endvertexID': 175, 'angle': 16384, 'linedefID': 443, 'direction': 0, 'offset': 0}
+{'startvertexID': 298, 'endvertexID': 299, 'angle': 49152, 'linedefID': 361, 'direction': 0, 'offset': 0}
+{'startvertexID': 309, 'endvertexID': 298, 'angle': 0, 'linedefID': 373, 'direction': 1, 'offset': 0}
+{'startvertexID': 299, 'endvertexID': 306, 'angle': 32768, 'linedefID': 477, 'direction': 0, 'offset': 0}
+{'startvertexID': 306, 'endvertexID': 309, 'angle': 16384, 'linedefID': 484, 'direction': 0, 'offset': 0}
+{'startvertexID': 306, 'endvertexID': 299, 'angle': 0, 'linedefID': 477, 'direction': 1, 'offset': 0}
+{'startvertexID': 130, 'endvertexID': 389, 'angle': 32768, 'linedefID': 479, 'direction': 1, 'offset': 0}
+{'startvertexID': 299, 'endvertexID': 391, 'angle': 49152, 'linedefID': 482, 'direction': 0, 'offset': 0}
+{'startvertexID': 389, 'endvertexID': 306, 'angle': 16384, 'linedefID': 483, 'direction': 0, 'offset': 0}
+{'startvertexID': 290, 'endvertexID': 395, 'angle': 16384, 'linedefID': 367, 'direction': 0, 'offset': 0}
+{'startvertexID': 396, 'endvertexID': 125, 'angle': 16384, 'linedefID': 378, 'direction': 0, 'offset': 8}
+{'startvertexID': 125, 'endvertexID': 319, 'angle': 16384, 'linedefID': 386, 'direction': 0, 'offset': 0}
+{'startvertexID': 319, 'endvertexID': 290, 'angle': 16384, 'linedefID': 387, 'direction': 0, 'offset': 0}
+{'startvertexID': 340, 'endvertexID': 341, 'angle': 32768, 'linedefID': 413, 'direction': 0, 'offset': 0}
+{'startvertexID': 344, 'endvertexID': 345, 'angle': 0, 'linedefID': 417, 'direction': 0, 'offset': 0}
+{'startvertexID': 397, 'endvertexID': 304, 'angle': 16384, 'linedefID': 367, 'direction': 0, 'offset': 136}
+{'startvertexID': 304, 'endvertexID': 398, 'angle': 0, 'linedefID': 368, 'direction': 0, 'offset': 0}
+{'startvertexID': 346, 'endvertexID': 347, 'angle': 32768, 'linedefID': 419, 'direction': 0, 'offset': 0}
+{'startvertexID': 395, 'endvertexID': 397, 'angle': 16384, 'linedefID': 367, 'direction': 0, 'offset': 56}
+{'startvertexID': 347, 'endvertexID': 344, 'angle': 49152, 'linedefID': 420, 'direction': 0, 'offset': 0}
+{'startvertexID': 314, 'endvertexID': 315, 'angle': 16384, 'linedefID': 380, 'direction': 0, 'offset': 0}
+{'startvertexID': 345, 'endvertexID': 399, 'angle': 32768, 'linedefID': 417, 'direction': 1, 'offset': 0}
+{'startvertexID': 346, 'endvertexID': 345, 'angle': 49152, 'linedefID': 418, 'direction': 1, 'offset': 0}
+{'startvertexID': 400, 'endvertexID': 346, 'angle': 0, 'linedefID': 419, 'direction': 1, 'offset': 200}
+{'startvertexID': 315, 'endvertexID': 316, 'angle': 32768, 'linedefID': 381, 'direction': 0, 'offset': 0}
+{'startvertexID': 347, 'endvertexID': 400, 'angle': 0, 'linedefID': 419, 'direction': 1, 'offset': 0}
+{'startvertexID': 401, 'endvertexID': 347, 'angle': 16384, 'linedefID': 420, 'direction': 1, 'offset': 72}
+{'startvertexID': 316, 'endvertexID': 317, 'angle': 49152, 'linedefID': 382, 'direction': 0, 'offset': 0}
+{'startvertexID': 402, 'endvertexID': 344, 'angle': 32768, 'linedefID': 417, 'direction': 1, 'offset': 200}
+{'startvertexID': 344, 'endvertexID': 401, 'angle': 16384, 'linedefID': 420, 'direction': 1, 'offset': 0}
+{'startvertexID': 317, 'endvertexID': 314, 'angle': 0, 'linedefID': 383, 'direction': 0, 'offset': 0}
+{'startvertexID': 399, 'endvertexID': 402, 'angle': 32768, 'linedefID': 417, 'direction': 1, 'offset': 8}
+{'startvertexID': 315, 'endvertexID': 314, 'angle': 49152, 'linedefID': 380, 'direction': 1, 'offset': 0}
+{'startvertexID': 316, 'endvertexID': 315, 'angle': 0, 'linedefID': 381, 'direction': 1, 'offset': 0}
+{'startvertexID': 317, 'endvertexID': 316, 'angle': 16384, 'linedefID': 382, 'direction': 1, 'offset': 0}
+{'startvertexID': 314, 'endvertexID': 317, 'angle': 32768, 'linedefID': 383, 'direction': 1, 'offset': 0}
+{'startvertexID': 403, 'endvertexID': 309, 'angle': 32768, 'linedefID': 373, 'direction': 0, 'offset': 392}
+{'startvertexID': 124, 'endvertexID': 396, 'angle': 16384, 'linedefID': 378, 'direction': 0, 'offset': 0}
+{'startvertexID': 294, 'endvertexID': 318, 'angle': 16384, 'linedefID': 384, 'direction': 0, 'offset': 0}
+{'startvertexID': 318, 'endvertexID': 124, 'angle': 16384, 'linedefID': 385, 'direction': 0, 'offset': 0}
+{'startvertexID': 341, 'endvertexID': 342, 'angle': 49152, 'linedefID': 414, 'direction': 0, 'offset': 0}
+{'startvertexID': 309, 'endvertexID': 294, 'angle': 16384, 'linedefID': 485, 'direction': 0, 'offset': 0}
+{'startvertexID': 404, 'endvertexID': 403, 'angle': 32768, 'linedefID': 373, 'direction': 0, 'offset': 184}
+{'startvertexID': 342, 'endvertexID': 343, 'angle': 0, 'linedefID': 415, 'direction': 0, 'offset': 0}
+{'startvertexID': 336, 'endvertexID': 337, 'angle': 16384, 'linedefID': 409, 'direction': 0, 'offset': 0}
+{'startvertexID': 405, 'endvertexID': 340, 'angle': 0, 'linedefID': 413, 'direction': 1, 'offset': 200}
+{'startvertexID': 343, 'endvertexID': 406, 'angle': 32768, 'linedefID': 415, 'direction': 1, 'offset': 0}
+{'startvertexID': 340, 'endvertexID': 343, 'angle': 49152, 'linedefID': 416, 'direction': 1, 'offset': 0}
+{'startvertexID': 337, 'endvertexID': 338, 'angle': 32768, 'linedefID': 410, 'direction': 0, 'offset': 0}
+{'startvertexID': 341, 'endvertexID': 405, 'angle': 0, 'linedefID': 413, 'direction': 1, 'offset': 0}
+{'startvertexID': 407, 'endvertexID': 341, 'angle': 16384, 'linedefID': 414, 'direction': 1, 'offset': 72}
+{'startvertexID': 338, 'endvertexID': 339, 'angle': 49152, 'linedefID': 411, 'direction': 0, 'offset': 0}
+{'startvertexID': 342, 'endvertexID': 407, 'angle': 16384, 'linedefID': 414, 'direction': 1, 'offset': 0}
+{'startvertexID': 408, 'endvertexID': 342, 'angle': 32768, 'linedefID': 415, 'direction': 1, 'offset': 200}
+{'startvertexID': 339, 'endvertexID': 336, 'angle': 0, 'linedefID': 412, 'direction': 0, 'offset': 0}
+{'startvertexID': 406, 'endvertexID': 408, 'angle': 32768, 'linedefID': 415, 'direction': 1, 'offset': 8}
+{'startvertexID': 337, 'endvertexID': 336, 'angle': 49152, 'linedefID': 409, 'direction': 1, 'offset': 0}
+{'startvertexID': 338, 'endvertexID': 337, 'angle': 0, 'linedefID': 410, 'direction': 1, 'offset': 0}
+{'startvertexID': 339, 'endvertexID': 338, 'angle': 16384, 'linedefID': 411, 'direction': 1, 'offset': 0}
+{'startvertexID': 336, 'endvertexID': 339, 'angle': 32768, 'linedefID': 412, 'direction': 1, 'offset': 0}
+{'startvertexID': 326, 'endvertexID': 327, 'angle': 0, 'linedefID': 396, 'direction': 0, 'offset': 0}
+{'startvertexID': 334, 'endvertexID': 335, 'angle': 32768, 'linedefID': 404, 'direction': 0, 'offset': 0}
+{'startvertexID': 327, 'endvertexID': 334, 'angle': 49152, 'linedefID': 406, 'direction': 0, 'offset': 0}
+{'startvertexID': 409, 'endvertexID': 340, 'angle': 16384, 'linedefID': 416, 'direction': 0, 'offset': 72}
+{'startvertexID': 345, 'endvertexID': 410, 'angle': 16384, 'linedefID': 418, 'direction': 0, 'offset': 0}
+{'startvertexID': 327, 'endvertexID': 328, 'angle': 0, 'linedefID': 397, 'direction': 0, 'offset': 0}
+{'startvertexID': 333, 'endvertexID': 334, 'angle': 32768, 'linedefID': 403, 'direction': 0, 'offset': 0}
+{'startvertexID': 334, 'endvertexID': 327, 'angle': 16384, 'linedefID': 406, 'direction': 1, 'offset': 0}
+{'startvertexID': 328, 'endvertexID': 333, 'angle': 49152, 'linedefID': 407, 'direction': 0, 'offset': 0}
+{'startvertexID': 298, 'endvertexID': 404, 'angle': 32768, 'linedefID': 373, 'direction': 0, 'offset': 0}
+{'startvertexID': 322, 'endvertexID': 411, 'angle': 0, 'linedefID': 392, 'direction': 0, 'offset': 0}
+{'startvertexID': 343, 'endvertexID': 412, 'angle': 16384, 'linedefID': 416, 'direction': 0, 'offset': 0}
+{'startvertexID': 335, 'endvertexID': 322, 'angle': 49152, 'linedefID': 405, 'direction': 0, 'offset': 0}
+{'startvertexID': 412, 'endvertexID': 409, 'angle': 16384, 'linedefID': 416, 'direction': 0, 'offset': 40}
+{'startvertexID': 398, 'endvertexID': 413, 'angle': 0, 'linedefID': 368, 'direction': 0, 'offset': 328}
+{'startvertexID': 414, 'endvertexID': 325, 'angle': 32768, 'linedefID': 394, 'direction': 0, 'offset': 160}
+{'startvertexID': 415, 'endvertexID': 346, 'angle': 16384, 'linedefID': 418, 'direction': 0, 'offset': 40}
+{'startvertexID': 325, 'endvertexID': 326, 'angle': 49152, 'linedefID': 395, 'direction': 0, 'offset': 0}
+{'startvertexID': 410, 'endvertexID': 415, 'angle': 16384, 'linedefID': 418, 'direction': 0, 'offset': 8}
+{'startvertexID': 301, 'endvertexID': 416, 'angle': 0, 'linedefID': 363, 'direction': 0, 'offset': 0}
+{'startvertexID': 413, 'endvertexID': 304, 'angle': 32768, 'linedefID': 368, 'direction': 1, 'offset': 320}
+{'startvertexID': 122, 'endvertexID': 123, 'angle': 16384, 'linedefID': 149, 'direction': 0, 'offset': 0}
+{'startvertexID': 124, 'endvertexID': 122, 'angle': 32768, 'linedefID': 154, 'direction': 0, 'offset': 0}
+{'startvertexID': 123, 'endvertexID': 125, 'angle': 0, 'linedefID': 155, 'direction': 0, 'offset': 0}
+{'startvertexID': 125, 'endvertexID': 124, 'angle': 49152, 'linedefID': 378, 'direction': 1, 'offset': 0}
+{'startvertexID': 290, 'endvertexID': 291, 'angle': 32768, 'linedefID': 356, 'direction': 0, 'offset': 0}
+{'startvertexID': 291, 'endvertexID': 292, 'angle': 16384, 'linedefID': 357, 'direction': 0, 'offset': 0}
+{'startvertexID': 300, 'endvertexID': 301, 'angle': 0, 'linedefID': 362, 'direction': 0, 'offset': 0}
+{'startvertexID': 292, 'endvertexID': 300, 'angle': 16384, 'linedefID': 366, 'direction': 0, 'offset': 0}
+{'startvertexID': 304, 'endvertexID': 290, 'angle': 49152, 'linedefID': 367, 'direction': 1, 'offset': 0}
+{'startvertexID': 293, 'endvertexID': 294, 'angle': 0, 'linedefID': 358, 'direction': 0, 'offset': 0}
+{'startvertexID': 306, 'endvertexID': 307, 'angle': 32768, 'linedefID': 370, 'direction': 0, 'offset': 0}
+{'startvertexID': 307, 'endvertexID': 308, 'angle': 16384, 'linedefID': 371, 'direction': 0, 'offset': 0}
+{'startvertexID': 308, 'endvertexID': 293, 'angle': 16384, 'linedefID': 372, 'direction': 0, 'offset': 0}
+{'startvertexID': 309, 'endvertexID': 306, 'angle': 49152, 'linedefID': 484, 'direction': 1, 'offset': 0}
+{'startvertexID': 294, 'endvertexID': 309, 'angle': 49152, 'linedefID': 485, 'direction': 1, 'offset': 0}
+{'startvertexID': 118, 'endvertexID': 117, 'angle': 36406, 'linedefID': 144, 'direction': 0, 'offset': 0}
+{'startvertexID': 417, 'endvertexID': 119, 'angle': 4223, 'linedefID': 145, 'direction': 0, 'offset': 104}
+{'startvertexID': 119, 'endvertexID': 118, 'angle': 49152, 'linedefID': 147, 'direction': 0, 'offset': 0}
+{'startvertexID': 117, 'endvertexID': 29, 'angle': 47713, 'linedefID': 143, 'direction': 0, 'offset': 0}
+{'startvertexID': 118, 'endvertexID': 119, 'angle': 16384, 'linedefID': 147, 'direction': 1, 'offset': 0}
+{'startvertexID': 120, 'endvertexID': 121, 'angle': 49152, 'linedefID': 148, 'direction': 0, 'offset': 0}
+{'startvertexID': 121, 'endvertexID': 118, 'angle': 32768, 'linedefID': 150, 'direction': 0, 'offset': 0}
+{'startvertexID': 119, 'endvertexID': 120, 'angle': 0, 'linedefID': 151, 'direction': 0, 'offset': 0}
+{'startvertexID': 121, 'endvertexID': 120, 'angle': 16384, 'linedefID': 148, 'direction': 1, 'offset': 0}
+{'startvertexID': 123, 'endvertexID': 122, 'angle': 49152, 'linedefID': 149, 'direction': 1, 'offset': 0}
+{'startvertexID': 120, 'endvertexID': 123, 'angle': 0, 'linedefID': 152, 'direction': 0, 'offset': 0}
+{'startvertexID': 122, 'endvertexID': 121, 'angle': 32768, 'linedefID': 153, 'direction': 0, 'offset': 0}
+{'startvertexID': 16, 'endvertexID': 17, 'angle': 32768, 'linedefID': 15, 'direction': 0, 'offset': 0}
+{'startvertexID': 24, 'endvertexID': 25, 'angle': 0, 'linedefID': 23, 'direction': 0, 'offset': 0}
+{'startvertexID': 26, 'endvertexID': 27, 'angle': 49152, 'linedefID': 25, 'direction': 0, 'offset': 0}
+{'startvertexID': 28, 'endvertexID': 26, 'angle': 49152, 'linedefID': 26, 'direction': 0, 'offset': 0}
+{'startvertexID': 30, 'endvertexID': 28, 'angle': 49152, 'linedefID': 28, 'direction': 0, 'offset': 0}
+{'startvertexID': 20, 'endvertexID': 24, 'angle': 0, 'linedefID': 47, 'direction': 0, 'offset': 0}
+{'startvertexID': 17, 'endvertexID': 12, 'angle': 32768, 'linedefID': 48, 'direction': 0, 'offset': 0}
+{'startvertexID': 12, 'endvertexID': 20, 'angle': 16384, 'linedefID': 49, 'direction': 0, 'offset': 0}
+{'startvertexID': 12, 'endvertexID': 13, 'angle': 32768, 'linedefID': 11, 'direction': 0, 'offset': 0}
+{'startvertexID': 19, 'endvertexID': 20, 'angle': 0, 'linedefID': 18, 'direction': 0, 'offset': 0}
+{'startvertexID': 20, 'endvertexID': 12, 'angle': 49152, 'linedefID': 49, 'direction': 1, 'offset': 0}
+{'startvertexID': 13, 'endvertexID': 19, 'angle': 16384, 'linedefID': 50, 'direction': 0, 'offset': 0}
+{'startvertexID': 19, 'endvertexID': 13, 'angle': 49152, 'linedefID': 50, 'direction': 1, 'offset': 0}
+{'startvertexID': 44, 'endvertexID': 45, 'angle': 16384, 'linedefID': 54, 'direction': 1, 'offset': 0}
+{'startvertexID': 20, 'endvertexID': 21, 'angle': 16384, 'linedefID': 19, 'direction': 0, 'offset': 0}
+{'startvertexID': 23, 'endvertexID': 24, 'angle': 49152, 'linedefID': 22, 'direction': 0, 'offset': 0}
+{'startvertexID': 24, 'endvertexID': 20, 'angle': 32768, 'linedefID': 47, 'direction': 1, 'offset': 0}
+{'startvertexID': 21, 'endvertexID': 23, 'angle': 0, 'linedefID': 51, 'direction': 0, 'offset': 0}
+{'startvertexID': 23, 'endvertexID': 21, 'angle': 32768, 'linedefID': 51, 'direction': 1, 'offset': 0}
+{'startvertexID': 22, 'endvertexID': 23, 'angle': 32768, 'linedefID': 21, 'direction': 0, 'offset': 0}
+{'startvertexID': 25, 'endvertexID': 22, 'angle': 16384, 'linedefID': 24, 'direction': 0, 'offset': 0}
+{'startvertexID': 22, 'endvertexID': 30, 'angle': 62981, 'linedefID': 39, 'direction': 0, 'offset': 0}
+{'startvertexID': 18, 'endvertexID': 19, 'angle': 49152, 'linedefID': 17, 'direction': 0, 'offset': 0}
+{'startvertexID': 45, 'endvertexID': 36, 'angle': 16384, 'linedefID': 53, 'direction': 0, 'offset': 0}
+{'startvertexID': 21, 'endvertexID': 18, 'angle': 32768, 'linedefID': 20, 'direction': 0, 'offset': 0}
+{'startvertexID': 29, 'endvertexID': 30, 'angle': 49152, 'linedefID': 27, 'direction': 0, 'offset': 0}
+{'startvertexID': 30, 'endvertexID': 22, 'angle': 30212, 'linedefID': 39, 'direction': 1, 'offset': 0}
+{'startvertexID': 37, 'endvertexID': 38, 'angle': 4587, 'linedefID': 41, 'direction': 0, 'offset': 0}
+{'startvertexID': 38, 'endvertexID': 39, 'angle': 0, 'linedefID': 42, 'direction': 0, 'offset': 0}
+{'startvertexID': 39, 'endvertexID': 29, 'angle': 0, 'linedefID': 146, 'direction': 1, 'offset': 0}
+{'startvertexID': 36, 'endvertexID': 37, 'angle': 0, 'linedefID': 40, 'direction': 0, 'offset': 0}
+{'startvertexID': 39, 'endvertexID': 116, 'angle': 15438, 'linedefID': 142, 'direction': 0, 'offset': 0}
+{'startvertexID': 116, 'endvertexID': 417, 'angle': 4223, 'linedefID': 145, 'direction': 0, 'offset': 0}
+{'startvertexID': 29, 'endvertexID': 39, 'angle': 32768, 'linedefID': 146, 'direction': 0, 'offset': 0}
+{'startvertexID': 11, 'endvertexID': 12, 'angle': 16384, 'linedefID': 10, 'direction': 0, 'offset': 0}
+{'startvertexID': 17, 'endvertexID': 14, 'angle': 49152, 'linedefID': 16, 'direction': 0, 'offset': 0}
+{'startvertexID': 14, 'endvertexID': 11, 'angle': 32768, 'linedefID': 37, 'direction': 0, 'offset': 0}
+{'startvertexID': 12, 'endvertexID': 17, 'angle': 0, 'linedefID': 48, 'direction': 1, 'offset': 0}
+{'startvertexID': 11, 'endvertexID': 14, 'angle': 0, 'linedefID': 37, 'direction': 1, 'offset': 0}
+{'startvertexID': 7, 'endvertexID': 9, 'angle': 32768, 'linedefID': 8, 'direction': 0, 'offset': 0}
+{'startvertexID': 13, 'endvertexID': 10, 'angle': 49152, 'linedefID': 12, 'direction': 0, 'offset': 0}
+{'startvertexID': 9, 'endvertexID': 44, 'angle': 16384, 'linedefID': 52, 'direction': 0, 'offset': 0}
+{'startvertexID': 10, 'endvertexID': 11, 'angle': 0, 'linedefID': 9, 'direction': 0, 'offset': 0}
+{'startvertexID': 8, 'endvertexID': 6, 'angle': 32768, 'linedefID': 7, 'direction': 0, 'offset': 0}
+{'startvertexID': 14, 'endvertexID': 15, 'angle': 0, 'linedefID': 13, 'direction': 0, 'offset': 0}
+{'startvertexID': 386, 'endvertexID': 8, 'angle': 49152, 'linedefID': 470, 'direction': 0, 'offset': 0}
+{'startvertexID': 385, 'endvertexID': 386, 'angle': 49152, 'linedefID': 471, 'direction': 0, 'offset': 0}
+{'startvertexID': 15, 'endvertexID': 16, 'angle': 16384, 'linedefID': 14, 'direction': 0, 'offset': 0}
+{'startvertexID': 27, 'endvertexID': 15, 'angle': 35324, 'linedefID': 38, 'direction': 0, 'offset': 0}
+{'startvertexID': 15, 'endvertexID': 27, 'angle': 2555, 'linedefID': 38, 'direction': 1, 'offset': 0}
+{'startvertexID': 27, 'endvertexID': 385, 'angle': 49152, 'linedefID': 469, 'direction': 0, 'offset': 0}
+{'startvertexID': 4, 'endvertexID': 3, 'angle': 32768, 'linedefID': 3, 'direction': 0, 'offset': 0}
+{'startvertexID': 2, 'endvertexID': 5, 'angle': 32768, 'linedefID': 4, 'direction': 0, 'offset': 0}
+{'startvertexID': 6, 'endvertexID': 4, 'angle': 39480, 'linedefID': 5, 'direction': 0, 'offset': 0}
+{'startvertexID': 5, 'endvertexID': 7, 'angle': 26056, 'linedefID': 6, 'direction': 0, 'offset': 0}
+{'startvertexID': 3, 'endvertexID': 2, 'angle': 32768, 'linedefID': 46, 'direction': 0, 'offset': 0}
+{'startvertexID': 0, 'endvertexID': 1, 'angle': 32768, 'linedefID': 0, 'direction': 0, 'offset': 0}
+{'startvertexID': 1, 'endvertexID': 2, 'angle': 16384, 'linedefID': 1, 'direction': 0, 'offset': 0}
+{'startvertexID': 3, 'endvertexID': 0, 'angle': 49152, 'linedefID': 2, 'direction': 0, 'offset': 0}
+{'startvertexID': 2, 'endvertexID': 3, 'angle': 0, 'linedefID': 46, 'direction': 1, 'offset': 0}
+{'startvertexID': 45, 'endvertexID': 44, 'angle': 49152, 'linedefID': 54, 'direction': 0, 'offset': 0}
+{'startvertexID': 46, 'endvertexID': 47, 'angle': 16384, 'linedefID': 55, 'direction': 0, 'offset': 0}
+{'startvertexID': 48, 'endvertexID': 49, 'angle': 16384, 'linedefID': 56, 'direction': 0, 'offset': 0}
+{'startvertexID': 49, 'endvertexID': 50, 'angle': 1963, 'linedefID': 57, 'direction': 0, 'offset': 0}
+{'startvertexID': 50, 'endvertexID': 45, 'angle': 0, 'linedefID': 58, 'direction': 0, 'offset': 0}
+{'startvertexID': 44, 'endvertexID': 51, 'angle': 32768, 'linedefID': 59, 'direction': 0, 'offset': 0}
+{'startvertexID': 51, 'endvertexID': 46, 'angle': 30804, 'linedefID': 60, 'direction': 0, 'offset': 0}
+{'startvertexID': 53, 'endvertexID': 52, 'angle': 16384, 'linedefID': 61, 'direction': 1, 'offset': 0}
+{'startvertexID': 47, 'endvertexID': 53, 'angle': 32768, 'linedefID': 62, 'direction': 0, 'offset': 0}
+{'startvertexID': 52, 'endvertexID': 48, 'angle': 0, 'linedefID': 63, 'direction': 0, 'offset': 0}
+{'startvertexID': 52, 'endvertexID': 53, 'angle': 49152, 'linedefID': 61, 'direction': 0, 'offset': 0}
+{'startvertexID': 53, 'endvertexID': 54, 'angle': 49152, 'linedefID': 64, 'direction': 0, 'offset': 0}
+{'startvertexID': 59, 'endvertexID': 52, 'angle': 49152, 'linedefID': 68, 'direction': 0, 'offset': 0}
+{'startvertexID': 66, 'endvertexID': 67, 'angle': 16384, 'linedefID': 76, 'direction': 0, 'offset': 0}
+{'startvertexID': 64, 'endvertexID': 65, 'angle': 0, 'linedefID': 74, 'direction': 0, 'offset': 0}
+{'startvertexID': 65, 'endvertexID': 66, 'angle': 0, 'linedefID': 75, 'direction': 0, 'offset': 0}
+{'startvertexID': 114, 'endvertexID': 115, 'angle': 32768, 'linedefID': 140, 'direction': 0, 'offset': 0}
+{'startvertexID': 67, 'endvertexID': 68, 'angle': 32768, 'linedefID': 77, 'direction': 0, 'offset': 0}
+{'startvertexID': 68, 'endvertexID': 69, 'angle': 32768, 'linedefID': 78, 'direction': 0, 'offset': 0}
+{'startvertexID': 108, 'endvertexID': 109, 'angle': 0, 'linedefID': 134, 'direction': 0, 'offset': 0}
+{'startvertexID': 66, 'endvertexID': 65, 'angle': 32768, 'linedefID': 75, 'direction': 1, 'offset': 0}
+{'startvertexID': 67, 'endvertexID': 66, 'angle': 49152, 'linedefID': 76, 'direction': 1, 'offset': 0}
+{'startvertexID': 68, 'endvertexID': 67, 'angle': 0, 'linedefID': 77, 'direction': 1, 'offset': 0}
+{'startvertexID': 65, 'endvertexID': 68, 'angle': 16384, 'linedefID': 87, 'direction': 0, 'offset': 0}
+{'startvertexID': 65, 'endvertexID': 64, 'angle': 32768, 'linedefID': 74, 'direction': 1, 'offset': 0}
+{'startvertexID': 69, 'endvertexID': 68, 'angle': 0, 'linedefID': 78, 'direction': 1, 'offset': 0}
+{'startvertexID': 64, 'endvertexID': 69, 'angle': 16384, 'linedefID': 86, 'direction': 0, 'offset': 0}
+{'startvertexID': 68, 'endvertexID': 65, 'angle': 49152, 'linedefID': 87, 'direction': 1, 'offset': 0}
+{'startvertexID': 418, 'endvertexID': 55, 'angle': 45410, 'linedefID': 65, 'direction': 0, 'offset': 68}
+{'startvertexID': 55, 'endvertexID': 419, 'angle': 32768, 'linedefID': 66, 'direction': 0, 'offset': 0}
+{'startvertexID': 112, 'endvertexID': 113, 'angle': 0, 'linedefID': 138, 'direction': 0, 'offset': 0}
+{'startvertexID': 54, 'endvertexID': 418, 'angle': 45410, 'linedefID': 65, 'direction': 0, 'offset': 0}
+{'startvertexID': 113, 'endvertexID': 114, 'angle': 16384, 'linedefID': 139, 'direction': 0, 'offset': 0}
+{'startvertexID': 113, 'endvertexID': 112, 'angle': 32768, 'linedefID': 138, 'direction': 1, 'offset': 0}
+{'startvertexID': 114, 'endvertexID': 113, 'angle': 49152, 'linedefID': 139, 'direction': 1, 'offset': 0}
+{'startvertexID': 115, 'endvertexID': 114, 'angle': 0, 'linedefID': 140, 'direction': 1, 'offset': 0}
+{'startvertexID': 112, 'endvertexID': 115, 'angle': 16384, 'linedefID': 141, 'direction': 1, 'offset': 0}
+{'startvertexID': 420, 'endvertexID': 58, 'angle': 0, 'linedefID': 67, 'direction': 0, 'offset': 192}
+{'startvertexID': 58, 'endvertexID': 59, 'angle': 52895, 'linedefID': 69, 'direction': 0, 'offset': 0}
+{'startvertexID': 109, 'endvertexID': 110, 'angle': 16384, 'linedefID': 135, 'direction': 0, 'offset': 0}
+{'startvertexID': 421, 'endvertexID': 420, 'angle': 0, 'linedefID': 67, 'direction': 0, 'offset': 128}
+{'startvertexID': 110, 'endvertexID': 111, 'angle': 32768, 'linedefID': 136, 'direction': 0, 'offset': 0}
+{'startvertexID': 109, 'endvertexID': 108, 'angle': 32768, 'linedefID': 134, 'direction': 1, 'offset': 0}
+{'startvertexID': 110, 'endvertexID': 109, 'angle': 49152, 'linedefID': 135, 'direction': 1, 'offset': 0}
+{'startvertexID': 111, 'endvertexID': 110, 'angle': 0, 'linedefID': 136, 'direction': 1, 'offset': 0}
+{'startvertexID': 108, 'endvertexID': 111, 'angle': 16384, 'linedefID': 137, 'direction': 1, 'offset': 0}
+{'startvertexID': 419, 'endvertexID': 422, 'angle': 32768, 'linedefID': 66, 'direction': 0, 'offset': 192}
+{'startvertexID': 61, 'endvertexID': 62, 'angle': 0, 'linedefID': 71, 'direction': 0, 'offset': 0}
+{'startvertexID': 62, 'endvertexID': 63, 'angle': 0, 'linedefID': 72, 'direction': 0, 'offset': 0}
+{'startvertexID': 63, 'endvertexID': 64, 'angle': 0, 'linedefID': 73, 'direction': 0, 'offset': 0}
+{'startvertexID': 115, 'endvertexID': 112, 'angle': 49152, 'linedefID': 141, 'direction': 0, 'offset': 0}
+{'startvertexID': 423, 'endvertexID': 421, 'angle': 0, 'linedefID': 67, 'direction': 0, 'offset': 32}
+{'startvertexID': 69, 'endvertexID': 70, 'angle': 32768, 'linedefID': 79, 'direction': 0, 'offset': 0}
+{'startvertexID': 70, 'endvertexID': 71, 'angle': 32768, 'linedefID': 80, 'direction': 0, 'offset': 0}
+{'startvertexID': 71, 'endvertexID': 72, 'angle': 32768, 'linedefID': 81, 'direction': 0, 'offset': 0}
+{'startvertexID': 111, 'endvertexID': 108, 'angle': 49152, 'linedefID': 137, 'direction': 0, 'offset': 0}
+{'startvertexID': 64, 'endvertexID': 63, 'angle': 32768, 'linedefID': 73, 'direction': 1, 'offset': 0}
+{'startvertexID': 70, 'endvertexID': 69, 'angle': 0, 'linedefID': 79, 'direction': 1, 'offset': 0}
+{'startvertexID': 63, 'endvertexID': 70, 'angle': 16384, 'linedefID': 85, 'direction': 0, 'offset': 0}
+{'startvertexID': 69, 'endvertexID': 64, 'angle': 49152, 'linedefID': 86, 'direction': 1, 'offset': 0}
+{'startvertexID': 63, 'endvertexID': 62, 'angle': 32768, 'linedefID': 72, 'direction': 1, 'offset': 0}
+{'startvertexID': 71, 'endvertexID': 70, 'angle': 0, 'linedefID': 80, 'direction': 1, 'offset': 0}
+{'startvertexID': 62, 'endvertexID': 71, 'angle': 16384, 'linedefID': 84, 'direction': 0, 'offset': 0}
+{'startvertexID': 70, 'endvertexID': 63, 'angle': 49152, 'linedefID': 85, 'direction': 1, 'offset': 0}
+{'startvertexID': 62, 'endvertexID': 61, 'angle': 32768, 'linedefID': 71, 'direction': 1, 'offset': 0}
+{'startvertexID': 72, 'endvertexID': 71, 'angle': 0, 'linedefID': 81, 'direction': 1, 'offset': 0}
+{'startvertexID': 61, 'endvertexID': 72, 'angle': 16384, 'linedefID': 83, 'direction': 0, 'offset': 0}
+{'startvertexID': 71, 'endvertexID': 62, 'angle': 49152, 'linedefID': 84, 'direction': 1, 'offset': 0}
+{'startvertexID': 99, 'endvertexID': 100, 'angle': 32768, 'linedefID': 122, 'direction': 0, 'offset': 0}
+{'startvertexID': 100, 'endvertexID': 101, 'angle': 24576, 'linedefID': 123, 'direction': 0, 'offset': 0}
+{'startvertexID': 101, 'endvertexID': 424, 'angle': 16384, 'linedefID': 124, 'direction': 0, 'offset': 0}
+{'startvertexID': 104, 'endvertexID': 99, 'angle': 63661, 'linedefID': 127, 'direction': 1, 'offset': 0}
+{'startvertexID': 103, 'endvertexID': 98, 'angle': 0, 'linedefID': 126, 'direction': 0, 'offset': 0}
+{'startvertexID': 98, 'endvertexID': 105, 'angle': 34644, 'linedefID': 129, 'direction': 1, 'offset': 0}
+{'startvertexID': 83, 'endvertexID': 85, 'angle': 0, 'linedefID': 116, 'direction': 0, 'offset': 0}
+{'startvertexID': 285, 'endvertexID': 286, 'angle': 24576, 'linedefID': 351, 'direction': 0, 'offset': 0}
+{'startvertexID': 84, 'endvertexID': 86, 'angle': 32768, 'linedefID': 117, 'direction': 0, 'offset': 0}
+{'startvertexID': 425, 'endvertexID': 426, 'angle': 1874, 'linedefID': 129, 'direction': 0, 'offset': 390}
+{'startvertexID': 84, 'endvertexID': 85, 'angle': 49152, 'linedefID': 99, 'direction': 0, 'offset': 0}
+{'startvertexID': 83, 'endvertexID': 86, 'angle': 16384, 'linedefID': 100, 'direction': 0, 'offset': 0}
+{'startvertexID': 85, 'endvertexID': 83, 'angle': 32768, 'linedefID': 116, 'direction': 1, 'offset': 0}
+{'startvertexID': 86, 'endvertexID': 84, 'angle': 0, 'linedefID': 117, 'direction': 1, 'offset': 0}
+{'startvertexID': 282, 'endvertexID': 283, 'angle': 0, 'linedefID': 348, 'direction': 0, 'offset': 0}
+{'startvertexID': 283, 'endvertexID': 284, 'angle': 8192, 'linedefID': 349, 'direction': 0, 'offset': 0}
+{'startvertexID': 284, 'endvertexID': 285, 'angle': 16384, 'linedefID': 350, 'direction': 0, 'offset': 0}
+{'startvertexID': 286, 'endvertexID': 287, 'angle': 32768, 'linedefID': 352, 'direction': 0, 'offset': 0}
+{'startvertexID': 287, 'endvertexID': 288, 'angle': 40960, 'linedefID': 353, 'direction': 0, 'offset': 0}
+{'startvertexID': 289, 'endvertexID': 282, 'angle': 57344, 'linedefID': 355, 'direction': 0, 'offset': 0}
+{'startvertexID': 283, 'endvertexID': 282, 'angle': 32768, 'linedefID': 348, 'direction': 1, 'offset': 0}
+{'startvertexID': 284, 'endvertexID': 283, 'angle': 40960, 'linedefID': 349, 'direction': 1, 'offset': 0}
+{'startvertexID': 285, 'endvertexID': 284, 'angle': 49152, 'linedefID': 350, 'direction': 1, 'offset': 0}
+{'startvertexID': 286, 'endvertexID': 285, 'angle': 57344, 'linedefID': 351, 'direction': 1, 'offset': 0}
+{'startvertexID': 287, 'endvertexID': 286, 'angle': 0, 'linedefID': 352, 'direction': 1, 'offset': 0}
+{'startvertexID': 288, 'endvertexID': 287, 'angle': 8192, 'linedefID': 353, 'direction': 1, 'offset': 0}
+{'startvertexID': 289, 'endvertexID': 288, 'angle': 16384, 'linedefID': 354, 'direction': 1, 'offset': 0}
+{'startvertexID': 282, 'endvertexID': 289, 'angle': 24576, 'linedefID': 355, 'direction': 1, 'offset': 0}
+{'startvertexID': 81, 'endvertexID': 82, 'angle': 16384, 'linedefID': 118, 'direction': 0, 'offset': 0}
+{'startvertexID': 288, 'endvertexID': 289, 'angle': 49152, 'linedefID': 354, 'direction': 0, 'offset': 0}
+{'startvertexID': 91, 'endvertexID': 90, 'angle': 49152, 'linedefID': 119, 'direction': 0, 'offset': 0}
+{'startvertexID': 427, 'endvertexID': 428, 'angle': 16384, 'linedefID': 128, 'direction': 0, 'offset': 224}
+{'startvertexID': 81, 'endvertexID': 90, 'angle': 32768, 'linedefID': 103, 'direction': 0, 'offset': 0}
+{'startvertexID': 91, 'endvertexID': 82, 'angle': 0, 'linedefID': 104, 'direction': 0, 'offset': 0}
+{'startvertexID': 82, 'endvertexID': 81, 'angle': 49152, 'linedefID': 118, 'direction': 1, 'offset': 0}
+{'startvertexID': 90, 'endvertexID': 91, 'angle': 16384, 'linedefID': 119, 'direction': 1, 'offset': 0}
+{'startvertexID': 82, 'endvertexID': 83, 'angle': 4836, 'linedefID': 98, 'direction': 0, 'offset': 0}
+{'startvertexID': 86, 'endvertexID': 92, 'angle': 32768, 'linedefID': 105, 'direction': 0, 'offset': 0}
+{'startvertexID': 429, 'endvertexID': 105, 'angle': 16384, 'linedefID': 128, 'direction': 0, 'offset': 400}
+{'startvertexID': 105, 'endvertexID': 425, 'angle': 1874, 'linedefID': 129, 'direction': 0, 'offset': 0}
+{'startvertexID': 92, 'endvertexID': 91, 'angle': 49152, 'linedefID': 106, 'direction': 0, 'offset': 0}
+{'startvertexID': 428, 'endvertexID': 429, 'angle': 16384, 'linedefID': 128, 'direction': 0, 'offset': 352}
+{'startvertexID': 87, 'endvertexID': 89, 'angle': 0, 'linedefID': 115, 'direction': 0, 'offset': 0}
+{'startvertexID': 430, 'endvertexID': 431, 'angle': 30893, 'linedefID': 127, 'direction': 0, 'offset': 195}
+{'startvertexID': 88, 'endvertexID': 80, 'angle': 32768, 'linedefID': 114, 'direction': 0, 'offset': 0}
+{'startvertexID': 87, 'endvertexID': 80, 'angle': 16384, 'linedefID': 101, 'direction': 0, 'offset': 0}
+{'startvertexID': 88, 'endvertexID': 89, 'angle': 49152, 'linedefID': 102, 'direction': 0, 'offset': 0}
+{'startvertexID': 80, 'endvertexID': 88, 'angle': 0, 'linedefID': 114, 'direction': 1, 'offset': 0}
+{'startvertexID': 89, 'endvertexID': 87, 'angle': 32768, 'linedefID': 115, 'direction': 1, 'offset': 0}
+{'startvertexID': 80, 'endvertexID': 81, 'angle': 27931, 'linedefID': 97, 'direction': 0, 'offset': 0}
+{'startvertexID': 90, 'endvertexID': 93, 'angle': 49152, 'linedefID': 107, 'direction': 0, 'offset': 0}
+{'startvertexID': 432, 'endvertexID': 104, 'angle': 30893, 'linedefID': 127, 'direction': 0, 'offset': 406}
+{'startvertexID': 104, 'endvertexID': 427, 'angle': 16384, 'linedefID': 128, 'direction': 0, 'offset': 0}
+{'startvertexID': 93, 'endvertexID': 87, 'angle': 0, 'linedefID': 108, 'direction': 0, 'offset': 0}
+{'startvertexID': 431, 'endvertexID': 432, 'angle': 30893, 'linedefID': 127, 'direction': 0, 'offset': 325}
+{'startvertexID': 78, 'endvertexID': 77, 'angle': 49152, 'linedefID': 113, 'direction': 0, 'offset': 0}
+{'startvertexID': 75, 'endvertexID': 76, 'angle': 32768, 'linedefID': 93, 'direction': 0, 'offset': 0}
+{'startvertexID': 76, 'endvertexID': 77, 'angle': 27353, 'linedefID': 94, 'direction': 0, 'offset': 0}
+{'startvertexID': 78, 'endvertexID': 79, 'angle': 5414, 'linedefID': 95, 'direction': 0, 'offset': 0}
+{'startvertexID': 79, 'endvertexID': 74, 'angle': 0, 'linedefID': 96, 'direction': 0, 'offset': 0}
+{'startvertexID': 77, 'endvertexID': 78, 'angle': 16384, 'linedefID': 113, 'direction': 1, 'offset': 0}
+{'startvertexID': 96, 'endvertexID': 84, 'angle': 32768, 'linedefID': 111, 'direction': 0, 'offset': 0}
+{'startvertexID': 97, 'endvertexID': 96, 'angle': 41457, 'linedefID': 112, 'direction': 0, 'offset': 0}
+{'startvertexID': 98, 'endvertexID': 97, 'angle': 49152, 'linedefID': 120, 'direction': 0, 'offset': 0}
+{'startvertexID': 426, 'endvertexID': 98, 'angle': 1880, 'linedefID': 129, 'direction': 0, 'offset': 520}
+{'startvertexID': 85, 'endvertexID': 106, 'angle': 0, 'linedefID': 130, 'direction': 0, 'offset': 0}
+{'startvertexID': 106, 'endvertexID': 78, 'angle': 0, 'linedefID': 131, 'direction': 0, 'offset': 0}
+{'startvertexID': 89, 'endvertexID': 94, 'angle': 0, 'linedefID': 109, 'direction': 0, 'offset': 0}
+{'startvertexID': 94, 'endvertexID': 95, 'angle': 56848, 'linedefID': 110, 'direction': 0, 'offset': 0}
+{'startvertexID': 95, 'endvertexID': 99, 'angle': 49152, 'linedefID': 121, 'direction': 0, 'offset': 0}
+{'startvertexID': 99, 'endvertexID': 430, 'angle': 30887, 'linedefID': 127, 'direction': 0, 'offset': 0}
+{'startvertexID': 77, 'endvertexID': 107, 'angle': 32768, 'linedefID': 132, 'direction': 0, 'offset': 0}
+{'startvertexID': 107, 'endvertexID': 88, 'angle': 32768, 'linedefID': 133, 'direction': 0, 'offset': 0}
+{'startvertexID': 424, 'endvertexID': 102, 'angle': 16384, 'linedefID': 124, 'direction': 0, 'offset': 23}
+{'startvertexID': 102, 'endvertexID': 103, 'angle': 8192, 'linedefID': 125, 'direction': 0, 'offset': 0}
+{'startvertexID': 105, 'endvertexID': 104, 'angle': 49152, 'linedefID': 128, 'direction': 1, 'offset': 0}
+{'startvertexID': 422, 'endvertexID': 56, 'angle': 32768, 'linedefID': 66, 'direction': 0, 'offset': 288}
+{'startvertexID': 60, 'endvertexID': 61, 'angle': 0, 'linedefID': 70, 'direction': 0, 'offset': 0}
+{'startvertexID': 57, 'endvertexID': 423, 'angle': 0, 'linedefID': 67, 'direction': 0, 'offset': 0}
+{'startvertexID': 72, 'endvertexID': 73, 'angle': 32768, 'linedefID': 82, 'direction': 0, 'offset': 0}
+{'startvertexID': 61, 'endvertexID': 60, 'angle': 32768, 'linedefID': 70, 'direction': 1, 'offset': 0}
+{'startvertexID': 73, 'endvertexID': 72, 'angle': 0, 'linedefID': 82, 'direction': 1, 'offset': 0}
+{'startvertexID': 72, 'endvertexID': 61, 'angle': 49152, 'linedefID': 83, 'direction': 1, 'offset': 0}
+{'startvertexID': 60, 'endvertexID': 73, 'angle': 16384, 'linedefID': 88, 'direction': 0, 'offset': 0}
+{'startvertexID': 73, 'endvertexID': 74, 'angle': 21220, 'linedefID': 89, 'direction': 0, 'offset': 0}
+{'startvertexID': 74, 'endvertexID': 57, 'angle': 8192, 'linedefID': 90, 'direction': 0, 'offset': 0}
+{'startvertexID': 56, 'endvertexID': 75, 'angle': 24576, 'linedefID': 91, 'direction': 0, 'offset': 0}
+{'startvertexID': 75, 'endvertexID': 60, 'angle': 11547, 'linedefID': 92, 'direction': 0, 'offset': 0}
+{'startvertexID': 73, 'endvertexID': 60, 'angle': 49152, 'linedefID': 88, 'direction': 1, 'offset': 0}
+{'startvertexID': 74, 'endvertexID': 73, 'angle': 53989, 'linedefID': 89, 'direction': 1, 'offset': 0}
+{'startvertexID': 60, 'endvertexID': 75, 'angle': 44316, 'linedefID': 92, 'direction': 1, 'offset': 0}
+{'startvertexID': 140, 'endvertexID': 144, 'angle': 6133, 'linedefID': 188, 'direction': 0, 'offset': 0}
+{'startvertexID': 147, 'endvertexID': 433, 'angle': 38158, 'linedefID': 191, 'direction': 1, 'offset': 0}
+{'startvertexID': 146, 'endvertexID': 215, 'angle': 26941, 'linedefID': 260, 'direction': 0, 'offset': 0}
+{'startvertexID': 215, 'endvertexID': 140, 'angle': 16384, 'linedefID': 261, 'direction': 0, 'offset': 0}
+{'startvertexID': 144, 'endvertexID': 216, 'angle': 0, 'linedefID': 262, 'direction': 0, 'offset': 0}
+{'startvertexID': 216, 'endvertexID': 147, 'angle': 53057, 'linedefID': 263, 'direction': 0, 'offset': 0}
+{'startvertexID': 149, 'endvertexID': 150, 'angle': 16384, 'linedefID': 173, 'direction': 0, 'offset': 0}
+{'startvertexID': 433, 'endvertexID': 149, 'angle': 38151, 'linedefID': 191, 'direction': 1, 'offset': 101}
+{'startvertexID': 150, 'endvertexID': 145, 'angle': 0, 'linedefID': 347, 'direction': 0, 'offset': 0}
+{'startvertexID': 145, 'endvertexID': 146, 'angle': 16384, 'linedefID': 171, 'direction': 0, 'offset': 0}
+{'startvertexID': 143, 'endvertexID': 144, 'angle': 60700, 'linedefID': 170, 'direction': 0, 'offset': 0}
+{'startvertexID': 144, 'endvertexID': 140, 'angle': 38902, 'linedefID': 188, 'direction': 1, 'offset': 0}
+{'startvertexID': 151, 'endvertexID': 152, 'angle': 16384, 'linedefID': 174, 'direction': 0, 'offset': 0}
+{'startvertexID': 152, 'endvertexID': 157, 'angle': 57798, 'linedefID': 189, 'direction': 0, 'offset': 0}
+{'startvertexID': 157, 'endvertexID': 151, 'angle': 35324, 'linedefID': 192, 'direction': 0, 'offset': 0}
+{'startvertexID': 164, 'endvertexID': 151, 'angle': 29412, 'linedefID': 185, 'direction': 0, 'offset': 0}
+{'startvertexID': 151, 'endvertexID': 157, 'angle': 2555, 'linedefID': 192, 'direction': 1, 'offset': 0}
+{'startvertexID': 434, 'endvertexID': 164, 'angle': 16384, 'linedefID': 187, 'direction': 0, 'offset': 106}
+{'startvertexID': 157, 'endvertexID': 163, 'angle': 58039, 'linedefID': 190, 'direction': 0, 'offset': 0}
+{'startvertexID': 167, 'endvertexID': 435, 'angle': 9617, 'linedefID': 193, 'direction': 0, 'offset': 0}
+{'startvertexID': 162, 'endvertexID': 167, 'angle': 28799, 'linedefID': 194, 'direction': 0, 'offset': 0}
+{'startvertexID': 168, 'endvertexID': 162, 'angle': 37977, 'linedefID': 195, 'direction': 0, 'offset': 0}
+{'startvertexID': 171, 'endvertexID': 168, 'angle': 54442, 'linedefID': 198, 'direction': 0, 'offset': 0}
+{'startvertexID': 356, 'endvertexID': 168, 'angle': 16384, 'linedefID': 429, 'direction': 0, 'offset': 0}
+{'startvertexID': 436, 'endvertexID': 356, 'angle': 17863, 'linedefID': 428, 'direction': 0, 'offset': 47}
+{'startvertexID': 435, 'endvertexID': 159, 'angle': 9605, 'linedefID': 193, 'direction': 0, 'offset': 228}
+{'startvertexID': 170, 'endvertexID': 171, 'angle': 38902, 'linedefID': 197, 'direction': 0, 'offset': 0}
+{'startvertexID': 171, 'endvertexID': 170, 'angle': 6133, 'linedefID': 197, 'direction': 1, 'offset': 0}
+{'startvertexID': 168, 'endvertexID': 171, 'angle': 21673, 'linedefID': 198, 'direction': 1, 'offset': 0}
+{'startvertexID': 437, 'endvertexID': 218, 'angle': 46375, 'linedefID': 265, 'direction': 0, 'offset': 66}
+{'startvertexID': 218, 'endvertexID': 168, 'angle': 37605, 'linedefID': 266, 'direction': 0, 'offset': 0}
+{'startvertexID': 168, 'endvertexID': 218, 'angle': 4836, 'linedefID': 266, 'direction': 1, 'offset': 0}
+{'startvertexID': 218, 'endvertexID': 354, 'angle': 0, 'linedefID': 426, 'direction': 0, 'offset': 0}
+{'startvertexID': 354, 'endvertexID': 438, 'angle': 55864, 'linedefID': 427, 'direction': 0, 'offset': 0}
+{'startvertexID': 162, 'endvertexID': 163, 'angle': 34491, 'linedefID': 184, 'direction': 0, 'offset': 0}
+{'startvertexID': 163, 'endvertexID': 439, 'angle': 25270, 'linedefID': 190, 'direction': 1, 'offset': 0}
+{'startvertexID': 167, 'endvertexID': 162, 'angle': 61568, 'linedefID': 194, 'direction': 1, 'offset': 0}
+{'startvertexID': 161, 'endvertexID': 158, 'angle': 40960, 'linedefID': 182, 'direction': 0, 'offset': 0}
+{'startvertexID': 149, 'endvertexID': 161, 'angle': 64423, 'linedefID': 259, 'direction': 0, 'offset': 0}
+{'startvertexID': 440, 'endvertexID': 223, 'angle': 16384, 'linedefID': 271, 'direction': 0, 'offset': 64}
+{'startvertexID': 223, 'endvertexID': 149, 'angle': 16384, 'linedefID': 273, 'direction': 0, 'offset': 0}
+{'startvertexID': 149, 'endvertexID': 441, 'angle': 5384, 'linedefID': 191, 'direction': 0, 'offset': 0}
+{'startvertexID': 161, 'endvertexID': 149, 'angle': 31654, 'linedefID': 259, 'direction': 1, 'offset': 0}
+{'startvertexID': 156, 'endvertexID': 157, 'angle': 41203, 'linedefID': 179, 'direction': 0, 'offset': 0}
+{'startvertexID': 158, 'endvertexID': 156, 'angle': 61279, 'linedefID': 180, 'direction': 0, 'offset': 0}
+{'startvertexID': 157, 'endvertexID': 152, 'angle': 25029, 'linedefID': 189, 'direction': 1, 'offset': 0}
+{'startvertexID': 152, 'endvertexID': 440, 'angle': 16384, 'linedefID': 271, 'direction': 0, 'offset': 0}
+{'startvertexID': 157, 'endvertexID': 156, 'angle': 8434, 'linedefID': 179, 'direction': 1, 'offset': 0}
+{'startvertexID': 439, 'endvertexID': 157, 'angle': 25270, 'linedefID': 190, 'direction': 1, 'offset': 32}
+{'startvertexID': 442, 'endvertexID': 167, 'angle': 42383, 'linedefID': 193, 'direction': 1, 'offset': 106}
+{'startvertexID': 159, 'endvertexID': 160, 'angle': 28750, 'linedefID': 181, 'direction': 0, 'offset': 0}
+{'startvertexID': 160, 'endvertexID': 155, 'angle': 7300, 'linedefID': 183, 'direction': 0, 'offset': 0}
+{'startvertexID': 443, 'endvertexID': 161, 'angle': 8192, 'linedefID': 182, 'direction': 1, 'offset': 100}
+{'startvertexID': 155, 'endvertexID': 160, 'angle': 40069, 'linedefID': 183, 'direction': 1, 'offset': 0}
+{'startvertexID': 156, 'endvertexID': 158, 'angle': 28510, 'linedefID': 180, 'direction': 1, 'offset': 0}
+{'startvertexID': 160, 'endvertexID': 159, 'angle': 61519, 'linedefID': 181, 'direction': 1, 'offset': 0}
+{'startvertexID': 158, 'endvertexID': 443, 'angle': 8192, 'linedefID': 182, 'direction': 1, 'offset': 0}
+{'startvertexID': 159, 'endvertexID': 442, 'angle': 42383, 'linedefID': 193, 'direction': 1, 'offset': 0}
+{'startvertexID': 155, 'endvertexID': 154, 'angle': 1963, 'linedefID': 178, 'direction': 0, 'offset': 0}
+{'startvertexID': 169, 'endvertexID': 170, 'angle': 32768, 'linedefID': 196, 'direction': 0, 'offset': 0}
+{'startvertexID': 217, 'endvertexID': 169, 'angle': 51778, 'linedefID': 264, 'direction': 0, 'offset': 0}
+{'startvertexID': 154, 'endvertexID': 217, 'angle': 56544, 'linedefID': 458, 'direction': 0, 'offset': 0}
+{'startvertexID': 217, 'endvertexID': 154, 'angle': 23775, 'linedefID': 458, 'direction': 1, 'offset': 0}
+{'startvertexID': 170, 'endvertexID': 169, 'angle': 0, 'linedefID': 196, 'direction': 1, 'offset': 0}
+{'startvertexID': 169, 'endvertexID': 437, 'angle': 46375, 'linedefID': 265, 'direction': 0, 'offset': 0}
+{'startvertexID': 148, 'endvertexID': 154, 'angle': 61794, 'linedefID': 177, 'direction': 0, 'offset': 0}
+{'startvertexID': 154, 'endvertexID': 155, 'angle': 34732, 'linedefID': 178, 'direction': 1, 'offset': 0}
+{'startvertexID': 147, 'endvertexID': 148, 'angle': 49152, 'linedefID': 172, 'direction': 0, 'offset': 0}
+{'startvertexID': 441, 'endvertexID': 147, 'angle': 5384, 'linedefID': 191, 'direction': 0, 'offset': 295}
+{'startvertexID': 154, 'endvertexID': 381, 'angle': 0, 'linedefID': 461, 'direction': 0, 'offset': 0}
+{'startvertexID': 381, 'endvertexID': 444, 'angle': 13829, 'linedefID': 462, 'direction': 0, 'offset': 0}
+{'startvertexID': 445, 'endvertexID': 371, 'angle': 19286, 'linedefID': 448, 'direction': 0, 'offset': 217}
+{'startvertexID': 371, 'endvertexID': 372, 'angle': 16384, 'linedefID': 449, 'direction': 0, 'offset': 0}
+{'startvertexID': 372, 'endvertexID': 373, 'angle': 9672, 'linedefID': 450, 'direction': 0, 'offset': 0}
+{'startvertexID': 375, 'endvertexID': 446, 'angle': 49152, 'linedefID': 452, 'direction': 0, 'offset': 0}
+{'startvertexID': 376, 'endvertexID': 375, 'angle': 40960, 'linedefID': 453, 'direction': 0, 'offset': 0}
+{'startvertexID': 447, 'endvertexID': 376, 'angle': 54661, 'linedefID': 455, 'direction': 0, 'offset': 305}
+{'startvertexID': 378, 'endvertexID': 448, 'angle': 54661, 'linedefID': 455, 'direction': 0, 'offset': 0}
+{'startvertexID': 377, 'endvertexID': 379, 'angle': 32768, 'linedefID': 456, 'direction': 0, 'offset': 0}
+{'startvertexID': 380, 'endvertexID': 378, 'angle': 0, 'linedefID': 457, 'direction': 0, 'offset': 0}
+{'startvertexID': 444, 'endvertexID': 380, 'angle': 13827, 'linedefID': 462, 'direction': 0, 'offset': 104}
+{'startvertexID': 373, 'endvertexID': 377, 'angle': 22433, 'linedefID': 454, 'direction': 0, 'offset': 0}
+{'startvertexID': 448, 'endvertexID': 447, 'angle': 54661, 'linedefID': 455, 'direction': 0, 'offset': 176}
+{'startvertexID': 379, 'endvertexID': 382, 'angle': 45797, 'linedefID': 463, 'direction': 0, 'offset': 0}
+{'startvertexID': 382, 'endvertexID': 217, 'angle': 32768, 'linedefID': 464, 'direction': 0, 'offset': 0}
+{'startvertexID': 449, 'endvertexID': 305, 'angle': 0, 'linedefID': 368, 'direction': 0, 'offset': 672}
+{'startvertexID': 305, 'endvertexID': 297, 'angle': 49152, 'linedefID': 369, 'direction': 0, 'offset': 0}
+{'startvertexID': 297, 'endvertexID': 320, 'angle': 49152, 'linedefID': 388, 'direction': 0, 'offset': 0}
+{'startvertexID': 320, 'endvertexID': 313, 'angle': 49152, 'linedefID': 389, 'direction': 0, 'offset': 0}
+{'startvertexID': 450, 'endvertexID': 324, 'angle': 16384, 'linedefID': 393, 'direction': 0, 'offset': 32}
+{'startvertexID': 413, 'endvertexID': 449, 'angle': 0, 'linedefID': 368, 'direction': 0, 'offset': 512}
+{'startvertexID': 324, 'endvertexID': 414, 'angle': 32768, 'linedefID': 394, 'direction': 0, 'offset': 0}
+{'startvertexID': 328, 'endvertexID': 329, 'angle': 0, 'linedefID': 398, 'direction': 0, 'offset': 0}
+{'startvertexID': 332, 'endvertexID': 333, 'angle': 32768, 'linedefID': 402, 'direction': 0, 'offset': 0}
+{'startvertexID': 333, 'endvertexID': 328, 'angle': 16384, 'linedefID': 407, 'direction': 1, 'offset': 0}
+{'startvertexID': 329, 'endvertexID': 332, 'angle': 49152, 'linedefID': 408, 'direction': 0, 'offset': 0}
+{'startvertexID': 329, 'endvertexID': 330, 'angle': 0, 'linedefID': 399, 'direction': 0, 'offset': 0}
+{'startvertexID': 330, 'endvertexID': 331, 'angle': 49152, 'linedefID': 400, 'direction': 0, 'offset': 0}
+{'startvertexID': 331, 'endvertexID': 332, 'angle': 32768, 'linedefID': 401, 'direction': 0, 'offset': 0}
+{'startvertexID': 332, 'endvertexID': 329, 'angle': 16384, 'linedefID': 408, 'direction': 1, 'offset': 0}
+{'startvertexID': 310, 'endvertexID': 311, 'angle': 49152, 'linedefID': 374, 'direction': 0, 'offset': 0}
+{'startvertexID': 313, 'endvertexID': 310, 'angle': 49152, 'linedefID': 379, 'direction': 0, 'offset': 0}
+{'startvertexID': 311, 'endvertexID': 451, 'angle': 32768, 'linedefID': 390, 'direction': 0, 'offset': 0}
+{'startvertexID': 323, 'endvertexID': 450, 'angle': 16384, 'linedefID': 393, 'direction': 0, 'offset': 0}
+{'startvertexID': 451, 'endvertexID': 321, 'angle': 32768, 'linedefID': 390, 'direction': 0, 'offset': 160}
+{'startvertexID': 321, 'endvertexID': 298, 'angle': 32768, 'linedefID': 391, 'direction': 0, 'offset': 0}
+{'startvertexID': 411, 'endvertexID': 323, 'angle': 0, 'linedefID': 392, 'direction': 0, 'offset': 64}
+{'startvertexID': 416, 'endvertexID': 302, 'angle': 0, 'linedefID': 363, 'direction': 0, 'offset': 512}
+{'startvertexID': 305, 'endvertexID': 413, 'angle': 32768, 'linedefID': 368, 'direction': 1, 'offset': 0}
+{'startvertexID': 140, 'endvertexID': 141, 'angle': 32768, 'linedefID': 168, 'direction': 0, 'offset': 0}
+{'startvertexID': 141, 'endvertexID': 143, 'angle': 10969, 'linedefID': 421, 'direction': 0, 'offset': 0}
+{'startvertexID': 142, 'endvertexID': 143, 'angle': 0, 'linedefID': 169, 'direction': 0, 'offset': 0}
+{'startvertexID': 141, 'endvertexID': 312, 'angle': 24992, 'linedefID': 375, 'direction': 0, 'offset': 0}
+{'startvertexID': 313, 'endvertexID': 142, 'angle': 0, 'linedefID': 376, 'direction': 0, 'offset': 0}
+{'startvertexID': 452, 'endvertexID': 313, 'angle': 16384, 'linedefID': 379, 'direction': 1, 'offset': 22}
+{'startvertexID': 143, 'endvertexID': 141, 'angle': 43738, 'linedefID': 421, 'direction': 1, 'offset': 0}
+{'startvertexID': 312, 'endvertexID': 310, 'angle': 32768, 'linedefID': 377, 'direction': 0, 'offset': 0}
+{'startvertexID': 310, 'endvertexID': 452, 'angle': 16384, 'linedefID': 379, 'direction': 1, 'offset': 0}
+{'startvertexID': 295, 'endvertexID': 296, 'angle': 49152, 'linedefID': 359, 'direction': 0, 'offset': 0}
+{'startvertexID': 296, 'endvertexID': 297, 'angle': 32768, 'linedefID': 360, 'direction': 0, 'offset': 0}
+{'startvertexID': 302, 'endvertexID': 303, 'angle': 0, 'linedefID': 364, 'direction': 0, 'offset': 0}
+{'startvertexID': 303, 'endvertexID': 295, 'angle': 49152, 'linedefID': 365, 'direction': 0, 'offset': 0}
+{'startvertexID': 297, 'endvertexID': 305, 'angle': 16384, 'linedefID': 369, 'direction': 1, 'offset': 0}
+{'startvertexID': 219, 'endvertexID': 220, 'angle': 52790, 'linedefID': 267, 'direction': 0, 'offset': 0}
+{'startvertexID': 390, 'endvertexID': 219, 'angle': 0, 'linedefID': 481, 'direction': 0, 'offset': 0}
+{'startvertexID': 221, 'endvertexID': 222, 'angle': 0, 'linedefID': 269, 'direction': 0, 'offset': 0}
+{'startvertexID': 222, 'endvertexID': 153, 'angle': 49152, 'linedefID': 272, 'direction': 0, 'offset': 0}
+{'startvertexID': 220, 'endvertexID': 221, 'angle': 59525, 'linedefID': 268, 'direction': 0, 'offset': 0}
+{'startvertexID': 152, 'endvertexID': 153, 'angle': 32768, 'linedefID': 176, 'direction': 0, 'offset': 0}
+{'startvertexID': 222, 'endvertexID': 223, 'angle': 0, 'linedefID': 270, 'direction': 0, 'offset': 0}
+{'startvertexID': 223, 'endvertexID': 152, 'angle': 49152, 'linedefID': 271, 'direction': 1, 'offset': 0}
+{'startvertexID': 153, 'endvertexID': 222, 'angle': 16384, 'linedefID': 272, 'direction': 1, 'offset': 0}
+{'startvertexID': 153, 'endvertexID': 126, 'angle': 49152, 'linedefID': 175, 'direction': 0, 'offset': 0}
+{'startvertexID': 126, 'endvertexID': 209, 'angle': 32768, 'linedefID': 246, 'direction': 0, 'offset': 0}
+{'startvertexID': 126, 'endvertexID': 127, 'angle': 36621, 'linedefID': 156, 'direction': 0, 'offset': 0}
+{'startvertexID': 127, 'endvertexID': 128, 'angle': 34107, 'linedefID': 157, 'direction': 0, 'offset': 0}
+{'startvertexID': 209, 'endvertexID': 126, 'angle': 0, 'linedefID': 246, 'direction': 1, 'offset': 0}
+{'startvertexID': 128, 'endvertexID': 209, 'angle': 16384, 'linedefID': 250, 'direction': 0, 'offset': 0}
+{'startvertexID': 209, 'endvertexID': 393, 'angle': 32768, 'linedefID': 247, 'direction': 0, 'offset': 0}
+{'startvertexID': 128, 'endvertexID': 172, 'angle': 19739, 'linedefID': 199, 'direction': 0, 'offset': 0}
+{'startvertexID': 453, 'endvertexID': 209, 'angle': 0, 'linedefID': 247, 'direction': 1, 'offset': 213}
+{'startvertexID': 209, 'endvertexID': 128, 'angle': 49152, 'linedefID': 250, 'direction': 1, 'offset': 0}
+{'startvertexID': 172, 'endvertexID': 173, 'angle': 32768, 'linedefID': 200, 'direction': 0, 'offset': 0}
+{'startvertexID': 393, 'endvertexID': 453, 'angle': 0, 'linedefID': 247, 'direction': 1, 'offset': 192}
+{'startvertexID': 242, 'endvertexID': 229, 'angle': 0, 'linedefID': 287, 'direction': 0, 'offset': 0}
+{'startvertexID': 241, 'endvertexID': 245, 'angle': 32768, 'linedefID': 292, 'direction': 0, 'offset': 0}
+{'startvertexID': 245, 'endvertexID': 246, 'angle': 16384, 'linedefID': 294, 'direction': 0, 'offset': 0}
+{'startvertexID': 246, 'endvertexID': 247, 'angle': 16384, 'linedefID': 295, 'direction': 0, 'offset': 0}
+{'startvertexID': 247, 'endvertexID': 242, 'angle': 16384, 'linedefID': 296, 'direction': 0, 'offset': 0}
+{'startvertexID': 229, 'endvertexID': 232, 'angle': 0, 'linedefID': 304, 'direction': 0, 'offset': 0}
+{'startvertexID': 234, 'endvertexID': 241, 'angle': 32768, 'linedefID': 305, 'direction': 0, 'offset': 0}
+{'startvertexID': 228, 'endvertexID': 242, 'angle': 0, 'linedefID': 286, 'direction': 0, 'offset': 0}
+{'startvertexID': 245, 'endvertexID': 238, 'angle': 32768, 'linedefID': 293, 'direction': 0, 'offset': 0}
+{'startvertexID': 246, 'endvertexID': 245, 'angle': 49152, 'linedefID': 294, 'direction': 1, 'offset': 0}
+{'startvertexID': 247, 'endvertexID': 246, 'angle': 49152, 'linedefID': 295, 'direction': 1, 'offset': 0}
+{'startvertexID': 242, 'endvertexID': 247, 'angle': 49152, 'linedefID': 296, 'direction': 1, 'offset': 0}
+{'startvertexID': 238, 'endvertexID': 228, 'angle': 16384, 'linedefID': 309, 'direction': 0, 'offset': 0}
+{'startvertexID': 454, 'endvertexID': 455, 'angle': 16384, 'linedefID': 307, 'direction': 0, 'offset': 192}
+{'startvertexID': 228, 'endvertexID': 238, 'angle': 49152, 'linedefID': 309, 'direction': 1, 'offset': 0}
+{'startvertexID': 239, 'endvertexID': 240, 'angle': 0, 'linedefID': 284, 'direction': 0, 'offset': 0}
+{'startvertexID': 456, 'endvertexID': 251, 'angle': 32768, 'linedefID': 300, 'direction': 0, 'offset': 224}
+{'startvertexID': 252, 'endvertexID': 253, 'angle': 32768, 'linedefID': 301, 'direction': 0, 'offset': 0}
+{'startvertexID': 253, 'endvertexID': 457, 'angle': 16384, 'linedefID': 307, 'direction': 0, 'offset': 0}
+{'startvertexID': 251, 'endvertexID': 252, 'angle': 32768, 'linedefID': 311, 'direction': 1, 'offset': 0}
+{'startvertexID': 238, 'endvertexID': 239, 'angle': 49152, 'linedefID': 283, 'direction': 0, 'offset': 0}
+{'startvertexID': 457, 'endvertexID': 454, 'angle': 16384, 'linedefID': 307, 'direction': 0, 'offset': 160}
+{'startvertexID': 234, 'endvertexID': 235, 'angle': 49152, 'linedefID': 280, 'direction': 0, 'offset': 0}
+{'startvertexID': 240, 'endvertexID': 241, 'angle': 16384, 'linedefID': 285, 'direction': 0, 'offset': 0}
+{'startvertexID': 241, 'endvertexID': 234, 'angle': 0, 'linedefID': 305, 'direction': 1, 'offset': 0}
+{'startvertexID': 236, 'endvertexID': 237, 'angle': 16384, 'linedefID': 282, 'direction': 0, 'offset': 0}
+{'startvertexID': 250, 'endvertexID': 458, 'angle': 32768, 'linedefID': 300, 'direction': 0, 'offset': 0}
+{'startvertexID': 459, 'endvertexID': 250, 'angle': 49152, 'linedefID': 308, 'direction': 0, 'offset': 32}
+{'startvertexID': 237, 'endvertexID': 233, 'angle': 16384, 'linedefID': 310, 'direction': 1, 'offset': 0}
+{'startvertexID': 235, 'endvertexID': 236, 'angle': 0, 'linedefID': 281, 'direction': 0, 'offset': 0}
+{'startvertexID': 458, 'endvertexID': 456, 'angle': 32768, 'linedefID': 300, 'direction': 0, 'offset': 168}
+{'startvertexID': 243, 'endvertexID': 234, 'angle': 32768, 'linedefID': 289, 'direction': 0, 'offset': 0}
+{'startvertexID': 232, 'endvertexID': 244, 'angle': 0, 'linedefID': 290, 'direction': 0, 'offset': 0}
+{'startvertexID': 248, 'endvertexID': 243, 'angle': 49152, 'linedefID': 297, 'direction': 0, 'offset': 0}
+{'startvertexID': 244, 'endvertexID': 249, 'angle': 49152, 'linedefID': 298, 'direction': 0, 'offset': 0}
+{'startvertexID': 249, 'endvertexID': 248, 'angle': 49152, 'linedefID': 299, 'direction': 0, 'offset': 0}
+{'startvertexID': 237, 'endvertexID': 243, 'angle': 32768, 'linedefID': 288, 'direction': 0, 'offset': 0}
+{'startvertexID': 244, 'endvertexID': 233, 'angle': 0, 'linedefID': 291, 'direction': 0, 'offset': 0}
+{'startvertexID': 243, 'endvertexID': 248, 'angle': 16384, 'linedefID': 297, 'direction': 1, 'offset': 0}
+{'startvertexID': 249, 'endvertexID': 244, 'angle': 16384, 'linedefID': 298, 'direction': 1, 'offset': 0}
+{'startvertexID': 248, 'endvertexID': 249, 'angle': 16384, 'linedefID': 299, 'direction': 1, 'offset': 0}
+{'startvertexID': 233, 'endvertexID': 237, 'angle': 49152, 'linedefID': 310, 'direction': 0, 'offset': 0}
+{'startvertexID': 460, 'endvertexID': 254, 'angle': 49152, 'linedefID': 302, 'direction': 0, 'offset': 56}
+{'startvertexID': 255, 'endvertexID': 461, 'angle': 16384, 'linedefID': 303, 'direction': 0, 'offset': 0}
+{'startvertexID': 254, 'endvertexID': 256, 'angle': 32768, 'linedefID': 312, 'direction': 0, 'offset': 0}
+{'startvertexID': 257, 'endvertexID': 255, 'angle': 32768, 'linedefID': 313, 'direction': 0, 'offset': 0}
+{'startvertexID': 276, 'endvertexID': 277, 'angle': 0, 'linedefID': 339, 'direction': 0, 'offset': 0}
+{'startvertexID': 256, 'endvertexID': 257, 'angle': 32768, 'linedefID': 342, 'direction': 0, 'offset': 0}
+{'startvertexID': 251, 'endvertexID': 460, 'angle': 49152, 'linedefID': 302, 'direction': 0, 'offset': 0}
+{'startvertexID': 462, 'endvertexID': 251, 'angle': 0, 'linedefID': 311, 'direction': 0, 'offset': 80}
+{'startvertexID': 277, 'endvertexID': 274, 'angle': 16384, 'linedefID': 340, 'direction': 0, 'offset': 0}
+{'startvertexID': 463, 'endvertexID': 252, 'angle': 16384, 'linedefID': 303, 'direction': 0, 'offset': 16}
+{'startvertexID': 252, 'endvertexID': 462, 'angle': 0, 'linedefID': 311, 'direction': 0, 'offset': 0}
+{'startvertexID': 274, 'endvertexID': 275, 'angle': 32768, 'linedefID': 338, 'direction': 0, 'offset': 0}
+{'startvertexID': 461, 'endvertexID': 463, 'angle': 16384, 'linedefID': 303, 'direction': 0, 'offset': 8}
+{'startvertexID': 275, 'endvertexID': 276, 'angle': 49152, 'linedefID': 341, 'direction': 0, 'offset': 0}
+{'startvertexID': 275, 'endvertexID': 274, 'angle': 0, 'linedefID': 338, 'direction': 1, 'offset': 0}
+{'startvertexID': 277, 'endvertexID': 276, 'angle': 32768, 'linedefID': 339, 'direction': 1, 'offset': 0}
+{'startvertexID': 274, 'endvertexID': 277, 'angle': 49152, 'linedefID': 340, 'direction': 1, 'offset': 0}
+{'startvertexID': 276, 'endvertexID': 275, 'angle': 16384, 'linedefID': 341, 'direction': 1, 'offset': 0}
+{'startvertexID': 258, 'endvertexID': 257, 'angle': 16384, 'linedefID': 314, 'direction': 0, 'offset': 0}
+{'startvertexID': 256, 'endvertexID': 259, 'angle': 49152, 'linedefID': 315, 'direction': 0, 'offset': 0}
+{'startvertexID': 259, 'endvertexID': 258, 'angle': 32768, 'linedefID': 321, 'direction': 0, 'offset': 0}
+{'startvertexID': 257, 'endvertexID': 256, 'angle': 0, 'linedefID': 342, 'direction': 1, 'offset': 0}
+{'startvertexID': 259, 'endvertexID': 260, 'angle': 49152, 'linedefID': 316, 'direction': 0, 'offset': 0}
+{'startvertexID': 263, 'endvertexID': 258, 'angle': 16384, 'linedefID': 319, 'direction': 0, 'offset': 0}
+{'startvertexID': 260, 'endvertexID': 263, 'angle': 32768, 'linedefID': 320, 'direction': 1, 'offset': 0}
+{'startvertexID': 258, 'endvertexID': 259, 'angle': 0, 'linedefID': 321, 'direction': 1, 'offset': 0}
+{'startvertexID': 261, 'endvertexID': 264, 'angle': 0, 'linedefID': 322, 'direction': 0, 'offset': 0}
+{'startvertexID': 265, 'endvertexID': 262, 'angle': 0, 'linedefID': 323, 'direction': 0, 'offset': 0}
+{'startvertexID': 264, 'endvertexID': 464, 'angle': 49152, 'linedefID': 324, 'direction': 0, 'offset': 0}
+{'startvertexID': 465, 'endvertexID': 268, 'angle': 16384, 'linedefID': 325, 'direction': 0, 'offset': 24}
+{'startvertexID': 268, 'endvertexID': 269, 'angle': 16384, 'linedefID': 326, 'direction': 0, 'offset': 0}
+{'startvertexID': 269, 'endvertexID': 265, 'angle': 16384, 'linedefID': 327, 'direction': 0, 'offset': 0}
+{'startvertexID': 262, 'endvertexID': 261, 'angle': 0, 'linedefID': 329, 'direction': 0, 'offset': 0}
+{'startvertexID': 278, 'endvertexID': 279, 'angle': 32768, 'linedefID': 343, 'direction': 0, 'offset': 0}
+{'startvertexID': 464, 'endvertexID': 266, 'angle': 49152, 'linedefID': 324, 'direction': 0, 'offset': 168}
+{'startvertexID': 266, 'endvertexID': 466, 'angle': 32768, 'linedefID': 328, 'direction': 0, 'offset': 0}
+{'startvertexID': 281, 'endvertexID': 278, 'angle': 16384, 'linedefID': 345, 'direction': 0, 'offset': 0}
+{'startvertexID': 267, 'endvertexID': 467, 'angle': 16384, 'linedefID': 325, 'direction': 0, 'offset': 0}
+{'startvertexID': 466, 'endvertexID': 267, 'angle': 32768, 'linedefID': 328, 'direction': 0, 'offset': 80}
+{'startvertexID': 280, 'endvertexID': 281, 'angle': 0, 'linedefID': 344, 'direction': 0, 'offset': 0}
+{'startvertexID': 467, 'endvertexID': 465, 'angle': 16384, 'linedefID': 325, 'direction': 0, 'offset': 16}
+{'startvertexID': 279, 'endvertexID': 280, 'angle': 49152, 'linedefID': 346, 'direction': 0, 'offset': 0}
+{'startvertexID': 279, 'endvertexID': 278, 'angle': 0, 'linedefID': 343, 'direction': 1, 'offset': 0}
+{'startvertexID': 281, 'endvertexID': 280, 'angle': 32768, 'linedefID': 344, 'direction': 1, 'offset': 0}
+{'startvertexID': 278, 'endvertexID': 281, 'angle': 49152, 'linedefID': 345, 'direction': 1, 'offset': 0}
+{'startvertexID': 280, 'endvertexID': 279, 'angle': 16384, 'linedefID': 346, 'direction': 1, 'offset': 0}
+{'startvertexID': 260, 'endvertexID': 261, 'angle': 49152, 'linedefID': 317, 'direction': 0, 'offset': 0}
+{'startvertexID': 262, 'endvertexID': 263, 'angle': 16384, 'linedefID': 318, 'direction': 0, 'offset': 0}
+{'startvertexID': 263, 'endvertexID': 260, 'angle': 0, 'linedefID': 320, 'direction': 0, 'offset': 0}
+{'startvertexID': 261, 'endvertexID': 262, 'angle': 32768, 'linedefID': 329, 'direction': 1, 'offset': 0}
+{'startvertexID': 199, 'endvertexID': 200, 'angle': 49152, 'linedefID': 224, 'direction': 0, 'offset': 0}
+{'startvertexID': 202, 'endvertexID': 201, 'angle': 18939, 'linedefID': 225, 'direction': 1, 'offset': 0}
+{'startvertexID': 201, 'endvertexID': 199, 'angle': 0, 'linedefID': 229, 'direction': 0, 'offset': 0}
+{'startvertexID': 200, 'endvertexID': 202, 'angle': 32768, 'linedefID': 238, 'direction': 0, 'offset': 0}
+{'startvertexID': 197, 'endvertexID': 198, 'angle': 49152, 'linedefID': 223, 'direction': 0, 'offset': 0}
+{'startvertexID': 200, 'endvertexID': 199, 'angle': 16384, 'linedefID': 224, 'direction': 1, 'offset': 0}
+{'startvertexID': 199, 'endvertexID': 197, 'angle': 0, 'linedefID': 230, 'direction': 0, 'offset': 0}
+{'startvertexID': 198, 'endvertexID': 200, 'angle': 32768, 'linedefID': 237, 'direction': 0, 'offset': 0}
+{'startvertexID': 195, 'endvertexID': 196, 'angle': 49152, 'linedefID': 222, 'direction': 0, 'offset': 0}
+{'startvertexID': 198, 'endvertexID': 197, 'angle': 16384, 'linedefID': 223, 'direction': 1, 'offset': 0}
+{'startvertexID': 197, 'endvertexID': 195, 'angle': 0, 'linedefID': 231, 'direction': 0, 'offset': 0}
+{'startvertexID': 196, 'endvertexID': 198, 'angle': 32768, 'linedefID': 236, 'direction': 0, 'offset': 0}
+{'startvertexID': 468, 'endvertexID': 227, 'angle': 0, 'linedefID': 275, 'direction': 0, 'offset': 88}
+{'startvertexID': 193, 'endvertexID': 194, 'angle': 49152, 'linedefID': 221, 'direction': 0, 'offset': 0}
+{'startvertexID': 196, 'endvertexID': 195, 'angle': 16384, 'linedefID': 222, 'direction': 1, 'offset': 0}
+{'startvertexID': 195, 'endvertexID': 193, 'angle': 0, 'linedefID': 232, 'direction': 0, 'offset': 0}
+{'startvertexID': 194, 'endvertexID': 196, 'angle': 32768, 'linedefID': 235, 'direction': 0, 'offset': 0}
+{'startvertexID': 191, 'endvertexID': 192, 'angle': 49152, 'linedefID': 220, 'direction': 0, 'offset': 0}
+{'startvertexID': 194, 'endvertexID': 193, 'angle': 16384, 'linedefID': 221, 'direction': 1, 'offset': 0}
+{'startvertexID': 193, 'endvertexID': 191, 'angle': 0, 'linedefID': 233, 'direction': 0, 'offset': 0}
+{'startvertexID': 192, 'endvertexID': 194, 'angle': 32768, 'linedefID': 234, 'direction': 0, 'offset': 0}
+{'startvertexID': 227, 'endvertexID': 228, 'angle': 58499, 'linedefID': 276, 'direction': 0, 'offset': 0}
+{'startvertexID': 192, 'endvertexID': 191, 'angle': 16384, 'linedefID': 220, 'direction': 1, 'offset': 0}
+{'startvertexID': 191, 'endvertexID': 205, 'angle': 0, 'linedefID': 239, 'direction': 0, 'offset': 0}
+{'startvertexID': 206, 'endvertexID': 192, 'angle': 32768, 'linedefID': 240, 'direction': 0, 'offset': 0}
+{'startvertexID': 205, 'endvertexID': 206, 'angle': 49152, 'linedefID': 244, 'direction': 0, 'offset': 0}
+{'startvertexID': 186, 'endvertexID': 188, 'angle': 16384, 'linedefID': 218, 'direction': 0, 'offset': 0}
+{'startvertexID': 189, 'endvertexID': 190, 'angle': 49152, 'linedefID': 219, 'direction': 0, 'offset': 0}
+{'startvertexID': 190, 'endvertexID': 359, 'angle': 32768, 'linedefID': 434, 'direction': 0, 'offset': 0}
+{'startvertexID': 359, 'endvertexID': 360, 'angle': 32768, 'linedefID': 435, 'direction': 0, 'offset': 0}
+{'startvertexID': 360, 'endvertexID': 186, 'angle': 32768, 'linedefID': 436, 'direction': 0, 'offset': 0}
+{'startvertexID': 188, 'endvertexID': 361, 'angle': 0, 'linedefID': 437, 'direction': 0, 'offset': 0}
+{'startvertexID': 361, 'endvertexID': 362, 'angle': 0, 'linedefID': 438, 'direction': 0, 'offset': 0}
+{'startvertexID': 362, 'endvertexID': 189, 'angle': 0, 'linedefID': 439, 'direction': 0, 'offset': 0}
+{'startvertexID': 186, 'endvertexID': 392, 'angle': 27931, 'linedefID': 211, 'direction': 0, 'offset': 0}
+{'startvertexID': 188, 'endvertexID': 186, 'angle': 49152, 'linedefID': 218, 'direction': 1, 'offset': 0}
+{'startvertexID': 213, 'endvertexID': 188, 'angle': 58825, 'linedefID': 256, 'direction': 0, 'offset': 0}
+{'startvertexID': 226, 'endvertexID': 468, 'angle': 0, 'linedefID': 275, 'direction': 0, 'offset': 0}
+{'startvertexID': 455, 'endvertexID': 226, 'angle': 16384, 'linedefID': 307, 'direction': 0, 'offset': 384}
+{'startvertexID': 203, 'endvertexID': 204, 'angle': 53454, 'linedefID': 226, 'direction': 0, 'offset': 0}
+{'startvertexID': 204, 'endvertexID': 211, 'angle': 32768, 'linedefID': 251, 'direction': 0, 'offset': 0}
+{'startvertexID': 469, 'endvertexID': 212, 'angle': 6437, 'linedefID': 253, 'direction': 0, 'offset': 83}
+{'startvertexID': 212, 'endvertexID': 203, 'angle': 0, 'linedefID': 254, 'direction': 0, 'offset': 0}
+{'startvertexID': 190, 'endvertexID': 189, 'angle': 16384, 'linedefID': 219, 'direction': 1, 'offset': 0}
+{'startvertexID': 211, 'endvertexID': 190, 'angle': 38242, 'linedefID': 252, 'direction': 0, 'offset': 0}
+{'startvertexID': 189, 'endvertexID': 469, 'angle': 6437, 'linedefID': 253, 'direction': 0, 'offset': 0}
+{'startvertexID': 201, 'endvertexID': 202, 'angle': 51708, 'linedefID': 225, 'direction': 0, 'offset': 0}
+{'startvertexID': 204, 'endvertexID': 203, 'angle': 20685, 'linedefID': 226, 'direction': 1, 'offset': 0}
+{'startvertexID': 203, 'endvertexID': 201, 'angle': 2902, 'linedefID': 227, 'direction': 0, 'offset': 0}
+{'startvertexID': 202, 'endvertexID': 204, 'angle': 37605, 'linedefID': 228, 'direction': 0, 'offset': 0}
+{'startvertexID': 163, 'endvertexID': 165, 'angle': 49152, 'linedefID': 186, 'direction': 0, 'offset': 0}
+{'startvertexID': 166, 'endvertexID': 434, 'angle': 16384, 'linedefID': 187, 'direction': 0, 'offset': 0}
+{'startvertexID': 207, 'endvertexID': 166, 'angle': 16384, 'linedefID': 243, 'direction': 0, 'offset': 0}
+{'startvertexID': 208, 'endvertexID': 207, 'angle': 16384, 'linedefID': 245, 'direction': 0, 'offset': 0}
+{'startvertexID': 165, 'endvertexID': 208, 'angle': 32768, 'linedefID': 306, 'direction': 0, 'offset': 0}
+{'startvertexID': 208, 'endvertexID': 165, 'angle': 0, 'linedefID': 306, 'direction': 1, 'offset': 0}
+{'startvertexID': 270, 'endvertexID': 208, 'angle': 16384, 'linedefID': 330, 'direction': 0, 'offset': 0}
+{'startvertexID': 165, 'endvertexID': 271, 'angle': 49152, 'linedefID': 331, 'direction': 0, 'offset': 0}
+{'startvertexID': 271, 'endvertexID': 270, 'angle': 32768, 'linedefID': 336, 'direction': 0, 'offset': 0}
+{'startvertexID': 207, 'endvertexID': 206, 'angle': 32768, 'linedefID': 241, 'direction': 0, 'offset': 0}
+{'startvertexID': 205, 'endvertexID': 166, 'angle': 0, 'linedefID': 242, 'direction': 0, 'offset': 0}
+{'startvertexID': 166, 'endvertexID': 207, 'angle': 49152, 'linedefID': 243, 'direction': 1, 'offset': 0}
+{'startvertexID': 206, 'endvertexID': 205, 'angle': 16384, 'linedefID': 244, 'direction': 1, 'offset': 0}
+{'startvertexID': 229, 'endvertexID': 230, 'angle': 16384, 'linedefID': 277, 'direction': 0, 'offset': 0}
+{'startvertexID': 231, 'endvertexID': 232, 'angle': 49152, 'linedefID': 278, 'direction': 0, 'offset': 0}
+{'startvertexID': 232, 'endvertexID': 229, 'angle': 32768, 'linedefID': 304, 'direction': 1, 'offset': 0}
+{'startvertexID': 230, 'endvertexID': 272, 'angle': 13028, 'linedefID': 332, 'direction': 0, 'offset': 0}
+{'startvertexID': 273, 'endvertexID': 231, 'angle': 52508, 'linedefID': 335, 'direction': 0, 'offset': 0}
+{'startvertexID': 272, 'endvertexID': 273, 'angle': 0, 'linedefID': 337, 'direction': 0, 'offset': 0}
+{'startvertexID': 272, 'endvertexID': 270, 'angle': 16384, 'linedefID': 333, 'direction': 0, 'offset': 0}
+{'startvertexID': 271, 'endvertexID': 273, 'angle': 49152, 'linedefID': 334, 'direction': 0, 'offset': 0}
+{'startvertexID': 270, 'endvertexID': 271, 'angle': 0, 'linedefID': 336, 'direction': 1, 'offset': 0}
+{'startvertexID': 273, 'endvertexID': 272, 'angle': 32768, 'linedefID': 337, 'direction': 1, 'offset': 0}
+{'startvertexID': 224, 'endvertexID': 225, 'angle': 0, 'linedefID': 274, 'direction': 0, 'offset': 0}
+{'startvertexID': 233, 'endvertexID': 224, 'angle': 7037, 'linedefID': 279, 'direction': 0, 'offset': 0}
+{'startvertexID': 225, 'endvertexID': 459, 'angle': 49152, 'linedefID': 308, 'direction': 0, 'offset': 0}
+{'startvertexID': 350, 'endvertexID': 351, 'angle': 16384, 'linedefID': 423, 'direction': 0, 'offset': 0}
+{'startvertexID': 352, 'endvertexID': 349, 'angle': 49152, 'linedefID': 425, 'direction': 1, 'offset': 0}
+{'startvertexID': 349, 'endvertexID': 357, 'angle': 32768, 'linedefID': 430, 'direction': 0, 'offset': 0}
+{'startvertexID': 357, 'endvertexID': 350, 'angle': 32768, 'linedefID': 431, 'direction': 0, 'offset': 0}
+{'startvertexID': 351, 'endvertexID': 358, 'angle': 0, 'linedefID': 432, 'direction': 0, 'offset': 0}
+{'startvertexID': 358, 'endvertexID': 352, 'angle': 0, 'linedefID': 433, 'direction': 0, 'offset': 0}
+{'startvertexID': 348, 'endvertexID': 349, 'angle': 36124, 'linedefID': 422, 'direction': 0, 'offset': 0}
+{'startvertexID': 352, 'endvertexID': 353, 'angle': 13028, 'linedefID': 424, 'direction': 0, 'offset': 0}
+{'startvertexID': 349, 'endvertexID': 352, 'angle': 16384, 'linedefID': 425, 'direction': 0, 'offset': 0}
+{'startvertexID': 438, 'endvertexID': 355, 'angle': 55864, 'linedefID': 427, 'direction': 0, 'offset': 68}
